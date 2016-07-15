@@ -1,0 +1,940 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"id": "Agneash",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.41, 54.24 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "Andreas",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.44, 54.36 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "Baldhoon",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.44, 54.22 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "Baldrine",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.42, 54.2 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "Baldwin",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.53, 54.19 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "Ballabeg (Arbory)",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.69, 54.09 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "Ballabeg (Lonan)",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.42, 54.2 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "Ballacannell",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.4, 54.21 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "Ballacarnane Beg",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.61, 54.25 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "Ballachrink",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.4, 54.36 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "Ballagawne",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.73, 54.08 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "Ballajora",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.35, 54.28 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "Ballaleigh",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.59, 54.26 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "Ballamodha",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.64, 54.12 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "Ballaragh",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.38, 54.23 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "Ballasalla",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.63, 54.09 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "Ballaterson",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.33, 54.3 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "Ballaugh",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.55, 54.3 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "Ballelby",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.72, 54.16 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "Barregarrow",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.58, 54.25 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "Bishop's Court",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.58, 54.29 ]
+			},
+			"properties": {
+				"en": "Bishop’s Court"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Braaid",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.57, 54.15 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "Bradda East",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.76, 54.09 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "Bradda Head",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.76, 54.09 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "Bradda West",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.76, 54.09 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "Bride",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.4, 54.38 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "Calf of Man",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.81, 54.05 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "Castletown",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.66, 54.06 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "Churchtown",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.43, 54.31 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "Clay Head",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.39, 54.19 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "Colby",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.7, 54.09 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "Cornaa",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.41, 54.27 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "Corrany",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.38, 54.27 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "Cranstal",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.37, 54.39 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "Cregneash",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.78, 54.06 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "Cronk",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.56, 54.32 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "Crosby",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.57, 54.17 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "Dalby",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.74, 54.17 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "Derbyhaven",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.63, 54.07 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "Dhoo",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.46, 54.14 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "Dhoon",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.38, 54.24 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "Dhoor",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.4, 54.33 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "Douglas",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.48, 54.14 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "Dreemskerry",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.35, 54.29 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "Eairy",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.62, 54.16 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "Fistard",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.75, 54.06 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "Four Roads",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.75, 54.07 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "Foxdale",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.65, 54.16 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "Garey",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.43, 54.32 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "Glass",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.5, 54.15 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "Glen Auldyn",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.41, 54.3 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "Glen Mona",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.38, 54.26 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "Glenchass",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.76, 54.06 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "Glenmaye",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.71, 54.17 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "Glentruan",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.4, 54.38 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "Hillberry",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.48, 54.18 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "Isle of Man",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.47, 54.25 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "Jerby East",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.49, 54.36 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "Jurby Head",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.53, 54.35 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "Jurby West",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.54, 54.35 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "Kella",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.47, 54.32 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "Keristal",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.52, 54.12 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "Kerroogarroo",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.47, 54.34 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "Kirby",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.51, 54.15 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "Kirk Michael",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.59, 54.27 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "Knocksharry",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.65, 54.23 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "Laxey",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.41, 54.22 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "Lhen",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.49, 54.37 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "Lower Foxdale",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.65, 54.17 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "Maughold",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.32, 54.29 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "Maughold Head",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.31, 54.29 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "Minorca",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.41, 54.22 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "Mooragh",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.38, 54.31 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "Neb",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.69, 54.18 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "Newtown",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.57, 54.12 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "Old Laxey",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.39, 54.21 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "Onchan",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.46, 54.17 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "Orrisdale",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.58, 54.3 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "Patrick",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.69, 54.19 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "Peel",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.7, 54.22 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "Point of Ayre",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.37, 54.41 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "Port Erin",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.76, 54.08 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "Port St Mary",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.75, 54.06 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "Port e Vullen",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.35, 54.3 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "Pulrose",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.51, 54.14 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "Quine's Hill",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.54, 54.12 ]
+			},
+			"properties": {
+				"en": "Quine’s Hill"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Ramsey",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.38, 54.31 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "Regaby",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.41, 54.34 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "Rhencullen",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.58, 54.28 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "Rue Point",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.46, 54.39 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "Sandygate",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.5, 54.34 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "Santon Head",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.55, 54.1 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "Sartfield",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.54, 54.36 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "Silver Burn",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.63, 54.1 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "Spring Valley",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.52, 54.14 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "St John's",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.65, 54.19 ]
+			},
+			"properties": {
+				"en": "St John’s"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "St Judes",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.47, 54.33 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "St Mark's",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.61, 54.13 ]
+			},
+			"properties": {
+				"en": "St Mark’s"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Strang",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.51, 54.17 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "Sulby",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.49, 54.31 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "The Lhen Trench",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.5, 54.32 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "Tromode",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.49, 54.16 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "Union Mills",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -4.52, 54.16 ]
+			},
+			"properties": {}
+		}
+	]
+}

@@ -1,0 +1,9890 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"id": "Abercorn",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.66425, 45.02649 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Acton Vale",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.56582, 45.65007 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Adstock",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.12768, 46.05847 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Aguanish",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -62.08183, 50.21684 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Akulivik",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -78.12368, 60.85498 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Albanel",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.41236, 48.87381 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Albertville",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -67.36117, 48.33052 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Alleyn-et-Cawood",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Alma",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.64974, 48.5583 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Amherst",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -74.7402, 46.0414 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Amos",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -78.11708, 48.57232 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Amqui",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -67.45066, 48.46678 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Ange-Gardien",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.9361, 45.36512 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Angliers",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -79.23295, 47.55015 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Armagh",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -70.58486, 46.74141 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Arundel",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -74.60919, 45.98145 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Asbestos",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.93172, 45.77365 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Ascot Corner",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.77399, 45.45043 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Aston-Jonction",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.22949, 46.1746 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Auclair",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -68.64361, 47.73243 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Audet",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -70.73888, 45.65545 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Aumond",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -75.8941, 46.48053 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Aupaluk",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -69.56583, 59.29903 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Austin",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.2824, 45.18339 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Authier",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -78.8496, 48.73348 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Authier-Nord",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -78.86663, 48.8609 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Ayer's Cliff",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.03991, 45.1674 ]
+			},
+			"properties": {
+				"en": "Ayer’s Cliff"
+			},
+			"type": "Feature"
+		},
+		{
+			"id": "Baie-Comeau",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -68.19437, 49.21378 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Baie-D'Urfe",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Baie-James",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -76.57286, 50.94522 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Baie-Johan-Beetz",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -62.79857, 50.28345 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Baie-Saint-Paul",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -70.50545, 47.44103 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Baie-Sainte-Catherine",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -69.72507, 48.11912 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Baie-Trinite",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Baie-des-Sables",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -67.89207, 48.72024 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Baie-du-Febvre",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.71428, 46.13055 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Barkmere",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -74.5602, 45.99297 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Barnston-Ouest",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.96823, 45.08163 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Barraute",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -77.63531, 48.43717 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Batiscan",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.25298, 46.49273 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Beaconsfield",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.86644, 45.4307 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Bearn",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -79.36155, 47.29882 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Beauceville",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -70.77856, 46.21013 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Beauharnois",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.87019, 45.30987 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Beaulac-Garthby",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.37932, 45.83697 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Beaumont",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.02644, 46.82943 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Beaupre",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -70.89881, 47.05275 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Becancour",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Bedford",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.98385, 45.12239 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Begin",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.36127, 48.67164 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Belcourt",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -77.36978, 48.40331 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Belleterre",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -78.69961, 47.38344 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Beloeil",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.21108, 45.56747 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Berry",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -78.35989, 48.62806 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Berthier-sur-Mer",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Berthierville",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.18245, 46.08336 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Bethanie",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.42745, 45.51607 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Biencourt",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -68.60619, 47.93607 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Blainville",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.86899, 45.67117 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Blanc-Sablon",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -57.13521, 51.42861 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Blue Sea",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -76.08397, 46.18978 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Boileau",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -74.77244, 45.91026 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Bois-Franc",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -75.98215, 46.46661 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Bois-des-Filion",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.76033, 45.66646 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Boisbriand",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.83899, 45.61747 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Boischatel",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.13598, 46.89684 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Bolton-Est",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.34506, 45.19789 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Bolton-Ouest",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.4771, 45.26814 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Bonaventure",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -65.48056, 48.04184 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Bonne-Esperance",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -57.68337, 51.45783 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Bonsecours",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.3042, 45.40496 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Boucherville",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.44479, 45.59938 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Bouchette",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -75.95741, 46.203 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Bowman",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -75.6661, 45.91653 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Brebeuf",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Brigham",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.84383, 45.24698 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Bristol",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -76.4237, 45.52081 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Brome Lake",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Bromont",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.63783, 45.31395 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Brossard",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.46857, 45.45964 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Brownsburg-Chatham",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -74.40379, 45.67633 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Bryson",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -76.62166, 45.67974 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Bury",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.55371, 45.45267 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Cacouna",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -69.50258, 47.91688 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Calixa-Lavallee",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.27926, 45.73174 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Campbell's Bay",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -76.59941, 45.73341 ]
+			},
+			"properties": {
+				"en": "Campbell’s Bay"
+			},
+			"type": "Feature"
+		},
+		{
+			"id": "Candiac",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.51652, 45.3883 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Cantley",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -75.78146, 45.56563 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Cap-Chat",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -66.67426, 49.10014 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Cap-Saint-Ignace",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -70.45961, 47.03527 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Cap-Sante",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.78749, 46.72921 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Caplan",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -65.67924, 48.10118 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Carignan",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.29195, 45.46238 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Carleton-sur-Mer",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Cascapedia-Saint-Jules",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -65.35055, 48.05971 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Causapscal",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -67.22199, 48.35528 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Cayamant",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -76.24683, 46.13447 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Chambly",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.28929, 45.44308 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Chambord",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.05443, 48.42469 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Champlain",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.41381, 46.41073 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Champneuf",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -77.50065, 48.58791 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Chandler",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -64.69395, 48.37371 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Chapais",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -74.84791, 49.78484 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Charette",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.92534, 46.44288 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Charlemagne",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.48968, 45.72618 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Chartierville",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.19904, 45.30009 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Chateau-Richer",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.03322, 46.9601 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Chateauguay",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.7368, 45.36224 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Chazel",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -78.98504, 48.83901 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Chelsea",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -75.78245, 45.504 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Cheneville",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -74.59244, 45.62824 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Chertsey",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.90717, 46.09075 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Chesterville",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.81316, 45.96631 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Chibougamau",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -74.3697, 49.91542 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Chichester",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -77.11857, 45.9418 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Chisasibi",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -78.80115, 53.69156 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Chute-Saint-Philippe",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -75.27025, 46.64788 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Chute-aux-Outardes",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -68.39537, 49.12252 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Clarendon",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Clermont",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -70.22393, 47.6948 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Clerval",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -79.39769, 48.75461 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Cleveland",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.10782, 45.69509 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Cloridorme",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -64.85288, 49.18513 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Coaticook",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.80548, 45.13397 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Colombier",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -68.85089, 48.86596 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Compton",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.82741, 45.24256 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Contrecoeur",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.23245, 45.85008 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Cookshire-Eaton",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.62803, 45.41225 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Cote Saint-Luc",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.66256, 45.4684 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Cote-Nord-du-Golfe-du-Saint-Laurent",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Coteau-du-Lac",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Courcelles",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -70.98378, 45.87304 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Cowansville",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.74715, 45.20718 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Crabtree",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.46827, 45.96071 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Danville",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.0158, 45.78337 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Daveluyville",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.14705, 46.20172 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Degelis",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -68.65229, 47.54763 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Deleage",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -75.91802, 46.38098 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Delson",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.54281, 45.37907 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Denholm",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -75.75726, 45.81265 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Desbiens",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.94981, 48.41781 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Deschaillons-sur-Saint-Laurent",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Deschambault-Grondines",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.99676, 46.62131 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Deux-Montagnes",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.90143, 45.54184 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Disraeli",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.34907, 45.90007 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Dixville",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.77222, 45.06819 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Dolbeau-Mistassini",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.21639, 48.87923 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Dollard-des-Ormeaux",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.82094, 45.48741 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Donnacona",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.728, 46.67641 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Dorval",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.75489, 45.44853 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Dosquet",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.52789, 46.46617 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Drummondville",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.49534, 45.87655 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Dudswell",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.59129, 45.58948 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Duhamel",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -75.07044, 45.98315 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Duhamel-Ouest",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -79.43656, 47.36464 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Dundee",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Dunham",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.79913, 45.13338 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Duparquet",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -79.22514, 48.5069 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Dupuy",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -79.35768, 48.82924 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Durham-Sud",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.34025, 45.66403 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "East Angus",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.63019, 45.49315 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "East Broughton",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.07851, 46.22318 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "East Farnham",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.77815, 45.2401 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "East Hereford",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.50296, 45.07679 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Eastmain",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -78.51688, 52.23358 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Eastman",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.3158, 45.30008 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Egan-Sud",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -75.9811, 46.40076 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Elgin",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -74.2655, 45.0358 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Entrelacs",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -74.00279, 46.11532 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Escuminac",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -66.49537, 48.12273 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Esprit-Saint",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -68.56055, 48.06924 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Esterel",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -74.02955, 46.04542 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Farnham",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.97713, 45.28387 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Fassett",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -74.86788, 45.64447 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Ferland-et-Boilleau",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Ferme-Neuve",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -75.45139, 46.69775 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Fermont",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -67.09076, 52.79579 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Forestville",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -69.08097, 48.73749 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Fort-Coulonge",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -76.73272, 45.85011 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Fossambault-sur-le-Lac",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Frampton",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -70.81531, 46.45414 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Franklin",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.95436, 45.09553 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Franquelin",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -67.92967, 49.28936 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Frelighsburg",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.83864, 45.05274 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Frontenac",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -70.84271, 45.57276 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Fugereville",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -79.1178, 47.43253 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Gallichan",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -79.28904, 48.60208 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Gaspe",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -64.48829, 48.83177 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Gatineau",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -75.70035, 45.4768 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Girardville",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.54893, 49.00003 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Godbout",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -67.61491, 49.3302 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Godmanchester",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -74.25136, 45.0754 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Gore",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -74.24981, 45.76662 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Gracefield",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -76.05331, 46.09183 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Granby",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.73518, 45.40224 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Grand-Metis",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Grand-Remous",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -75.92154, 46.62209 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Grand-Saint-Esprit",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.51371, 46.1954 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Grande-Riviere",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -64.49555, 48.39986 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Grande-Vallee",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Grandes-Piles",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.7302, 46.68748 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Grenville",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -74.59991, 45.63037 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Grenville-sur-la-Rouge",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Gros-Mecatina",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -59.00029, 50.79745 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Grosse-Ile",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Grosses-Roches",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -67.16494, 48.93896 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Guerin",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -79.22909, 47.66466 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Ham-Nord",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.65227, 45.86411 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Hampden",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Hampstead",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.64449, 45.48048 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Harrington",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -74.45997, 45.7195 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Hatley",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.0399, 45.17105 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Havelock",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.76676, 45.04703 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Havre-Saint-Pierre",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -63.60432, 50.24419 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Hebertville",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.68197, 48.39407 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Hebertville-Station",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.65307, 48.44891 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Hemmingford",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.59055, 45.04478 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Henryville",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.18245, 45.13338 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Herouxville",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Hinchinbrooke",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -74.11772, 45.04915 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Honfleur",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -70.89186, 46.65603 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Hope",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -65.16477, 48.04852 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Howick",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.8492, 45.18338 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Huberdeau",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -74.47561, 46.12925 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Hudson",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -74.17213, 45.44688 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Huntingdon",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -74.17661, 45.09041 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Inukjuak",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -78.11816, 58.45591 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Inverness",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.60773, 46.27877 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Irlande",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.49354, 46.07316 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Ivry-sur-le-Lac",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Ivujivik",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -77.92865, 62.41379 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Joliette",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.44282, 46.02322 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Kamouraska",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -69.86264, 47.56397 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Kangiqsualujjuaq",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -65.9582, 58.71095 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Kangiqsujuaq",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.95795, 61.59525 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Kangirsuk",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -70.01185, 60.03418 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Kawawachikamach",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -66.80199, 54.90298 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Kazabazua",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -76.01606, 45.95011 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Kiamika",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -75.38313, 46.42083 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Kingsbury",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.1491, 45.58338 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Kingsey Falls",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.04629, 45.86131 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Kinnear's Mills",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.37637, 46.21969 ]
+			},
+			"properties": {
+				"en": "Kinnear’s Mills"
+			},
+			"type": "Feature"
+		},
+		{
+			"id": "Kipawa",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -78.98291, 46.78343 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Kirkland",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.86632, 45.4506 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Kuujjuaq",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -68.41633, 58.10129 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Kuujjuarapik",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -77.74332, 55.29648 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "L'Ancienne-Lorette",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.35815, 46.80457 ]
+			},
+			"properties": {
+				"en": "L’Ancienne-Lorette"
+			},
+			"type": "Feature"
+		},
+		{
+			"id": "L'Ange-Gardien",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -75.43331, 45.61576 ]
+			},
+			"properties": {
+				"en": "L’Ange-Gardien"
+			},
+			"type": "Feature"
+		},
+		{
+			"id": "L'Anse-Saint-Jean",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -70.74266, 48.48941 ]
+			},
+			"properties": {
+				"en": "L’Anse-Saint-Jean"
+			},
+			"type": "Feature"
+		},
+		{
+			"id": "L'Ascension",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -74.82722, 46.54987 ]
+			},
+			"properties": {
+				"en": "L’Ascension"
+			},
+			"type": "Feature"
+		},
+		{
+			"id": "L'Ascension-de-Notre-Seigneur",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.67986, 48.69421 ]
+			},
+			"properties": {
+				"en": "L’Ascension-de-Notre-Seigneur"
+			},
+			"type": "Feature"
+		},
+		{
+			"id": "L'Ascension-de-Patapedia",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -67.24949, 47.93345 ]
+			},
+			"properties": {
+				"en": "L’Ascension-de-Patapedia"
+			},
+			"type": "Feature"
+		},
+		{
+			"id": "L'Assomption",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.42741, 45.84844 ]
+			},
+			"properties": {
+				"en": "L’Assomption"
+			},
+			"type": "Feature"
+		},
+		{
+			"id": "L'Avenir",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.30383, 45.76254 ]
+			},
+			"properties": {
+				"en": "L’Avenir"
+			},
+			"type": "Feature"
+		},
+		{
+			"id": "L'Epiphanie",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.49318, 45.85108 ]
+			},
+			"properties": {
+				"en": "L’Epiphanie"
+			},
+			"type": "Feature"
+		},
+		{
+			"id": "L'Ile-Cadieux",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "L'Ile-Dorval",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "L'Ile-Perrot",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "L'Ile-d'Anticosti",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "L'Ile-du-Grand-Calumet",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "L'Isle-Verte",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -68.89245, 47.38594 ]
+			},
+			"properties": {
+				"en": "L’Isle-Verte"
+			},
+			"type": "Feature"
+		},
+		{
+			"id": "L'Isle-aux-Allumettes",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "L'Isle-aux-Coudres",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "L'Islet",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -70.35027, 47.10297 ]
+			},
+			"properties": {
+				"en": "L’Islet"
+			},
+			"type": "Feature"
+		},
+		{
+			"id": "La Bostonnais",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "La Conception",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -74.7052, 46.16195 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "La Corne",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -78.01349, 48.35465 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "La Dore",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.64881, 48.71389 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "La Durantaye",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -70.84553, 46.82577 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "La Guadeloupe",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -70.94522, 45.96117 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "La Macaza",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -74.85088, 46.45309 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "La Malbaie",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -70.15206, 47.65664 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "La Martre",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -66.16149, 49.20538 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "La Minerve",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -74.93736, 46.2563 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "La Morandiere",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -77.79529, 48.69808 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "La Motte",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -78.12344, 48.35745 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "La Patrie",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.2457, 45.40186 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "La Peche",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "La Pocatiere",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -70.03225, 47.36901 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "La Prairie",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.48784, 45.41186 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "La Presentation",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "La Redemption",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -67.86487, 48.43569 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "La Reine",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -79.51136, 48.86622 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "La Sarre",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -79.20308, 48.80086 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "La Trinite-des-Monts",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -68.48122, 48.12829 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "La Tuque",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.78186, 47.43123 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "La Visitation-de-Yamaska",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.57841, 46.11238 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "La Visitation-de-l'Ile-Dupas",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Labelle",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -74.73492, 46.27984 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Labrecque",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.42745, 48.72757 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Lac-Beauport",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.28339, 46.94571 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Lac-Bouchette",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.18103, 48.25834 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Lac-Brome",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.51852, 45.21675 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Lac-Delage",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Lac-Drolet",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -70.84904, 45.71678 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Lac-Edouard",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.27179, 47.66021 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Lac-Etchemin",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -70.52224, 46.38809 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Lac-Frontiere",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -70.03491, 47.38522 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Lac-Megantic",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -70.88862, 45.58008 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Lac-Poulin",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -70.82422, 46.09717 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Lac-Saguay",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -75.14238, 46.4962 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Lac-Saint-Joseph",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Lac-Saint-Paul",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -75.31394, 46.73621 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Lac-Sainte-Marie",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -75.94935, 45.95011 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Lac-Sergent",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.72896, 46.86905 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Lac-Simon",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -77.35257, 48.05862 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Lac-Superieur",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Lac-Tremblant-Nord",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Lac-au-Saumon",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -67.34739, 48.42106 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Lac-aux-Sables",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.3991, 46.86676 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Lac-des-Aigles",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -68.68041, 47.98899 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Lac-des-Ecorces",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Lac-des-Plages",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -74.89927, 46.00009 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Lac-des-Seize-Iles",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Lac-du-Cerf",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Lachute",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -74.34147, 45.65317 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Lacolle",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.39036, 45.08163 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Laforce",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -78.727, 47.53598 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Lamarche",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.42512, 48.80477 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Lambton",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.16723, 45.84646 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Landrienne",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -77.95465, 48.54827 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Lanoraie",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.23951, 45.96287 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Lantier",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -74.25857, 46.14219 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Larouche",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.51579, 48.45009 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Latulipe-et-Gaboury",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Launay",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -78.53592, 48.64451 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Laurier-Station",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.63321, 46.54026 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Laurierville",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.66759, 46.2995 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Laval",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.74271, 45.58095 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Lavaltrie",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.3007, 45.89607 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Laverlochere",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -79.30773, 47.42611 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Lawrenceville",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.34591, 45.41785 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Lebel-sur-Quevillon",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Leclercville",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.0033, 46.57223 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Lefebvre",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.46959, 45.68862 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Lejeune",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -68.5764, 47.76783 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Lemieux",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.11579, 46.30005 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Lery",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.80472, 45.34457 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Les Bergeronnes",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -69.54507, 48.23985 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Les Cedres",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -74.07579, 45.33194 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Les Coteaux",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -74.22409, 45.27034 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Les Eboulements",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -70.32306, 47.4787 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Les Escoumins",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -69.4063, 48.34278 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Les Hauteurs",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -68.10914, 48.38248 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Les Iles-de-la-Madeleine",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Les Mechins",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Levis",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.19081, 46.78831 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Lingwick",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.38843, 45.58247 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Lochaber",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -75.26601, 45.6668 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Lochaber-Partie-Ouest",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -75.30784, 45.60643 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Longue-Pointe-de-Mingan",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -64.14867, 50.26684 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Longue-Rive",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -69.3169, 48.43724 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Longueuil",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.4806, 45.53039 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Lorraine",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.78316, 45.66924 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Lorrainville",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -79.36154, 47.35147 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Lotbiniere",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.89351, 46.60634 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Louiseville",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.94554, 46.25494 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Low",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -75.96161, 45.80946 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Lyster",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.61138, 46.37145 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Macamic",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -78.9899, 48.7557 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Maddington",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.2491, 46.25005 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Magog",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.14212, 45.27288 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Malartic",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -78.12211, 48.13455 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Mandeville",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.35245, 46.35907 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Maniwaki",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -75.97438, 46.37651 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Manseau",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.00534, 46.36629 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Mansfield-et-Pontefract",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Maria",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -65.98389, 48.17227 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Maricourt",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.30317, 45.55889 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Marieville",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.16158, 45.43143 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Marsoui",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -66.06834, 49.2145 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Marston",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -70.95671, 45.55959 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Martinville",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.71515, 45.27815 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Mascouche",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.63158, 45.74358 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Maskinonge",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.01788, 46.2286 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Massueville",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.93343, 45.91151 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Matagami",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -77.62939, 49.75931 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Matane",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -67.53013, 48.84382 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Matapedia",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -66.95249, 47.97395 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Mayo",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -75.34956, 45.6687 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "McMasterville",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Melbourne",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.1658, 45.58338 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Mercier",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.74025, 45.31729 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Messines",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -76.02196, 46.23608 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Metabetchouan-Lac-a-la-Croix",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Metis-sur-Mer",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Milan",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.13235, 45.60008 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Mille-Isles",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -74.21986, 45.81546 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Mirabel",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -74.03738, 45.68142 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Mistissini",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.87301, 50.41437 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Moffet",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -78.94963, 47.55015 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Mont-Carmel",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -69.85571, 47.44133 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Mont-Joli",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -68.19155, 48.5881 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Mont-Laurier",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -75.49417, 46.55064 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Mont-Royal",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.64699, 45.51396 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Mont-Saint-Gregoire",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.16191, 45.33833 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Mont-Saint-Hilaire",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.1885, 45.55588 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Mont-Saint-Michel",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -75.33258, 46.78341 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Mont-Saint-Pierre",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -65.81546, 49.21679 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Mont-Tremblant",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -74.59424, 46.20699 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Montcalm",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -74.49889, 45.96631 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Montcerf-Lytton",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -76.04394, 46.54038 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Montebello",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -74.94859, 45.6475 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Montmagny",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -70.5572, 46.9789 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Montreal",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.58428, 45.57549 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Montreal West",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Montreal-Est",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.50783, 45.62973 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Morin-Heights",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -74.2457, 45.90363 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Mount Royal",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Mulgrave-et-Derry",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -75.35401, 45.76571 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Murdochville",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -65.49167, 48.95848 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Namur",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -74.93362, 45.89855 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Nantes",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.02035, 45.63001 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Napierville",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.41036, 45.19246 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Natashquan",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -61.81157, 50.18322 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Nedelec",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -79.42308, 47.69503 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Nemaska",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Neuville",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.58123, 46.69787 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "New Carlisle",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -65.31881, 48.01108 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "New Richmond",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -65.85737, 48.16065 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Newport",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -64.76923, 48.23093 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Nicolet",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.61197, 46.22909 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Nominingue",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -75.00627, 46.39902 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Normandin",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.52994, 48.83698 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Normetal",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -79.3618, 48.99475 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "North Hatley",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.97307, 45.27525 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Notre-Dame-Auxiliatrice-de-Buckland",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -70.54757, 46.61796 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Notre-Dame-de-Bonsecours",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Notre-Dame-de-Ham",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.73858, 45.90912 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Notre-Dame-de-Lorette",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.37196, 49.0912 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Notre-Dame-de-Lourdes",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.46849, 46.08317 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Notre-Dame-de-Montauban",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.33338, 46.86213 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Notre-Dame-de-Pontmain",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -75.62199, 46.28397 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Notre-Dame-de-Stanbridge",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.03675, 45.17075 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Notre-Dame-de-l'Ile-Perrot",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Notre-Dame-de-la-Merci",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -74.05446, 46.23495 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Notre-Dame-de-la-Paix",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -74.94066, 45.80918 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Notre-Dame-de-la-Salette",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -75.58621, 45.76815 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Notre-Dame-des-Anges",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.23354, 46.81436 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Notre-Dame-des-Bois",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.13323, 45.39458 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Notre-Dame-des-Monts",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -70.38906, 47.66672 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Notre-Dame-des-Neiges",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.92024, 46.44396 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Notre-Dame-des-Pins",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -70.71487, 46.18286 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Notre-Dame-des-Prairies",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.43021, 46.04467 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Notre-Dame-des-Sept-Douleurs",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -69.4499, 48.0079 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Notre-Dame-du-Bon-Conseil",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Notre-Dame-du-Laus",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Notre-Dame-du-Mont-Carmel",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Notre-Dame-du-Nord",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Notre-Dame-du-Portage",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Notre-Dame-du-Rosaire",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Notre-Dame-du-Sacre-Coeur-d'Issoudun",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Nouvelle",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -66.32043, 48.13596 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Noyan",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.29778, 45.06637 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Ogden",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.15338, 45.02321 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Oka",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -74.08819, 45.46489 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Orford",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.16777, 45.3137 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Ormstown",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.99184, 45.12174 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Otter Lake",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -76.4327, 45.85011 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Otterburn Park",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.20499, 45.54772 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Packington",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -68.78817, 47.42661 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Padoue",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -67.99164, 48.57462 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Palmarolle",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -79.19889, 48.66075 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Papineauville",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -75.01748, 45.61686 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Parisville",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.06207, 46.51865 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Paspebiac",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -65.25613, 48.02449 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Perce",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -64.21725, 48.52314 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Peribonka",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.05186, 48.76745 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Petit-Saguenay",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -69.97548, 48.09658 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Petite-Riviere-Saint-Francois",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -75.2623, 48.07326 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Petite-Vallee",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -65.03477, 49.21855 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Piedmont",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -74.1221, 45.89431 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Pierreville",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.80966, 46.07031 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Pincourt",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.9797, 45.38447 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Piopolis",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -70.90344, 45.48637 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Plaisance",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -75.11344, 45.60599 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Plessisville",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.77128, 46.21856 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Pohenegamook",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -69.28872, 47.49381 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Pointe-Calumet",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.9658, 45.50003 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Pointe-Claire",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.80967, 45.43327 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Pointe-Fortune",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -74.36672, 45.52531 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Pointe-Lebel",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -68.15224, 49.01671 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Pointe-a-la-Croix",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -66.68505, 48.01633 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Pointe-aux-Outardes",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -68.41822, 49.04276 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Pointe-des-Cascades",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.97172, 45.33163 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Pont-Rouge",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.69326, 46.75527 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Pontiac",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -76.16856, 45.55084 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Port-Cartier",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -66.8749, 50.02153 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Port-Daniel-Gascons",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Portage-du-Fort",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Portneuf",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.8913, 46.69183 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Portneuf-sur-Mer",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Potton",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.35724, 45.08631 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Poularies",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -78.98458, 48.66075 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Preissac",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -78.48577, 48.4552 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Prevost",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -74.04133, 45.87505 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Price",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -68.12656, 48.60193 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Princeville",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.8741, 46.17228 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Puvirnituq",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -77.29128, 60.05397 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Quaqtaq",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -69.57145, 61.02538 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Quebec",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.26116, 46.82086 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Racine",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.24953, 45.50328 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Ragueneau",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -68.53332, 49.07049 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Rapide-Danseur",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -79.29914, 48.55122 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Rapides-des-Joachims",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -77.68853, 46.19463 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Rawdon",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.71002, 46.04446 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Remigny",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -79.25005, 47.75812 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Repentigny",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.44953, 45.74195 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Richelieu",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.24482, 45.44315 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Richmond",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.14121, 45.65803 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Rigaud",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -74.30148, 45.47891 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Rimouski",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -68.52345, 48.44845 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Ripon",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -75.09885, 45.78518 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Ristigouche-Partie-Sud-Est",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -66.81697, 48.01746 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Riviere-Beaudette",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Riviere-Bleue",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -69.73272, 47.6451 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Riviere-Eternite",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -70.58828, 48.18599 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Riviere-Heva",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -78.14016, 48.23405 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Riviere-Ouelle",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -69.41124, 47.73563 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Riviere-Rouge",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -74.86155, 46.4273 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Riviere-Saint-Jean",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -64.32263, 50.29891 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Riviere-a-Claude",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Riviere-a-Pierre",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Riviere-au-Tonnerre",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -64.91261, 49.74972 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Riviere-du-Loup",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Roberval",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.22601, 48.51797 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Rochebaucourt",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -77.49893, 48.67526 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Roquemaure",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -79.34782, 48.61094 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Rosemere",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.78032, 45.64567 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Rougemont",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.06669, 45.4407 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Rouyn-Noranda",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -79.0262, 48.23965 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Roxton",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.53422, 45.55355 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Roxton Falls",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.52127, 45.57368 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Roxton Pond",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.66162, 45.47648 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sacre-Coeur",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sacre-Coeur-de-Jesus",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.08129, 46.21708 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saguenay",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.11405, 48.39696 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Adalbert",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -69.90541, 46.85802 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Adelme",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -67.32267, 48.81998 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Adelphe",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Adolphe-d'Howard",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Adrien",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.72098, 45.82025 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Adrien-d'Irlande",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Agapit",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.4283, 46.56205 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Aime",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.02085, 45.86746 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Aime-des-Lacs",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -70.30108, 47.68192 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Aime-du-Lac-des-Iles",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Alban",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.0789, 46.71756 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Albert",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.08241, 46.00012 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Alexandre",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -69.62107, 47.68267 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Alexandre-de-Kamouraska",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -69.61976, 47.6833 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Alexandre-des-Lacs",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -67.30448, 48.47577 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Alexis",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Alexis-de-Matapedia",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -68.24826, 48.58201 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Alexis-des-Monts",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.14131, 46.46252 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Alfred",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -70.81847, 46.14826 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Alphonse",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Alphonse-Rodriguez",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.71139, 46.18272 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Alphonse-de-Granby",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.78966, 45.3128 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Amable",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.2946, 45.65191 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Ambroise",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.32084, 48.55928 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Ambroise-de-Kildare",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.5175, 46.08026 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Anaclet-de-Lessard",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -68.43122, 48.42022 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Andre",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Andre-Avellin",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -74.34305, 45.5447 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Andre-d'Argenteuil",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -74.33583, 45.56245 ]
+			},
+			"properties": {
+				"en": "Saint-Andre-d’Argenteuil"
+			},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Andre-de-Restigouche",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -68.24826, 48.58201 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Andre-du-Lac-Saint-Jean",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Anicet",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -74.36877, 45.1321 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Anselme",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -70.96773, 46.62887 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Antoine-de-Tilly",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.57284, 46.66134 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Antoine-de-l'Isle-aux-Grues",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Antoine-sur-Richelieu",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Antonin",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -69.47702, 47.76096 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Apollinaire",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.51267, 46.61348 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Armand",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.04046, 45.03235 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Arsene",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -69.06496, 47.56795 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Athanase",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.22783, 45.2837 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Aubert",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -70.19345, 47.17174 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Augustin-de-Desmaures",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Augustin-de-Woburn",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Barnabe-Sud",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Barthelemy",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.8439, 45.95571 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Basile",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.81667, 46.75 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Basile-le-Grand",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Benjamin",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -70.59119, 46.28421 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Benoit-Labre",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -70.78869, 46.07007 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Benoit-du-Lac",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Bernard",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.13218, 46.5004 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Bernard-de-Lacolle",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.40927, 45.06679 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Bernard-de-Michaudville",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.06415, 45.83245 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Blaise-sur-Richelieu",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Bonaventure",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.68005, 45.96529 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Boniface",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Bruno",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.67558, 48.47177 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Bruno-de-Guigues",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -79.43416, 47.46141 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Bruno-de-Kamouraska",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -69.68606, 47.50159 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Bruno-de-Montarville",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.35073, 45.53335 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Calixte",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.84718, 45.95127 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Camille",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.7021, 45.68298 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Camille-de-Lellis",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Casimir",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.13743, 46.65492 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Celestin",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.43284, 46.21322 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Cesaire",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.00089, 45.41351 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Charles-Borromee",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.45905, 46.04619 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Charles-Garnier",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -68.0452, 48.34227 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Charles-de-Bellechasse",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -70.94636, 46.7588 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Charles-de-Bourget",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.40186, 48.4996 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Charles-sur-Richelieu",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Christophe-d'Arthabaska",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.93823, 46.0333 ]
+			},
+			"properties": {
+				"en": "Saint-Christophe-d’Arthabaska"
+			},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Chrysostome",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.75937, 45.10097 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Claude",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.91659, 45.6269 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Clement",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -69.09396, 47.92227 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Cleophas",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -67.72905, 48.52172 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Cleophas-de-Brandon",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.41262, 46.22213 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Clet",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -74.2232, 45.35269 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Colomban",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -74.13746, 45.73997 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Come",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.55018, 46.41178 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Come-Liniere",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -70.37779, 46.17798 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Constant",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.56505, 45.37928 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Cuthbert",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.2268, 46.14957 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Cyprien",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.40416, 45.18928 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Cyprien-de-Napierville",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Cyrille-de-Lessard",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Cyrille-de-Wendover",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.42196, 45.93265 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Damase",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.00681, 45.52649 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Damase-de-L'Islet",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Damien",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.48458, 46.33593 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Damien-de-Buckland",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -70.65546, 46.6228 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-David",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.85867, 45.95139 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-David-de-Falardeau",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.10875, 48.62065 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Denis",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Denis-de-Brompton",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Denis-sur-Richelieu",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Didace",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.27746, 46.32958 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Dominique",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.85246, 45.56619 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Dominique-du-Rosaire",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Donat",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -74.22475, 46.3199 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Edmond-de-Grantham",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Edmond-les-Plaines",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Edouard",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Edouard-de-Fabre",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Edouard-de-Lotbiniere",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.59449, 46.6354 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Edouard-de-Maskinonge",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.1457, 46.32973 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Elie-de-Caxton",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Eloi",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -69.22614, 48.0397 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Elphege",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Elzear",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.41783, 46.473 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Elzear-de-Temiscouata",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -69.09997, 47.59013 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Emile-de-Suffolk",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -74.9144, 45.93038 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Ephrem-de-Beauce",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -70.95378, 46.05764 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Epiphane",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -69.33171, 47.89701 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Esprit",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.66606, 45.90007 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Etienne-de-Beauharnois",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.91531, 45.24659 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Etienne-de-Bolton",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.34684, 45.22049 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Etienne-des-Gres",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.53298, 46.58435 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Eugene",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Eugene-d'Argentenay",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.28549, 48.97858 ]
+			},
+			"properties": {
+				"en": "Saint-Eugene-d’Argentenay"
+			},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Eugene-de-Guigues",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -79.35135, 47.51131 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Eugene-de-Ladriere",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Eusebe",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -68.96376, 47.51121 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Eustache",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.89141, 45.57033 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Evariste-de-Forsyth",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -70.69813, 45.74357 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Fabien",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -68.86497, 48.2993 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Fabien-de-Panet",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -70.15225, 46.64849 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Faustin-Lac-Carre",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -74.47838, 46.11311 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Felicien",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.44239, 48.65009 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Felix-d'Otis",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -70.62389, 48.27343 ]
+			},
+			"properties": {
+				"en": "Saint-Felix-d’Otis"
+			},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Felix-de-Dalquier",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -78.11416, 48.67786 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Felix-de-Kingsey",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.19357, 45.79631 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Felix-de-Valois",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.42867, 46.16842 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Ferdinand",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.79889, 45.57648 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Ferreol-les-Neiges",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Flavien",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.59781, 46.516 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Fortunat",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.59979, 45.97251 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Francois-Xavier-de-Brompton",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Francois-Xavier-de-Viger",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -69.24133, 47.85562 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Francois-d'Assise",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -67.15899, 47.98395 ]
+			},
+			"properties": {
+				"en": "Saint-Francois-d’Assise"
+			},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Francois-de-Sales",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.20099, 48.22927 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Francois-de-l'Ile-d'Orleans",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Francois-de-la-Riviere-du-Sud",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Francois-du-Lac",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.8167, 46.06364 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Frederic",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -70.97288, 46.29648 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Fulgence",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -70.92679, 48.45534 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Gabriel",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.38318, 46.29275 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Gabriel-Lalemant",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Gabriel-de-Brandon",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.36667, 46.28333 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Gabriel-de-Rimouski",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -68.16948, 48.42259 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Gabriel-de-Valcartier",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.46926, 46.95878 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Gedeon",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.78829, 48.48107 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Gedeon-de-Beauce",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -70.42441, 46.20974 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Georges",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -70.6723, 46.12013 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Georges-de-Clarenceville",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.24388, 45.06328 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Georges-de-Windsor",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.83857, 45.69755 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Gerard-Majella",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.83678, 46.00531 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Germain",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -69.8096, 47.59202 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Germain-de-Grantham",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.56968, 45.84148 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Gervais",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -70.88885, 46.71603 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Gilbert",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.99468, 46.93236 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Gilles",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.3635, 46.51044 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Godefroi",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -65.10927, 48.07665 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Guillaume",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.76554, 45.88356 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Guy",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -68.80342, 48.05118 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Henri",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.07508, 46.69452 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Henri-de-Taillon",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.81265, 48.65182 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Hermenegilde",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.68349, 45.11327 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Hilaire-de-Dorset",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Hilarion",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -70.40073, 47.57739 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Hippolyte",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -74.01265, 45.92444 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Honore",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Honore-de-Shenley",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Honore-de-Temiscouata",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -69.605, 47.58711 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Hubert-de-Riviere-du-Loup",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Hugues",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.85764, 45.7944 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Hyacinthe",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.94278, 45.62664 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Ignace-de-Loyola",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.12835, 46.06573 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Ignace-de-Stanbridge",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.94825, 45.16732 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Irenee",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -70.21997, 47.52949 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Isidore",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.5124, 45.26693 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Isidore-de-Clifton",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.56148, 45.27074 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Jacques",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.5769, 45.9536 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Jacques-de-Leeds",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.34143, 46.2853 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Jacques-le-Majeur-de-Wolfestown",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Jacques-le-Mineur",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Janvier-de-Joly",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.66876, 46.48458 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Jean-Baptiste",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.08564, 45.5171 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Jean-Port-Joli",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -70.26933, 47.21415 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Jean-de-Brebeuf",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.45855, 46.18106 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Jean-de-Cherbourg",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -67.10578, 48.85941 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Jean-de-Dieu",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -69.04306, 48.0033 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Jean-de-Matha",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.5266, 46.23341 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Jean-de-l'Ile-d'Orleans",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Jean-de-la-Lande",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Jean-sur-Richelieu",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Jerome",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -74.00073, 45.77992 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Joachim",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -70.84722, 47.0605 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Joachim-de-Shefford",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.52161, 45.45206 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Joseph-de-Beauce",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -70.87667, 46.30828 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Joseph-de-Coleraine",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Joseph-de-Ham-Sud",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.66667, 45.83333 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Joseph-de-Kamouraska",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -69.64276, 47.61021 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Joseph-de-Lepage",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -68.14665, 48.56389 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Joseph-de-Sorel",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.12457, 46.04256 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Joseph-des-Erables",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Joseph-du-Lac",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -74.00519, 45.53311 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Jude",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.98819, 45.77399 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Julien",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.53117, 46.00007 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Just-de-Bretenieres",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -70.72134, 46.52405 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Juste-du-Lac",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -68.72214, 47.647 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Justin",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.08612, 46.25175 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Lambert",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.51072, 45.50111 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Lambert-de-Lauzon",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.21115, 46.58768 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Laurent-de-l'Ile-d'Orleans",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Lazare",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -70.80482, 46.65291 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Lazare-de-Bellechasse",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -70.80191, 46.65291 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Leandre",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -67.6042, 48.73145 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Leon-de-Standon",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Leon-le-Grand",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Leonard-d'Aston",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Leonard-de-Portneuf",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.89196, 46.88173 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Liboire",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.75885, 45.65515 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Liguori",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.5702, 46.0099 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Lin-Laurentides",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.75628, 45.85212 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Louis",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Louis-de-Blandford",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.00233, 46.25039 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Louis-de-Gonzague",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -70.31645, 46.26089 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Louis-de-Gonzague-du-Cap-Tourmente",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Louis-du-Ha! Ha!",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Luc-de-Bellechasse",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -70.45097, 46.48108 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Luc-de-Vincennes",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.4054, 46.48912 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Lucien",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.2533, 45.86372 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Ludger",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -70.69479, 45.74297 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Ludger-de-Milot",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.81763, 48.89723 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Magloire",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -70.28855, 46.57674 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Majorique-de-Grantham",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Malachie",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -70.78302, 46.53554 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Malo",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.5, 45.2 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Marc-de-Figuery",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -78.04645, 48.46649 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Marc-des-Carrieres",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -70.5413, 47.54336 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Marc-du-Lac-Long",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Marc-sur-Richelieu",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Marcel",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Marcel-de-Richelieu",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.8924, 45.85929 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Marcellin",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -68.2893, 48.33423 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Martin",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -70.65994, 45.95938 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Mathias-sur-Richelieu",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Mathieu",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Mathieu-d'Harricana",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Mathieu-de-Beloeil",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.27168, 45.58011 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Mathieu-de-Rioux",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -68.94446, 48.18599 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Mathieu-du-Parc",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Maurice",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.52968, 46.46837 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Maxime-du-Mont-Louis",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Medard",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -68.89835, 48.0451 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Michel",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.56588, 45.23338 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Michel-de-Bellechasse",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -70.90533, 46.87234 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Michel-des-Saints",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.91284, 46.67871 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Michel-du-Squatec",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Modeste",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -69.40184, 47.83177 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Moise",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -67.78565, 48.5517 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Narcisse",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.46943, 46.56435 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Narcisse-de-Beaurivage",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.23012, 46.48273 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Narcisse-de-Rimouski",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -68.43401, 48.2881 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Nazaire",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.55, 48.58333 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Nazaire-d'Acton",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.64023, 45.73752 ]
+			},
+			"properties": {
+				"en": "Saint-Nazaire-d’Acton"
+			},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Nazaire-de-Dorchester",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Neree",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -70.72466, 46.72657 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Noel",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -67.83465, 48.58274 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Norbert",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.31583, 46.16924 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Norbert-d'Arthabaska",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.83156, 46.11296 ]
+			},
+			"properties": {
+				"en": "Saint-Norbert-d’Arthabaska"
+			},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Octave-de-Metis",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Odilon-de-Cranbourne",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Omer",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -65.10766, 48.1649 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Onesime-d'Ixworth",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Ours",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.14886, 45.8881 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Pacome",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -69.94875, 47.40881 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Pamphile",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -69.77589, 46.96028 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Pascal",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -69.80224, 47.52601 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Patrice-de-Beaurivage",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.24621, 46.65179 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Patrice-de-Sherrington",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.47889, 45.1789 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Paul",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.88333, 45.43333 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Paul-d'Abbotsford",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Paul-de-Montminy",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -70.30415, 46.69822 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Paul-de-l'Ile-aux-Noix",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Paul-de-la-Croix",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -69.19531, 47.95179 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Paulin",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.01291, 46.41691 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Philemon",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -70.45403, 46.68277 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Philibert",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -70.53806, 46.13358 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Philippe",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.48909, 45.36891 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Philippe-de-Neri",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -69.88051, 47.46831 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Pie",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.90819, 45.50196 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Pie-de-Guire",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.74537, 46.00233 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Pierre",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.48034, 46.01348 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Pierre-Baptiste",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -70.58796, 46.74247 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Pierre-de-Broughton",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.20377, 46.24392 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Pierre-de-Lamy",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -69.0289, 47.78387 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Pierre-de-Veronne-a-Pike-River",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Pierre-de-l'Ile-d'Orleans",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Pierre-de-la-Riviere-du-Sud",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Pierre-les-Becquets",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Placide",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -74.20415, 45.52926 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Polycarpe",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -74.30019, 45.29928 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Prime",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.33441, 48.59285 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Prosper",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.55617, 46.73168 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Prosper-de-Champlain",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Raphael",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -70.75298, 46.79548 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Raymond",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.83239, 46.88888 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Remi",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.6165, 45.26123 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Remi-de-Tingwick",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.8857, 45.83507 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Rene",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -70.61677, 46.01014 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Rene-de-Matane",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -67.41374, 48.72075 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Robert",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.99926, 45.97215 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Robert-Bellarmin",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -70.57892, 45.74992 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Roch-Ouest",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Roch-de-Mekinac",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Roch-de-Richelieu",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.1559, 45.88959 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Roch-de-l'Achigan",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Roch-des-Aulnaies",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -70.17423, 47.31066 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Romain",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.09124, 45.78536 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Rosaire",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.19675, 46.91265 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Samuel",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.20697, 46.07557 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Sauveur",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -74.19205, 45.87519 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Sebastien",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -70.97108, 45.78315 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Severe",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.90276, 46.34909 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Severin",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Simeon",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -69.87416, 47.84825 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Simon",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -69.87777, 47.84848 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Simon-les-Mines",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Sixte",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -75.20742, 45.69773 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Stanislas",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.1885, 48.99993 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Stanislas-de-Kostka",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -74.03522, 45.16026 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Sulpice",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.35683, 45.82527 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Sylvere",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.20492, 46.90919 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Sylvestre",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.74557, 46.40516 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Telesphore",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -74.3904, 45.29355 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Tharcisius",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -67.33649, 48.54622 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Theodore-d'Acton",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.58401, 45.68502 ]
+			},
+			"properties": {
+				"en": "Saint-Theodore-d’Acton"
+			},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Theophile",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -70.41258, 45.89841 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Thomas",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.34764, 46.0155 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Thomas-Didyme",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.66741, 48.69103 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Thuribe",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.157, 46.71321 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Tite",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.56444, 46.73463 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Tite-des-Caps",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -70.77049, 47.13982 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Ubalde",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.27107, 46.75715 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Ulric",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -67.69775, 48.78781 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Urbain",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Urbain-Premier",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.73729, 45.22038 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Valentin",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.32413, 45.12902 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Valere",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -70.25086, 46.35392 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Valerien",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Valerien-de-Milton",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.71, 45.56 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Vallier",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -70.8213, 46.89176 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Venant-de-Paquette",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Vianney",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -67.41151, 48.61646 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Victor",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -70.90284, 46.14922 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Wenceslas",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.32394, 46.16533 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Zacharie",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -70.36194, 46.12697 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Zenon",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.81328, 46.55898 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Zenon-du-Lac-Humqui",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Zephirin-de-Courval",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.63851, 46.06847 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint-Zotique",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -74.24612, 45.24274 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Adele",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -74.13557, 45.95133 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Agathe-de-Lotbiniere",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Agathe-des-Monts",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -74.28054, 46.04822 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Angele-de-Merici",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -67.636, 48.42628 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Angele-de-Monnoir",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.13199, 45.37196 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Angele-de-Premont",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.05728, 46.36263 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Anne-de-Beaupre",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Anne-de-Bellevue",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.95078, 45.40568 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Anne-de-Sabrevois",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.22635, 45.20426 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Anne-de-Sorel",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.07814, 46.0472 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Anne-de-la-Perade",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Anne-de-la-Pocatiere",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Anne-de-la-Rochelle",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Anne-des-Lacs",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -74.12561, 45.86115 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Anne-des-Monts",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -66.49329, 49.12433 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Anne-des-Plaines",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.81207, 45.76435 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Anne-du-Lac",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Anne-du-Sault",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Apolline-de-Patton",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -70.2, 46.8 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Aurelie",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -70.39335, 46.16557 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Barbe",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -74.19248, 45.16511 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Beatrix",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.62162, 46.19534 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Brigide-d'Iberville",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.0924, 45.2784 ]
+			},
+			"properties": {
+				"en": "Sainte-Brigide-d’Iberville"
+			},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Brigitte-de-Laval",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.19372, 47.0032 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Brigitte-des-Saults",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.48865, 46.02844 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Catherine",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.57595, 45.40014 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Catherine-de-Hatley",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.04782, 45.2506 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Catherine-de-la-Jacques-Cartier",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.61463, 46.84453 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Cecile-de-Levrard",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.16249, 46.46488 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Cecile-de-Milton",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.75926, 45.48014 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Cecile-de-Whitton",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -70.94138, 45.66589 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Christine",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.85472, 45.55529 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Christine-d'Auvergne",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Claire",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -70.86594, 46.60145 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Clotilde",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Clotilde-de-Beauce",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.0309, 46.12549 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Clotilde-de-Horton",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.23665, 45.98998 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Croix",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.73553, 46.62273 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Edwidge-de-Clifton",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.67606, 45.20107 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Elisabeth",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.35167, 46.08256 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Elizabeth-de-Warwick",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.0914, 45.88847 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Emelie-de-l'Energie",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Eulalie",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.2497, 46.11222 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Euphemie-sur-Riviere-du-Sud",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Famille",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -70.96327, 46.97276 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Felicite",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -67.60747, 48.70995 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Flavie",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -68.23136, 48.61078 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Florence",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -67.23186, 48.268 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Francoise",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -69.13858, 47.71933 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Genevieve-de-Batiscan",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.2984, 46.63701 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Genevieve-de-Berthier",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Germaine-Boule",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -79.11612, 48.60231 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Gertrude-Manneville",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Hedwidge",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Helene",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Helene-de-Bagot",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.73607, 45.73152 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Helene-de-Chester",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.76103, 46.06097 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Helene-de-Mancebourg",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Henedine",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -70.98327, 46.55833 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Irene",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Jeanne-d'Arc",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Julie",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.32576, 45.58251 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Julienne",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.71387, 45.96197 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Justine",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -70.34966, 46.41076 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Justine-de-Newton",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -74.41692, 45.37423 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Louise",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -70.89375, 46.84991 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Luce",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -68.37144, 48.54383 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Lucie-de-Beauregard",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -70.01724, 46.73798 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Lucie-des-Laurentides",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -74.19248, 46.1325 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Madeleine",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.09333, 45.59554 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Madeleine-de-la-Rivière-Madeleine",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Marcelline-de-Kildare",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.59389, 46.11668 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Marguerite",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -74.0659, 46.03338 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Marguerite-Marie",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -67.70097, 48.78172 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Marguerite-du-Lac-Masson",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Marie",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.01013, 46.43383 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Marie-Madeleine",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Marie-Salomé",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Marie-de-Blandford",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.1524, 46.34665 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Marthe",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -74.29702, 45.40586 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Marthe-sur-le-Lac",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Martine",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.798, 45.25199 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Melanie",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.50841, 46.13685 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Monique",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.8505, 48.74261 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Paule",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -67.55751, 48.66053 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Perpetue",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.84808, 45.41536 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Petronille",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.13132, 46.85186 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Praxede",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Rita",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -68.91166, 47.94906 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Rose-de-Watford",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -70.41859, 46.32506 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Rose-du-Nord",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -70.49006, 48.40932 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Sabine",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Seraphine",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Sophie",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.89739, 45.81977 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Sophie-d'Halifax",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Sophie-de-Levrard",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.1067, 46.42821 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Thecle",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.50032, 46.83684 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Therese",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.82589, 45.63907 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Therese-de-Gaspe",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -64.61763, 48.98609 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Therese-de-la-Gatineau",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Ursule",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.03102, 46.28338 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sainte-Victoire-de-Sorel",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.08672, 45.94852 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saints-Anges",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -70.87812, 46.41893 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saints-Martyrs-Canadiens",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Salaberry-de-Valleyfield",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -74.13231, 45.25036 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Salluit",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -75.64181, 62.1969 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sayabec",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -67.68591, 48.56616 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Schefferville",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -66.83464, 54.80375 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Scotstown",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.27406, 45.52673 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Scott",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.06712, 46.49916 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Senneterre",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -77.24455, 48.38987 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sept-Iles",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -66.37836, 50.21514 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Shannon",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.51679, 46.88618 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Shawinigan",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.74039, 46.5634 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Shawville",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -76.49145, 45.60299 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sheenboro",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -77.26804, 45.99244 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Shefford",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.57165, 45.34479 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sherbrooke",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.90784, 45.40008 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Shigawake",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -65.03654, 48.10906 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sorel-Tracy",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.11324, 46.0419 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Stanbridge East",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.91454, 45.11799 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Stanbridge Station",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.02295, 45.12296 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Stanstead",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.1209, 45.0174 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Stanstead-Est",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.0504, 45.09982 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Stoke",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.80467, 45.53311 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Stoneham-et-Tewkesbury",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Stornoway",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.15613, 45.7102 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Stratford",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.28119, 45.77902 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Stukely-Sud",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.41337, 45.31861 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sutton",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.61594, 45.10655 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Tadoussac",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -69.71658, 48.14816 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Taschereau",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -78.69627, 48.66149 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Tasiujaq",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -69.95059, 58.72781 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Temiscaming",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -79.10088, 46.71527 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Temiscouata-sur-le-Lac",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Terrasse-Vaudreuil",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.98906, 45.38935 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Terrebonne",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.64728, 45.70001 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Thetford Mines",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.30264, 46.09466 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Thorne",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -76.42751, 45.7586 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Thurso",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -75.24244, 45.5965 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Tingwick",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.9438, 45.88105 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Tourville",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -69.98497, 47.0956 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Trecesson",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -78.28942, 48.6078 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Tres-Saint-Redempteur",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -74.40349, 45.42982 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Tres-Saint-Sacrement",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Tring-Jonction",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -70.99713, 46.26815 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Trois-Pistoles",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -69.17241, 48.12537 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Trois-Rives",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.76787, 46.92989 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Trois-Rivieres",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Ulverton",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.25019, 45.69905 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Umiujaq",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -76.50546, 56.54879 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Upton",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.69447, 45.64951 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Val-Alain",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.75291, 46.4149 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Val-Brillant",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -67.55519, 48.53428 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Val-David",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -74.20449, 46.03022 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Val-Joli",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.96148, 45.59512 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Val-Morin",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -74.21291, 46.00121 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Val-Racine",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.07244, 45.48427 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Val-Saint-Gilles",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -78.95994, 48.92417 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Val-d'Or",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -77.78999, 48.10022 ]
+			},
+			"properties": {
+				"en": "Val-d’Or"
+			},
+			"type": "Feature"
+		},
+		{
+			"id": "Val-des-Bois",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -75.59641, 45.9133 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Val-des-Lacs",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -74.35555, 46.19445 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Val-des-Monts",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -75.73272, 45.66453 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Valcourt",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.3157, 45.49648 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Vallee-Jonction",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -70.92688, 46.37507 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Varennes",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.43133, 45.68622 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Vaudreuil-Dorion",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -74.02474, 45.39172 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Vaudreuil-sur-le-Lac",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Venise-en-Quebec",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Vercheres",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.38472, 45.75645 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Victoriaville",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.95914, 46.05528 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Ville-Marie",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -79.44007, 47.33198 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Villeroy",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.87496, 46.38803 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Waltham",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -76.91963, 45.93821 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Warden",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.50452, 45.37769 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Warwick",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.98697, 45.94435 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Waskaganish",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -78.74743, 51.48753 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Waswanipi",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -75.9678, 49.69456 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Waterloo",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.51534, 45.35034 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Waterville",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.9266, 45.2753 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Weedon",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.45637, 45.71301 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Wemindji",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -78.72242, 53.02542 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Wentworth",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -74.41276, 45.78022 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Wentworth-Nord",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -74.45435, 45.85248 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Westbury",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.65905, 45.48348 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Westmount",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -73.59424, 45.48709 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Whapmagoostui",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Wickham",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.45642, 45.73363 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Windsor",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.00491, 45.56839 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Wotton",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -71.8069, 45.73782 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Yamachiche",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.82794, 46.28379 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Yamaska",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -72.90545, 46.00608 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		}
+	]
+}

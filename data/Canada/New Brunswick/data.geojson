@@ -1,0 +1,170 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"id": "Albert County",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -64.85, 45.82 ]
+			},
+			"properties": {
+				"fr": "Comté de Albert"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Carleton County",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -67.31667, 46.35 ]
+			},
+			"properties": {
+				"fr": "Comté de Carleton"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Charlotte County",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -66.98333, 44.93333 ]
+			},
+			"properties": {
+				"fr": "Comté de Charlotte"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Gloucester County",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -64.82256, 47.71767 ]
+			},
+			"properties": {
+				"fr": "Comté de Gloucester"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Kent County",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -64.8, 46.58333 ]
+			},
+			"properties": {
+				"fr": "Comté de Kent"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Kings County",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -65.78983, 45.66042 ]
+			},
+			"properties": {
+				"fr": "Comté de Kings"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Madawaska County",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -68.36061, 47.42142 ]
+			},
+			"properties": {
+				"fr": "Comté de Madawaska"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Northumberland County",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -65.58333, 47.03333 ]
+			},
+			"properties": {
+				"fr": "Comté de Northumberland"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Queens County",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -66, 45.83333 ]
+			},
+			"properties": {
+				"fr": "Comté de Queens"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Restigouche County",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -67.0885, 47.72608 ]
+			},
+			"properties": {
+				"fr": "Comté de Restigouche"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Saint John County",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -66, 45.3 ]
+			},
+			"properties": {
+				"fr": "Comté de Saint John"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Sunbury County",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -66.33333, 45.91667 ]
+			},
+			"properties": {
+				"fr": "Comté de Sunbury"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Victoria County",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -67.32939, 47.07519 ]
+			},
+			"properties": {
+				"fr": "Comté de Victoria"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Westmorland County",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -64.51, 46.06 ]
+			},
+			"properties": {
+				"fr": "Comté de Westmorland"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "York County",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -67, 46 ]
+			},
+			"properties": {
+				"fr": "Comté de York"
+			}
+		}
+	]
+}

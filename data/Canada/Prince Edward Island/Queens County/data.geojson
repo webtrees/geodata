@@ -1,0 +1,401 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"id": "Afton",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Alexandra",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Bayview",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Belfast",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -62.88197, 46.08341 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Bonshaw",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -63.35349, 46.19477 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Brackley",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -63.141, 46.29696 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Breadalbane",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -63.50061, 46.35703 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Charlottetown",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -63.13279, 46.25224 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Clyde River",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -63.25473, 46.22361 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Cornwall",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -63.21731, 46.22741 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Crapaud",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -63.50184, 46.23831 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Darlington",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Donagh",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Georgetown",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -62.52295, 46.18565 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Grand Tracadie",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Hampshire",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Hazelbrook",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Hunter River",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -63.3487, 46.35012 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Kingston",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Long River",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Meadowbank",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -63.23012, 46.20232 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Miltonvale Park",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -63.19663, 46.28318 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Montague",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -62.64888, 46.16532 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Mount Stewart",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -62.86536, 46.36681 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "New Haven-Riverdale",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "North Rustico",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -63.31301, 46.45861 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "North Shore",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "North Wiltshire",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -63.332, 46.30012 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Northport",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Orwell",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Pleasant Grove",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Resort Municipality of Stanley Bridge, Hope River, Bayview, Cavendish, and North Rustico",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Rocky Point",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Scotchfort 4",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Souris",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -62.25283, 46.35451 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "St. Nicholas",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Stratford",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -63.0847, 46.22165 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Union Road",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Victoria",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -63.49119, 46.21482 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Warren Grove",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -63.23113, 46.26734 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Watervale",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "West River",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Winsloe South",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "York",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -63.07418, 46.41615 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		}
+	]
+}

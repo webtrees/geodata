@@ -10,7 +10,7 @@ There are two reasons for this.  Firstly, some filesystems do not support non-la
 characters.  Secondly, some countries have multiple official languages and place names.
 
 Where the local name of a place is different to the English/ASCII name, then the
-translated version is stored as a property of the DATA.geoJSON file.
+translated version is stored as a property of the data.geojson file.
 
 Where there are several places with the same name, include disambiguation
 in parentheses.
@@ -50,9 +50,9 @@ recognition.
 
 Images in SVG format are prefered.  If no SVG image is available, then a PNG can be used.
 
-## geoJSON format
+## geojson format
 
-data.geoJson files should be formatted using the command `jq . INPUT_FILE > OUTPUT_FILE`.
+data.geojson files should be formatted using the command `php tools/geodata.php --file=XXX`.
 
 You can validate geojson files using [geojsonlint.com](http://geojsonlint.com/)
 

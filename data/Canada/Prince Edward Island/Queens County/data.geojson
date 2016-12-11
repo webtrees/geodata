@@ -5,7 +5,7 @@
 			"id": "Afton",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 0, 0 ]
+				"coordinates": [ -63.18333, 46.18333 ]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -14,7 +14,7 @@
 			"id": "Alexandra",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 0, 0 ]
+				"coordinates": [ -63.03505, 46.19718 ]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -23,7 +23,7 @@
 			"id": "Bayview",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 0, 0 ]
+				"coordinates": [ -63.43604, 46.47468 ]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -32,7 +32,7 @@
 			"id": "Belfast",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -62.88197, 46.08341 ]
+				"coordinates": [ -62.87848, 46.0794 ]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -41,7 +41,7 @@
 			"id": "Bonshaw",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.35349, 46.19477 ]
+				"coordinates": [ -63.35427, 46.19578 ]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -50,7 +50,7 @@
 			"id": "Brackley",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.141, 46.29696 ]
+				"coordinates": [ -63.14685, 46.30775 ]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -59,7 +59,7 @@
 			"id": "Breadalbane",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.50061, 46.35703 ]
+				"coordinates": [ -63.50095, 46.35768 ]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -68,7 +68,7 @@
 			"id": "Charlottetown",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.13279, 46.25224 ]
+				"coordinates": [ -63.13107, 46.23824 ]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -77,7 +77,7 @@
 			"id": "Clyde River",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.25473, 46.22361 ]
+				"coordinates": [ -63.2564, 46.22391 ]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -86,7 +86,7 @@
 			"id": "Cornwall",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.21731, 46.22741 ]
+				"coordinates": [ -63.21699, 46.2295 ]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -95,7 +95,7 @@
 			"id": "Crapaud",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.50184, 46.23831 ]
+				"coordinates": [ -63.50028, 46.23989 ]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -104,7 +104,7 @@
 			"id": "Darlington",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 0, 0 ]
+				"coordinates": [ -63.32585, 46.31526 ]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -113,7 +113,7 @@
 			"id": "Donagh",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 0, 0 ]
+				"coordinates": [ -62.9618, 46.26367 ]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -122,7 +122,7 @@
 			"id": "Georgetown",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -62.52295, 46.18565 ]
+				"coordinates": [ -62.53349, 46.18542 ]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -131,7 +131,7 @@
 			"id": "Grand Tracadie",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 0, 0 ]
+				"coordinates": [ -63.05299, 46.39461 ]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -140,7 +140,7 @@
 			"id": "Hampshire",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 0, 0 ]
+				"coordinates": [ -63.27986, 46.28659 ]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -149,7 +149,7 @@
 			"id": "Hazelbrook",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 0, 0 ]
+				"coordinates": [ -62.99192, 46.21808 ]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -158,7 +158,7 @@
 			"id": "Hunter River",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.3487, 46.35012 ]
+				"coordinates": [ -63.34898, 46.35495 ]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -167,7 +167,7 @@
 			"id": "Kingston",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 0, 0 ]
+				"coordinates": [ -63.27739, 46.26292 ]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -176,7 +176,7 @@
 			"id": "Long River",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 0, 0 ]
+				"coordinates": [ -63.54317, 46.49029 ]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -185,7 +185,7 @@
 			"id": "Meadowbank",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.23012, 46.20232 ]
+				"coordinates": [ -63.23277, 46.19974 ]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -194,7 +194,7 @@
 			"id": "Miltonvale Park",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.19663, 46.28318 ]
+				"coordinates": [ -63.23715, 46.318 ]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -203,7 +203,7 @@
 			"id": "Montague",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -62.64888, 46.16532 ]
+				"coordinates": [ -62.64802, 46.16507 ]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -212,7 +212,7 @@
 			"id": "Mount Stewart",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -62.86536, 46.36681 ]
+				"coordinates": [ -62.86686, 46.3658 ]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -230,7 +230,7 @@
 			"id": "North Rustico",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.31301, 46.45861 ]
+				"coordinates": [ -63.31319, 46.45828 ]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -239,7 +239,7 @@
 			"id": "North Shore",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 0, 0 ]
+				"coordinates": [ -63.11667, 46.38333 ]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -248,7 +248,7 @@
 			"id": "North Wiltshire",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.332, 46.30012 ]
+				"coordinates": [ -63.33302, 46.30148 ]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -257,7 +257,7 @@
 			"id": "Northport",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 0, 0 ]
+				"coordinates": [ -64.06248, 46.79771 ]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -266,7 +266,7 @@
 			"id": "Orwell",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 0, 0 ]
+				"coordinates": [ -62.83297, 46.1579 ]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -275,7 +275,7 @@
 			"id": "Pleasant Grove",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 0, 0 ]
+				"coordinates": [ -63.07722, 46.36327 ]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -293,7 +293,7 @@
 			"id": "Rocky Point",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 0, 0 ]
+				"coordinates": [ -63.15033, 46.2024 ]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -329,7 +329,7 @@
 			"id": "Stratford",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.0847, 46.22165 ]
+				"coordinates": [ -63.08861, 46.21593 ]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -338,7 +338,7 @@
 			"id": "Union Road",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 0, 0 ]
+				"coordinates": [ -63.13461, 46.33104 ]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -347,7 +347,7 @@
 			"id": "Victoria",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.49119, 46.21482 ]
+				"coordinates": [ -63.49034, 46.21504 ]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -356,7 +356,7 @@
 			"id": "Warren Grove",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.23113, 46.26734 ]
+				"coordinates": [ -63.21924, 46.27807 ]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -365,7 +365,7 @@
 			"id": "Watervale",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 0, 0 ]
+				"coordinates": [ -62.8973, 46.2684 ]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -374,7 +374,7 @@
 			"id": "West River",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 0, 0 ]
+				"coordinates": [ -63.3, 46.16667 ]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -383,7 +383,7 @@
 			"id": "Winsloe South",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 0, 0 ]
+				"coordinates": [ -63.1879, 46.32463 ]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -392,7 +392,7 @@
 			"id": "York",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.07418, 46.41615 ]
+				"coordinates": [ -63.09751, 46.31598 ]
 			},
 			"properties": {},
 			"type": "Feature"

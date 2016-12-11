@@ -5,7 +5,7 @@
 			"id": "Abrams Village",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 0, 0 ]
+				"coordinates": [ -64.08101, 46.45421 ]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -14,7 +14,7 @@
 			"id": "Albany",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.64872, 46.28343 ]
+				"coordinates": [ -63.64383, 46.28605 ]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -23,7 +23,7 @@
 			"id": "Alberton",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -64.06195, 46.8131 ]
+				"coordinates": [ -64.06483, 46.81313 ]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -32,7 +32,7 @@
 			"id": "Bedeque",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.71998, 46.33487 ]
+				"coordinates": [ -63.72472, 46.33678 ]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -50,7 +50,7 @@
 			"id": "Borden-Carleton",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.68072, 46.25835 ]
+				"coordinates": [ -63.69216, 46.25376 ]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -59,7 +59,7 @@
 			"id": "Central Bedeque",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.70419, 46.33555 ]
+				"coordinates": [ -63.70281, 46.33993 ]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -68,7 +68,7 @@
 			"id": "Ellerslie-Bideford",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 0, 0 ]
+				"coordinates": [ -63.94435, 46.60334 ]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -77,7 +77,7 @@
 			"id": "Elmsdale",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -64.11338, 46.83743 ]
+				"coordinates": [ -64.13681, 46.82055 ]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -95,7 +95,7 @@
 			"id": "Kensington",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.63778, 46.43565 ]
+				"coordinates": [ -63.63735, 46.43689 ]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -104,7 +104,7 @@
 			"id": "Kinkora",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.60131, 46.32298 ]
+				"coordinates": [ -63.60269, 46.32288 ]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -113,7 +113,7 @@
 			"id": "Lady Slipper",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 0, 0 ]
+				"coordinates": [ -64.01667, 46.6 ]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -122,7 +122,7 @@
 			"id": "Lennox Island",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.85578, 46.60183 ]
+				"coordinates": [ -63.85589, 46.6011 ]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -131,7 +131,7 @@
 			"id": "Linkletter",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.83881, 46.40873 ]
+				"coordinates": [ -63.8256, 46.4089 ]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -158,7 +158,7 @@
 			"id": "Miminegash",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -64.2226, 46.87468 ]
+				"coordinates": [ -64.22697, 46.87941 ]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -167,7 +167,7 @@
 			"id": "Miscouche",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.87593, 46.42862 ]
+				"coordinates": [ -63.86802, 46.43227 ]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -176,16 +176,18 @@
 			"id": "O'Leary",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 0, 0 ]
+				"coordinates": [ -64.22694, 46.70706 ]
 			},
-			"properties": {},
+			"properties": {
+				"en": "O’Leary"
+			},
 			"type": "Feature"
 		},
 		{
 			"id": "Richmond",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.13553, 46.24822 ]
+				"coordinates": [ -63.99147, 46.50799 ]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -194,7 +196,7 @@
 			"id": "Sherbrooke",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 0, 0 ]
+				"coordinates": [ -63.76286, 46.43662 ]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -221,7 +223,7 @@
 			"id": "Summerside",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.7916, 46.39265 ]
+				"coordinates": [ -63.79023, 46.39338 ]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -230,7 +232,7 @@
 			"id": "Tignish",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -64.03321, 46.95044 ]
+				"coordinates": [ -64.03304, 46.95049 ]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -239,7 +241,7 @@
 			"id": "Tignish Shore",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 0, 0 ]
+				"coordinates": [ -63.99518, 46.94623 ]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -248,7 +250,7 @@
 			"id": "Tyne Valley",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.92884, 46.5742 ]
+				"coordinates": [ -63.92907, 46.57646 ]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -257,7 +259,7 @@
 			"id": "Wellington",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -64.00003, 46.45326 ]
+				"coordinates": [ -63.99953, 46.45383 ]
 			},
 			"properties": {},
 			"type": "Feature"

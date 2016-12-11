@@ -1,0 +1,23 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"id": "Amherst",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -64.217, 45.817 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "Fort Lawrence",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -64.248, 45.849 ]
+			},
+			"properties": {}
+		}
+	]
+}

@@ -1,0 +1,167 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"id": "Annapolis County",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -65.24, 44.71 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Antigonish County",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -61.99, 45.62 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Cape Breton County",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -60.85, 46.25 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Colchester County",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -63.32751, 45.42548 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Cumberland County",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -63.86, 45.8 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Digby County",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -65.8, 44.3 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Guysborough County",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -66.10662, 43.83997 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Halifax County",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -63.57524, 44.64876 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Hants County",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -63.91707, 45.08919 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Inverness County",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -61.05417, 46.27617 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Kings County",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -64.66, 45.11 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Lunenburg County",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -64.48, 44.54 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Pictou County",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -62.65109, 45.57761 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Queens County",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -64.98002, 44.23723 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Richmond County",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -60.64882, 45.69358 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Shelburne County",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -65.36447, 43.81101 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Victoria County",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -66.10662, 43.83997 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Yarmouth County",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -66.10662, 43.83997 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		}
+	]
+}

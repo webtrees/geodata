@@ -1,0 +1,26 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"id": "Grand-Pre",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -64.305, 45.102 ]
+			},
+			"properties": {
+				"en": "Grand-Pré",
+				"fr": "Grand-Pré"
+				}
+		},
+		{
+			"type": "Feature",
+			"id": "Kentville",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -64.49447, 45.07691 ]
+			},
+			"properties": {}
+		}
+	]
+}

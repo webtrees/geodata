@@ -1,0 +1,14 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"id": "Annaopolis Royal",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 0, 0 ]
+			},
+			"properties": {}
+		}
+	]
+}

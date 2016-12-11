@@ -1,0 +1,32 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"id": "Louisbourg",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -59.97131, 45.92214 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "Sydney",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -60.194, 46.137 ]
+			},
+			"properties": {}
+		},
+		{
+			"type": "Feature",
+			"id": "Westmount",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -60.21, 46.141 ]
+			},
+			"properties": {}
+		}
+	]
+}

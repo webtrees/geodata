@@ -5,7 +5,7 @@
 			"id": "Annandale-Little Pond-Howe Bay",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 0, 0 ]
+				"coordinates": [ -62.40938, 46.28373 ]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -14,7 +14,7 @@
 			"id": "Brudenell",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 0, 0 ]
+				"coordinates": [ -62.63239, 46.19112 ]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -23,7 +23,7 @@
 			"id": "Cardigan",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -62.61449, 46.22649 ]
+				"coordinates": [ -62.62179, 46.23369 ]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -32,7 +32,7 @@
 			"id": "Central Kings",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 0, 0 ]
+				"coordinates": [ -62.5, 46.31667 ]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -41,7 +41,7 @@
 			"id": "Eastern Kings",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 0, 0 ]
+				"coordinates": [ -62.1, 46.43333 ]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -50,7 +50,7 @@
 			"id": "Fortune Bridge",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 0, 0 ]
+				"coordinates": [ -62.38944, 46.35103 ]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -68,7 +68,7 @@
 			"id": "Lorne Valley",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 0, 0 ]
+				"coordinates": [ -62.68503, 46.26752 ]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -77,7 +77,7 @@
 			"id": "Lower Montague",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -62.65004, 46.15419 ]
+				"coordinates": [ -62.56061, 46.16976 ]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -86,7 +86,7 @@
 			"id": "Morell",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -62.70455, 46.41573 ]
+				"coordinates": [ -62.70597, 46.41599 ]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -104,7 +104,7 @@
 			"id": "Murray Harbour",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -62.51956, 46.0028 ]
+				"coordinates": [ -62.51988, 46.00201 ]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -113,7 +113,7 @@
 			"id": "Murray River",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -62.61409, 46.01646 ]
+				"coordinates": [ -62.61074, 46.01373 ]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -122,7 +122,7 @@
 			"id": "Souris West",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 0, 0 ]
+				"coordinates": [ -62.28336, 46.35882 ]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -140,7 +140,7 @@
 			"id": "Valleyfield",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 0, 0 ]
+				"coordinates": [ -62.73348, 46.12948 ]
 			},
 			"properties": {},
 			"type": "Feature"

@@ -101,11 +101,15 @@ if ($csv !== '') {
 	$fp = fopen($csv, 'r');
 	$data = [];
 	$max = 0;
-	fgets($fp); // skip the header
+	$datum = fgetcsv($fp, 0, ';'); // Header
+	$lat_column = array_search('Latitude', $datum);
+	$lon_column = array_search('Longitude', $datum);
 	while (!feof($fp)) {
 		$datum = fgetcsv($fp, 0, ';');
-		$max = max($max, (int) $datum[0]);
-		$data[] = $datum;
+		if (!empty($datum)) {
+			$max = max($max, (int) $datum[0]);
+			$data[] = $datum;
+		}
 	}
 	fclose($fp);
 
@@ -113,14 +117,14 @@ if ($csv !== '') {
 	$errors = false;
 	foreach ($data as $datum) {
 		$place = $datum[$max + 1];
-		$lon   = $datum[5];
-		$lat   = $datum[6];
-		if (is_numeric($lat) && is_numeric($lon)) {
+		$lon   = longitude($datum[$lon_column]);
+		$lat   = latitude($datum[$lat_column]);
+		if ($lat !== 0.0 && $lon !== 0.0) {
 			if (array_key_exists($place, $places)) {
 				echo 'Duplicate place name: "', $place, '"', PHP_EOL;
 				$errors = true;
 			}
-			$places[$place] = [longitude($lon), latitude($lat)];
+			$places[$place] = [$lon, $lat];
 		}
 	}
 	if ($errors) {

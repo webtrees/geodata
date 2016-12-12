@@ -1,4 +1,95 @@
 {
 	"type": "FeatureCollection",
-	"features": []
+	"features": [
+		{
+			"id": "Antigonish",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -61.9928, 45.62266 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Aulds Cove",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -61.43967, 45.64206 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Havre Boucher",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -61.53902, 45.68091 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Heatherton",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -61.79204, 45.58805 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Lanark",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -61.93582, 45.65062 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Lower South River",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -61.91325, 45.60117 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Maryvale",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -62.05, 45.73333 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Monastery",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -61.61287, 45.60785 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Pomquet",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -61.84485, 45.62694 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Saint Andrews",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -61.89025, 45.55869 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		}
+	]
 }

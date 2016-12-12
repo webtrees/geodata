@@ -2,6 +2,98 @@
 	"type": "FeatureCollection",
 	"features": [
 		{
+			"id": "Beaver Cove",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -60.56611, 46.06525 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Ben Eoin",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -60.43398, 45.97403 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Bras D'or",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -60.28919, 46.25442 ]
+			},
+			"properties": {
+				"en": "Bras D’or"
+			},
+			"type": "Feature"
+		},
+		{
+			"id": "Christmas Island",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -60.76154, 45.96201 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Dominion",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -60.0252, 46.21024 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "East Bay",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -60.38433, 46.01218 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Eskasoni",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -60.60115, 45.94851 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Florence",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -60.26453, 46.25903 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Glace Bay",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -59.957, 46.19692 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Grand Narrows",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -60.79029, 45.95557 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
 			"type": "Feature",
 			"id": "Louisbourg",
 			"geometry": {
@@ -11,6 +103,96 @@
 			"properties": {}
 		},
 		{
+			"id": "Main-a-dieu",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -59.84622, 46.00518 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Marion Bridge",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -60.2127, 45.98057 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Membertou",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -60.19001, 46.11501 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "New Victoria",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -60.12475, 46.25607 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "New Waterford",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -60.0918, 46.25305 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "North Sydney",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -60.25238, 46.20648 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Northside East Bay",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -60.43333, 46 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Port Morien",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -59.87329, 46.13488 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Reserve Mines",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -60.02155, 46.18017 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "River Ryan",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -60.0863, 46.22334 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
 			"type": "Feature",
 			"id": "Sydney",
 			"geometry": {
@@ -18,6 +200,24 @@
 				"coordinates": [ -60.194, 46.137 ]
 			},
 			"properties": {}
+		},
+		{
+			"id": "Sydney Mines",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -60.23061, 46.24227 ]
+			},
+			"properties": {},
+			"type": "Feature"
+		},
+		{
+			"id": "Sydney River",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -60.22673, 46.10543 ]
+			},
+			"properties": {},
+			"type": "Feature"
 		},
 		{
 			"type": "Feature",

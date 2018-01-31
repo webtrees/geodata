@@ -1,4 +1,149 @@
 {
-	"type": "FeatureCollection",
-	"features": []
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "Atwoods Brook",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-65.66181, 43.50346]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Barrington",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-65.5644, 43.56434]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Barrington Passage",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-65.60927, 43.52723]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Birchtown",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-65.37865, 43.74773]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Centreville",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-65.60208, 43.47556]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Clark's Harbour",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-65.65121, 43.45071]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Clyde River",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-65.47739, 43.63229]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Ingomar",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-65.35853, 43.56372]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Jordan Bay",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-65.23799, 43.70256]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Jordan Falls",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-65.23201, 43.81567]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Little Harbour",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-65.03628, 43.71963]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Lockeport",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-65.1138, 43.69978]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Louis Head",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-65.0167, 43.74966]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Rockland",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-65.07328, 43.74027]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Sable River",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-65.06367, 43.83934]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Shag Arbour",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-65.69978, 43.49869]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Shelburne",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-65.32402, 43.76436]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Woods Harbour",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-65.73333, 43.55]
+            }
+        }
+    ]
 }

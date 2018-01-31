@@ -1,4 +1,101 @@
 {
-	"type": "FeatureCollection",
-	"features": []
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "Arichat",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-61.01184, 45.51373]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Chapel Island",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-60.78255, 45.71623]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Cleveland",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-61.23179, 45.66797]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "D'Escousse",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-60.95881, 45.58765]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Evanston",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-61.21667, 45.61667]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Grand River",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-60.66667, 45.65]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Isle Madame",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-61.01069, 45.53712]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "L'Ardoise",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-60.76632, 45.61516]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Louisdale",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-61.06249, 45.60696]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Petit-de-Grat",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-60.95683, 45.50567]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "River Bourgeois",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-60.9317, 45.63188]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "St Peters",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-60.89275, 45.66013]
+            }
+        }
+    ]
 }

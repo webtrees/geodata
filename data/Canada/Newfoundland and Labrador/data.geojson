@@ -1,0 +1,765 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "Argentia",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-53.98682, 47.30205]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Bay Bulls",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-52.81553, 47.31851]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Bay Roberts",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-53.27985, 47.58205]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Beaumont",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-55.58781, 49.65966]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Bishop's Falls",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-55.4878, 49.01389]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Bonavista",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-53.11182, 48.65334]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Botwood",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-55.34, 49.14]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Brigus",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-53.22058, 47.53327]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Buchans",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-56.85531, 48.82508]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Burgeo",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-57.61049, 47.61341]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Burin",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-55.17407, 47.05317]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Carbonear",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-53.22949, 47.73752]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Carmanville",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-54.28672, 49.40332]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Clarenville",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-53.96455, 48.16822]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Colliers",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-53.23284, 47.46147]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Conception Bay South",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-52.99406, 47.50832]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Conception Harbour",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-53.21943, 47.44126]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Conne River",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-55.75687, 47.86359]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Corner Brook",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-57.95027, 48.949]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Cow Head",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-57.79258, 49.91364]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Cupids",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-53.22401, 47.54931]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Daniel's Harbour",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-57.58803, 50.23819]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Deer Lake",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-57.43387, 49.17317]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Dildo",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-53.55557, 47.57062]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Doyles",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-59.19131, 47.83061]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Eastport",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-53.75785, 48.65176]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Elliston",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-53.04763, 48.6347]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Englee",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-56.10412, 50.73303]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Flatrock",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-52.71307, 47.70677]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Fogo Island",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-54.142, 49.66829]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Fortune",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-55.82729, 47.07198]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Francois",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-56.74636, 47.57991]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Gander",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-54.61, 48.96]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Gaultois",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-55.9097, 47.61168]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Glenwood",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-54.86883, 48.99685]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Glovertown",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-54.03576, 48.67437]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Goose Bay",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-60.41553, 53.31775]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Goulds",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-52.77169, 47.44653]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Grand Falls-Windsor",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-55.6575, 48.92767]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Happy Valley",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-60.32608, 53.30168]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Hawke's Bay",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-57.15088, 50.6169]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Heart's Delight",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-53.46754, 47.76679]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Holyrood",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-53.12465, 47.38496]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Joe Batt's Arm",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-54.17353, 49.72668]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Kelligrews",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-53.01088, 47.50352]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "King's Point",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-56.18413, 49.58123]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "L'Anse aux Meadows",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-55.53341, 51.59569]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "L'Anse-au-Clair",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-57.06433, 51.43426]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Labrador City",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-66.91422, 52.939]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Lewisporte",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-55.05915, 49.24504]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Marystown",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-55.15553, 47.16508]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Miles Cove",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-55.78256, 49.54043]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Mount Pearl",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-52.80768, 47.52064]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Musgrave Harbour",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-53.95954, 49.45189]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Newmans Cove",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-53.2, 48.58333]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Newville",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-54.68367, 49.58667]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Paradise",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-52.8874, 47.53066]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Parson's Pond",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-57.71049, 50.03134]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Pasadena",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-57.58938, 49.01304]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Petty Harbour-Maddox Cove",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-52.70518, 47.46978]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Port Blandford",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-54.17236, 48.35041]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Port Hope Simpson",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-56.30019, 52.54331]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Port aux Basques",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-59.13643, 47.57211]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Portugal Cove-St. Philip's",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-52.85829, 47.57344]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Pouch Cove",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-52.7651, 47.76411]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Robert's Arm",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-55.81917, 49.48549]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Rocky Harbour",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-57.91515, 49.59048]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Saint Alban's",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-55.83768, 47.86198]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Saint Bride's",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-54.17227, 46.91995]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Saint George's",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-58.48126, 48.42819]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Saint Lawrence",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-55.39523, 46.92517]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Saint Pauls",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-57.80605, 49.85209]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Sandy Cove",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-53.74271, 48.63824]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Seldom",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-54.17333, 49.61539]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Shearstown",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-53.29983, 47.58747]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Springdale",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-56.07, 49.51]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "St John's",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-52.71, 47.56]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "St. Anthony",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-55.59586, 51.37042]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Stag Harbour",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-54.28333, 49.58333]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Steady Brook",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-57.83377, 48.95119]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Stephenville",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-58.58154, 48.54797]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Summerford",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-54.78073, 49.48474]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Tilting",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-54.0658, 49.70514]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Torbay",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-52.73552, 47.65808]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Trinity",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-53.35874, 48.36774]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Trinity East",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-53.34326, 48.37997]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Triton",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-55.61074, 49.52182]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Trout River",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-58.1268, 49.47106]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Twillingate",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-54.76227, 49.64869]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Victoria",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-53.2412, 47.76744]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Virgin Arm-Carter's Cove",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-54.78119, 49.5365]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Wabana",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-52.94724, 47.64385]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Whiteway",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-53.48406, 47.68646]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Witless Bay",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-52.8325, 47.28267]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "Woody Point",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-57.91627, 49.50273]
+            }
+        }
+    ]
+}

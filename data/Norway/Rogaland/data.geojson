@@ -1,0 +1,276 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "Bjerkreim",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Bokn",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Eigersund",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Finnoy",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "en": "Finnøy",
+                "nb": "Finnøy",
+                "nn": "Finnøy"
+            }
+        },
+        {
+            "id": "Forsand",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Gjesdal",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Ha",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "en": "Hå",
+                "nb": "Hå",
+                "nn": "Hå"
+            }
+        },
+        {
+            "id": "Haugesund",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Hjelmeland",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Karmoy",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "en": "Karmøy",
+                "nb": "Karmøy",
+                "nn": "Karmøy"
+            }
+        },
+        {
+            "id": "Klepp",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Kvitsoy",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "en": "Kvitsøy",
+                "nb": "Kvitsøy",
+                "nn": "Kvitsøy"
+            }
+        },
+        {
+            "id": "Lund",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Randaberg",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Rennesoy",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "en": "Rennesøy",
+                "nb": "Rennesøy",
+                "nn": "Rennesøy"
+            }
+        },
+        {
+            "id": "Sandnes",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Sauda",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Sokndal",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Sola",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Stavanger",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Strand",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Suldal",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Time",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Tysaer",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Tysvaer",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "en": "Tysvær",
+                "nb": "Tysvær",
+                "nn": "Tysvær"
+            }
+        },
+        {
+            "id": "Utsira",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "et": "Utsira vald",
+                "ru": "Утсира",
+                "sv": "Utsira kommun"
+            }
+        },
+        {
+            "id": "Vindafjord",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        }
+    ]
+}

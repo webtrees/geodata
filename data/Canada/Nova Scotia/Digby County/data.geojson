@@ -1,176 +1,176 @@
 {
-	"type": "FeatureCollection",
-	"features": [
-		{
-			"id": "Barton",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -65.87387, 44.53675 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Bear River",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -65.64195, 44.57253 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Belliveaus Cove",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -66.06136, 44.38656 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Church Point",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -66.11449, 44.3385 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Comeauville",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -66.13333, 44.28333 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Concession",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -66.07317, 44.28052 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Digby",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -65.75755, 44.62153 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "East Ferry",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -66.19363, 44.39813 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Freeport",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -66.31772, 44.27962 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Little Brook",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -66.11821, 44.30065 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Long Island",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -66.27199, 44.33033 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Marshalltown",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -65.80206, 44.5815 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Mavillette",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -66.18522, 44.10118 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Meteghan",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -66.16233, 44.18747 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Saint Bernard",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -66.04007, 44.40206 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Sandy Cove",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -66.09448, 44.48358 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Tiverton",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -66.22181, 44.38732 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Westport",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -66.35474, 44.26174 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Weymouth",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -65.99404, 44.40577 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		}
-	]
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "Barton",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-65.87387,44.53675]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Bear River",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-65.64195,44.57253]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Belliveaus Cove",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-66.06136,44.38656]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Church Point",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-66.11449,44.3385]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Comeauville",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-66.13333,44.28333]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Concession",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-66.07317,44.28052]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Digby",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-65.75755,44.62153]
+            },
+            "properties": {}
+        },
+        {
+            "id": "East Ferry",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-66.19363,44.39813]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Freeport",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-66.31772,44.27962]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Little Brook",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-66.11821,44.30065]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Long Island",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-66.27199,44.33033]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Marshalltown",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-65.80206,44.5815]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Mavillette",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-66.18522,44.10118]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Meteghan",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-66.16233,44.18747]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Saint Bernard",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-66.04007,44.40206]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Sandy Cove",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-66.09448,44.48358]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Tiverton",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-66.22181,44.38732]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Westport",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-66.35474,44.26174]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Weymouth",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-65.99404,44.40577]
+            },
+            "properties": {}
+        }
+    ]
 }

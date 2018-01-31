@@ -1,0 +1,150 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "Andebu",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "es": "Andebu (municipio)",
+                "et": "Andebu vald",
+                "fa": "اندبو",
+                "nl": "Andebu (gemeente)",
+                "ru": "Аннебу",
+                "sv": "Andebu kommun"
+            }
+        },
+        {
+            "id": "Hof",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Holmestrand",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Horten",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Lardal",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Larvik",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Notteroy",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "en": "Nøtterøy",
+                "nb": "Nøtterøy",
+                "nn": "Nøtterøy"
+            }
+        },
+        {
+            "id": "Re",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Sande",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Sandefjord",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Stokke",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Svelvik",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Tjome",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "en": "Tjøme",
+                "nb": "Tjøme",
+                "nn": "Tjøme"
+            }
+        },
+        {
+            "id": "Tonsberg",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "en": "Tønsberg",
+                "nb": "Tønsberg",
+                "nn": "Tønsberg"
+            }
+        }
+    ]
+}

@@ -1,143 +1,139 @@
 {
-	"type": "FeatureCollection",
-	"features": [
-		{
-			"type": "Feature",
-			"id": "Alberta",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -116.6, 53.9 ]
-			},
-			"properties": {}
-		},
-		{
-			"type": "Feature",
-			"id": "British Columbia",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -127.6, 53.7 ]
-			},
-			"properties": {
-				"fr": "Colombie-Britannique"
-			}
-		},
-		{
-			"type": "Feature",
-			"id": "Manitoba",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -98.8, 53.8 ]
-			},
-			"properties": {}
-		},
-		{
-			"type": "Feature",
-			"id": "New Brunswick",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -66.5, 46.6 ]
-			},
-			"properties": {
-				"fr": "Nouveau-Brunswick"
-			}
-		},
-		{
-			"type": "Feature",
-			"id": "Newfoundland and Labrador",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -57.7, 53.1 ]
-			},
-			"properties": {
-				"fr": "Terre-Neuve-et-Labrador",
-				"moe": "Akamassiss"
-			}
-		},
-		{
-			"type": "Feature",
-			"id": "Northwest Territories",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -120.8, 63.8 ]
-			},
-			"properties": {
-				"fr": "Territoires du Nord-Ouest",
-				"iu": "ᓄᓇᑦᓯᐊᖅ"
-			}
-		},
-		{
-			"type": "Feature",
-			"id": "Nova Scotia",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -63.4, 44.6 ]
-			},
-			"properties": {
-				"fr": "Nouvelle-Écosse",
-				"gd": "Alba Nuadh"
-			}
-		},
-		{
-			"type": "Feature",
-			"id": "Nunavut",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -94.6, 66.1 ]
-			},
-			"properties": {
-				"iu": "ᓄᓇᕗᑦ"
-			}
-		},
-		{
-			"type": "Feature",
-			"id": "Ontario",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -85.3, 51.3 ]
-			},
-			"properties": {}
-		},
-		{
-			"type": "Feature",
-			"id": "Prince Edward Island",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -63.4, 46.5 ]
-			},
-			"properties": {
-				"fr": "Île-du-Prince-Édouard"
-			}
-		},
-		{
-			"type": "Feature",
-			"id": "Quebec",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -73.5, 52.9 ]
-			},
-			"properties": {
-				"fr": "Québec"
-			}
-		},
-		{
-			"type": "Feature",
-			"id": "Saskatchewan",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -106.5, 52.9 ]
-			},
-			"properties": {}
-		},
-		{
-			"type": "Feature",
-			"id": "Yukon Territory",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -136, 63.8 ]
-			},
-			"properties": {
-				"fr": "Territoire du Yukon"
-			}
-		}
-	]
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "Alberta",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-116.6,53.9]
+            },
+            "properties": {}
+        },
+        {
+            "id": "British Columbia",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-127.6,53.7]
+            },
+            "properties": {
+                "fr": "Colombie-Britannique"
+            }
+        },
+        {
+            "id": "Manitoba",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-98.8,53.8]
+            },
+            "properties": {}
+        },
+        {
+            "id": "New Brunswick",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-66.5,46.6]
+            },
+            "properties": {
+                "fr": "Nouveau-Brunswick"
+            }
+        },
+        {
+            "id": "Newfoundland and Labrador",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-57.7,53.1]
+            },
+            "properties": {
+                "fr": "Terre-Neuve-et-Labrador"
+            }
+        },
+        {
+            "id": "Northwest Territories",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-120.8,63.8]
+            },
+            "properties": {
+                "fr": "Territoires du Nord-Ouest"
+            }
+        },
+        {
+            "id": "Nova Scotia",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-63.4,44.6]
+            },
+            "properties": {
+                "fr": "Nouvelle-Écosse",
+                "gd": "Alba Nuadh"
+            }
+        },
+        {
+            "id": "Nunavut",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-94.6,66.1]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Ontario",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-85.3,51.3]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Prince Edward Island",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-63.4,46.5]
+            },
+            "properties": {
+                "fr": "Île-du-Prince-Édouard"
+            }
+        },
+        {
+            "id": "Quebec",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-73.5,52.9]
+            },
+            "properties": {
+                "fr": "Québec"
+            }
+        },
+        {
+            "id": "Saskatchewan",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-106.5,52.9]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Yukon Territory",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-136,63.8]
+            },
+            "properties": {
+                "fr": "Territoire du Yukon"
+            }
+        }
+    ]
 }

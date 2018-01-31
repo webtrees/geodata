@@ -1,0 +1,27 @@
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" enable-background="new 30.5 31.5 412 533" viewBox="30.5 31.5 400 500" height="500" width="400" y="0" x="0" version="1.1" id="svg2">
+  <metadata id="metadata4">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>
+          
+          
+          
+          image/svg+xml
+        
+        
+        
+        </dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs id="defs6"/>
+  <path d="M230.56 531.14C304.88 477.22 355.82 409.12 386.3 322.98 413.94 244.88 425.03 150.23 420.21 33.63l-0.02-0.46-379.82 0-0.02 0.46c-4.81 116.6 6.28 211.24 33.91 289.35 30.48 86.14 81.42 154.24 155.74 208.16l0.28 0.2 0.28-0.2z" id="path8" fill="#0085ca"/>
+  <path d="M291.1 478.5 230.5 186.14 169.9 478.5c17.05 17.91 38.44 36.21 60.6 52.39 22.16-16.19 43.55-34.49 60.6-52.39z" id="path4642" style="fill-rule:evenodd;fill:#fff"/>
+  <path id="path4632" d="M39.5 103.63 231 187.35 107.5 32.75l-66.85 0c-0.83 23.54-1.35 47.14-1.15 70.88z" style="fill-rule:evenodd;fill:#fff"/>
+  <path d="M421.5 103.63 230 187.35 353.5 32.75l66.85 0c0.83 23.54 1.35 47.14 1.15 70.88z" id="path4634" style="fill-rule:evenodd;fill:#fff"/>
+  <path d="M41.04 33.21C31.97 252.66 77.3 419.16 230.5 530.31 383.69 419.16 429.01 252.66 419.94 33.21l-189.45 0-189.45 0m-0.92-0.95 0.92 0 189.45 0 189.45 0 0.92 0 0.04 0.92c4.82 116.66-6.28 211.36-33.93 289.52-30.51 86.24-81.51 154.41-155.91 208.39l-0.56 0.41-0.56-0.41C155.54 477.11 104.54 408.94 74.03 322.7 46.38 244.54 35.28 149.84 40.1 33.18l0.04-0.92 0 0z" id="path10"/>
+  <path id="path4644" d="M291.1 478.12 230.5 186.14 169.9 478.5" style="fill:none;stroke-linejoin:bevel;stroke:#000"/>
+  <path d="M39.5 103.63 231 187.35 107.5 32.75" id="path4646" style="fill:none;stroke-linejoin:bevel;stroke:#000"/>
+  <path id="path4648" d="M421.5 103.63 230 187.35 353.5 32.75" style="fill:none;stroke-linejoin:bevel;stroke:#000"/>
+</svg>

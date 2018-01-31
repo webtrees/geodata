@@ -1,0 +1,506 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "Alstahaug",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "et": "Alstahaugi vald",
+                "fa": "الستاهاگ",
+                "fo": "Alstahaug kommuna",
+                "hu": "Alstahaug község",
+                "ja": "アルスタハウグ",
+                "nn": "Alstahaug kommune",
+                "ru": "Алстахёуг",
+                "sv": "Alstahaugs kommun",
+                "uk": "Алстахьоуг"
+            }
+        },
+        {
+            "id": "Andoy",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "en": "Andøy",
+                "nb": "Andøy",
+                "nn": "Andøy"
+            }
+        },
+        {
+            "id": "Ballangen",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Beiarn",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "et": "Beiarni vald",
+                "nn": "Beiarn kommune",
+                "ru": "Бейарн",
+                "sv": "Beiarns kommun"
+            }
+        },
+        {
+            "id": "Bindal",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "et": "Bindali vald",
+                "nn": "Bindal kommune",
+                "ru": "Биндал",
+                "sv": "Bindals kommun"
+            }
+        },
+        {
+            "id": "Bo",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "eb": "Bø",
+                "nb": "Bø",
+                "nn": "Bø"
+            }
+        },
+        {
+            "id": "Bodo",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Bronnoy",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Donna",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "en": "Dønna",
+                "nb": "Dønna",
+                "nn": "Dønna"
+            }
+        },
+        {
+            "id": "Evenes",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Fauske",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Flakstad",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Gildeskal",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "en": "Gildeskål",
+                "nb": "Gildeskål",
+                "nn": "Gildeskål"
+            }
+        },
+        {
+            "id": "Grane",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Hadsel",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Hamaroy",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "en": "Hamarøy",
+                "nb": "Hamarøy",
+                "nn": "Hamarøy"
+            }
+        },
+        {
+            "id": "Hattfjelldal",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "et": "Hattfjelldali vald",
+                "nn": "Hattfjelldal kommune",
+                "ru": "Хаттфьелльдал",
+                "sv": "Hattfjelldals kommun"
+            }
+        },
+        {
+            "id": "Hemnes",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "et": "Hemnesi vald",
+                "nl": "Hemnes (Nordland)",
+                "nn": "Hemnes kommune",
+                "ru": "Хемнес",
+                "sv": "Hemnes kommun"
+            }
+        },
+        {
+            "id": "Heroy",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "en": "Herøy",
+                "nb": "Herøy",
+                "nn": "Herøy"
+            }
+        },
+        {
+            "id": "Leirfjord",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Lodingen",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "en": "Lødingen",
+                "nb": "Lødingen",
+                "nn": "Lødingen"
+            }
+        },
+        {
+            "id": "Luroy",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "en": "Lurøy",
+                "nb": "Lurøy",
+                "nn": "Lurøy"
+            }
+        },
+        {
+            "id": "Meloy",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "en": "Meløy",
+                "nb": "Meløy",
+                "nn": "Meløy"
+            }
+        },
+        {
+            "id": "Moskenes",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Narvik",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Nesna",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Oksnes",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "en": "Øksnes",
+                "nb": "Øksnes",
+                "nn": "Øksnes"
+            }
+        },
+        {
+            "id": "Rana",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Rodoy",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "en": "Rødøy",
+                "nb": "Rødøy",
+                "nn": "Rødøy"
+            }
+        },
+        {
+            "id": "Rost",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "en": "Røst",
+                "nb": "Røst",
+                "nn": "Røst"
+            }
+        },
+        {
+            "id": "Saltdal",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Somna",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "en": "Sømna",
+                "nb": "Sømna",
+                "nn": "Sømna"
+            }
+        },
+        {
+            "id": "Sorfold",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "en": "Sørfold",
+                "nb": "Sørfold",
+                "nn": "Sørfold"
+            }
+        },
+        {
+            "id": "Sortland",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Steigen",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Tjeldsund",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Traena",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "en": "Træna",
+                "nb": "Træna",
+                "nn": "Træna"
+            }
+        },
+        {
+            "id": "Tysfjord",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Vaeroy",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "en": "Værøy",
+                "nb": "Værøy",
+                "nn": "Værøy"
+            }
+        },
+        {
+            "id": "Vagan",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "en": "Vågan",
+                "nb": "Vågan",
+                "nn": "Vågan"
+            }
+        },
+        {
+            "id": "Vefsn",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "et": "Vefsni vald",
+                "fa": "وفسن",
+                "nn": "Vefsn kommune",
+                "ru": "Вефсн",
+                "sv": "Vefsns kommun"
+            }
+        },
+        {
+            "id": "Vega",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Vestvagoy",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Vevelstad",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        }
+    ]
+}

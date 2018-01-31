@@ -1,0 +1,218 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "Alta",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Batsfjord",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "en": "Båtsfjord",
+                "nb": "Båtsfjord",
+                "nn": "Båtsfjord"
+            }
+        },
+        {
+            "id": "Berlevaag",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "en": "Berlevåg",
+                "nb": "Berlevåg",
+                "nn": "Berlevåg"
+            }
+        },
+        {
+            "id": "Berlevag",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Gamvik",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Hammerfest",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Hasvik",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Karasjok",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Kautokeino",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Kvalsund",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Lebesby",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Loppa",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Maasoy",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "en": "Måsøy",
+                "nb": "Måsøy",
+                "nn": "Måsøy"
+            }
+        },
+        {
+            "id": "Masoy",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Nesseby",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Nordkapp",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Porsanger",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Sor-Varanger",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "en": "Sør-Varanger",
+                "nb": "Sør-Varanger",
+                "nn": "Sør-Varanger"
+            }
+        },
+        {
+            "id": "Tana",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Vadso",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "en": "Vadsø",
+                "nb": "Vadsø",
+                "nn": "Vadsø"
+            }
+        },
+        {
+            "id": "Vardo",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "en": "Vardø",
+                "nb": "Vardø",
+                "nn": "Vardø"
+            }
+        }
+    ]
+}

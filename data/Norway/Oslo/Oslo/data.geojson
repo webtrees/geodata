@@ -1,0 +1,182 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "Alna",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Bjerke",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Frogner",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "et": "Frogneri linnaosa",
+                "nl": "Frogner (Oslo)"
+            }
+        },
+        {
+            "id": "Gamle Oslo",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "et": "Gamle Oslo linnaosa",
+                "nn": "Bydel Gamle Oslo",
+                "ru": "Гамле-Осло",
+                "uk": "Гамле Осло"
+            }
+        },
+        {
+            "id": "Grorud",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "et": "Grorudi linnaosa"
+            }
+        },
+        {
+            "id": "Grunerlokka",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "en": "Grünerløkka",
+                "nb": "Grünerløkka",
+                "nn": "Grünerløkka"
+            }
+        },
+        {
+            "id": "Nordre Aker",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "et": "Nordre Akeri linnaosa",
+                "nn": "Bydel Nordre Aker"
+            }
+        },
+        {
+            "id": "Nordstrand",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Ostensjo",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "en": "Østensjø",
+                "nb": "Østensjø",
+                "nn": "Østensjø"
+            }
+        },
+        {
+            "id": "Sagene",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "et": "Sagene linnaosa",
+                "fr": "Sagene (quartier)"
+            }
+        },
+        {
+            "id": "Sondre Nordstrand",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "St. Hanshaugen",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "et": "St. Hanshaugeni linnaosa",
+                "nn": "Bydel St. Hanshaugen"
+            }
+        },
+        {
+            "id": "Stovner",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "et": "Stovneri linnaosa"
+            }
+        },
+        {
+            "id": "Søndre Nordstrand",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "et": "Søndre Nordstrandi linnaosa"
+            }
+        },
+        {
+            "id": "Ullern",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "et": "Ullerni linnaosa"
+            }
+        },
+        {
+            "id": "Vestre Aker",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        }
+    ]
+}

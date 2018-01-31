@@ -1,266 +1,266 @@
 {
-	"type": "FeatureCollection",
-	"features": [
-		{
-			"id": "Avondale",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -64.12373, 45.02297 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Brooklyn",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -64.01113, 45.00638 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Ellershouse",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -64.00423, 44.94673 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Falmouth",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -64.15809, 44.99699 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Hantsport",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -64.18093, 45.06409 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Hillsvale",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -63.87692, 44.95834 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Indian Brook",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -63.48853, 45.09252 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Kennetcook",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -63.7213, 45.1779 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Lantz",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -63.48327, 44.98633 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Maitland",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -63.49749, 45.31804 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Martock",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -64.16057, 44.9516 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Milford",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -63.41566, 45.03969 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Mt Denson",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -64.16667, 45.05 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Mt Uniacke",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -63.83245, 44.8948 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Newport",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -64.00712, 45.0031 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Newport Corner",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -63.9771, 44.9654 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Newport Station",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -64.057, 44.96331 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Nine Mile River",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -63.57694, 45.04154 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Noel",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -63.74845, 45.29542 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Saint Croix",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -64.0338, 44.96194 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Shubenacadie",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -63.402, 45.08796 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "South Maitland",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -63.47284, 45.25366 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "South Rawdon",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -63.85133, 45.01502 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Stanley",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -63.92398, 45.08892 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Upper Rawdon",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -63.71169, 45.06766 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Vaughan",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -64.25, 44.81667 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Walton",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -64.0065, 45.22985 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Windsor",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -64.13104, 44.99029 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Woodville",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -63.93464, 45.03274 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		}
-	]
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "Avondale",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-64.12373,45.02297]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Brooklyn",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-64.01113,45.00638]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Ellershouse",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-64.00423,44.94673]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Falmouth",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-64.15809,44.99699]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Hantsport",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-64.18093,45.06409]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Hillsvale",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-63.87692,44.95834]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Indian Brook",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-63.48853,45.09252]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Kennetcook",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-63.7213,45.1779]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Lantz",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-63.48327,44.98633]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Maitland",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-63.49749,45.31804]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Martock",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-64.16057,44.9516]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Milford",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-63.41566,45.03969]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Mt Denson",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-64.16667,45.05]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Mt Uniacke",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-63.83245,44.8948]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Newport",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-64.00712,45.0031]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Newport Corner",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-63.9771,44.9654]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Newport Station",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-64.057,44.96331]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Nine Mile River",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-63.57694,45.04154]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Noel",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-63.74845,45.29542]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Saint Croix",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-64.0338,44.96194]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Shubenacadie",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-63.402,45.08796]
+            },
+            "properties": {}
+        },
+        {
+            "id": "South Maitland",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-63.47284,45.25366]
+            },
+            "properties": {}
+        },
+        {
+            "id": "South Rawdon",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-63.85133,45.01502]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Stanley",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-63.92398,45.08892]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Upper Rawdon",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-63.71169,45.06766]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Vaughan",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-64.25,44.81667]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Walton",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-64.0065,45.22985]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Windsor",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-64.13104,44.99029]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Woodville",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-63.93464,45.03274]
+            },
+            "properties": {}
+        }
+    ]
 }

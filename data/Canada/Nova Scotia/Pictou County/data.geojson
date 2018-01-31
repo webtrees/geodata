@@ -1,140 +1,140 @@
 {
-	"type": "FeatureCollection",
-	"features": [
-		{
-			"id": "Caribou",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -62.69179, 45.73109 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Eureka",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -62.68385, 45.49771 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Glengarry Station",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -62.76667, 45.41667 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Granton",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -62.73697, 45.62877 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Lansdowne Station",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -62.81879, 45.42912 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Merigomish",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -62.43197, 45.63026 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "New Glasgow",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -62.64512, 45.58717 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Pictou",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -62.7206, 45.67933 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Pictou Landing",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -62.68805, 45.66333 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "River John",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -63.05785, 45.75026 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Scotsburn",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -62.85131, 45.64981 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Stellarton",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -62.66039, 45.55678 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Thorburn",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -62.54806, 45.56546 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Trenton",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -62.63786, 45.61644 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Westville",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -62.71118, 45.5606 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		}
-	]
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "Caribou",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-62.69179,45.73109]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Eureka",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-62.68385,45.49771]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Glengarry Station",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-62.76667,45.41667]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Granton",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-62.73697,45.62877]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Lansdowne Station",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-62.81879,45.42912]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Merigomish",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-62.43197,45.63026]
+            },
+            "properties": {}
+        },
+        {
+            "id": "New Glasgow",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-62.64512,45.58717]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Pictou",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-62.7206,45.67933]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Pictou Landing",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-62.68805,45.66333]
+            },
+            "properties": {}
+        },
+        {
+            "id": "River John",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-63.05785,45.75026]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Scotsburn",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-62.85131,45.64981]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Stellarton",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-62.66039,45.55678]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Thorburn",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-62.54806,45.56546]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Trenton",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-62.63786,45.61644]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Westville",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-62.71118,45.5606]
+            },
+            "properties": {}
+        }
+    ]
 }

@@ -1,0 +1,330 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "Dovre",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "et": "Dovre vald",
+                "nl": "Dovre (gemeente)",
+                "nn": "Dovre kommune",
+                "ru": "Довре (коммуна)",
+                "sv": "Dovre kommun"
+            }
+        },
+        {
+            "id": "Etnedal",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "et": "Etnedali vald",
+                "nn": "Etnedal kommune",
+                "ru": "Этнедал",
+                "sv": "Etnedals kommun"
+            }
+        },
+        {
+            "id": "Gausdal",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "et": "Gausdali vald",
+                "nn": "Gausdal kommune",
+                "ru": "Гёусдал",
+                "sv": "Gausdals kommun"
+            }
+        },
+        {
+            "id": "Gjovik",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "en": "Gjøvik",
+                "nb": "Gjøvik",
+                "nn": "Gjøvik"
+            }
+        },
+        {
+            "id": "Gran",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Jevnaker",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "et": "Jevnakeri vald",
+                "nl": "Jevnaker (gemeente)",
+                "nn": "Jevnaker kommune",
+                "ru": "Евнакер",
+                "sv": "Jevnakers kommun"
+            }
+        },
+        {
+            "id": "Lesja",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Lillehammer",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Lom",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Lunner",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "et": "Lunneri vald",
+                "nn": "Lunner kommune",
+                "ru": "Луннер",
+                "sv": "Lunners kommun"
+            }
+        },
+        {
+            "id": "Nord-Aurdal",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "et": "Nord-Aurdali vald",
+                "nn": "Nord-Aurdal kommune",
+                "ru": "Нур-Эурдал",
+                "sv": "Nord-Aurdals kommun"
+            }
+        },
+        {
+            "id": "Nord-Fron",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "et": "Nord-Froni vald",
+                "nn": "Nord-Fron kommune",
+                "ru": "Нур-Фрон",
+                "sv": "Nord-Frons kommun"
+            }
+        },
+        {
+            "id": "Nordre Land",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "et": "Nordre Landi vald",
+                "fo": "Nordre Land kommuna",
+                "nn": "Nordre Land kommune",
+                "ru": "Нурре-Ланн",
+                "sv": "Nordre Lands kommun"
+            }
+        },
+        {
+            "id": "Ostre Toten",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "en": "Østre Toten",
+                "nb": "Østre Toten",
+                "nn": "Østre Toten"
+            }
+        },
+        {
+            "id": "Oyer",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "et": "Øyer",
+                "nn": "Øyer",
+                "uk": "Øyer"
+            }
+        },
+        {
+            "id": "Oystre Slidre",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "en": "Øystre Slidre",
+                "nb": "Øystre Slidre",
+                "nn": "Øystre Slidre"
+            }
+        },
+        {
+            "id": "Ringebu",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "et": "Ringebu vald",
+                "nl": "Ringebu (gemeente)",
+                "nn": "Ringebu kommune",
+                "ru": "Рингебу",
+                "sv": "Ringebu kommun"
+            }
+        },
+        {
+            "id": "Sel",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Skjak",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Sondre Land",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "en": "Søndre Land",
+                "nb": "Søndre Land",
+                "nn": "Søndre Land"
+            }
+        },
+        {
+            "id": "Sor-Aurdal",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "en": "Sør-Aurdal",
+                "nb": "Sør-Aurdal",
+                "nn": "Sør-Aurdal"
+            }
+        },
+        {
+            "id": "Sor-Fron",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "et": "Sør-Fron",
+                "nn": "Sør-Fron",
+                "sv": "Sør-Fron"
+            }
+        },
+        {
+            "id": "Vaga",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "en": "Vågå",
+                "nb": "Vågå",
+                "nn": "Vågå"
+            }
+        },
+        {
+            "id": "Vang",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Vestre Slidre",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "et": "Vestre Slidre vald",
+                "nn": "Vestre Slidre kommune",
+                "ru": "Вестре-Слидре",
+                "sv": "Vestre Slidre kommun"
+            }
+        },
+        {
+            "id": "Vestre Toten",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "et": "Vestre Toteni vald",
+                "nn": "Vestre Toten kommune",
+                "ru": "Вестре-Тутен",
+                "sv": "Vestre Totens kommun"
+            }
+        }
+    ]
+}

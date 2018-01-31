@@ -1,527 +1,527 @@
 {
-	"type": "FeatureCollection",
-	"features": [
-		{
-			"id": "Barss Corner",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -64.68095, 44.56634 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Big Tancook Island",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -64.16188, 44.45924 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Blandford",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -64.10972, 44.49289 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Blockhouse",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -64.42023, 44.44916 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Blue Rocks",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -64.24256, 44.35641 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Bridgewater",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Broad Cove",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -64.48547, 44.18467 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Chester",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -64.23888, 44.54212 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Chester Basin",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -64.30844, 44.56454 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Clearland",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -64.41667, 44.48333 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Conquerall Bank",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -64.46008, 44.3612 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Conquerall Mills",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -64.52587, 44.30809 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Crescent Beach",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -64.40495, 44.24458 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Dayspring",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -64.48038, 44.37685 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "East Chester",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -64.21775, 44.56621 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "East River",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -64.16637, 44.58641 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Fox Point",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -64.05887, 44.6119 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Hebbs Cross",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -64.56617, 44.30314 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Hebbville",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -64.53928, 44.35102 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Heckmans Island",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -64.25, 44.38333 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Hermans Island",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -64.32877, 44.41483 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Indian Point",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -64.3207, 44.45756 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Italy Cross",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -64.54911, 44.26165 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Kingsburg",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -64.2594, 44.27727 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "LaHave",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -64.36757, 44.29632 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Lake Centre",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -64.48333, 44.31667 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Lapland",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -64.67945, 44.29398 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Lunenburg",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -64.31884, 44.37701 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Maders Cove",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -64.35, 44.43333 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Mahone Bay",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -64.382, 44.449 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Martins Brook",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -64.35, 44.41667 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Martins Point",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -64.31389, 44.4935 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Martins River",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -64.33454, 44.48555 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Masons Beach",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -64.33749, 44.36376 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Middle LaHave",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -64.40797, 44.3212 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Mill Cove",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -64.06331, 44.58658 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "New Elm",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -64.83333, 44.4 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "New Germany",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -64.72876, 44.54555 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "New Ross",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -64.45665, 44.73701 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Newburne",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -64.6, 44.6 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Newcombville",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -64.61667, 44.38333 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Oak Hill",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -64.5, 44.4 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Oak Island",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -64.29495, 44.51228 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Oakland",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -64.36323, 44.45025 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Parkdale",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -64.63333, 44.65 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Petite Riviere Bridge",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -64.44733, 44.23328 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Pinehurst",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -64.64271, 44.49588 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Pleasantville",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -64.44281, 44.34018 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Riverport",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -64.3276, 44.29464 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Rose Bay",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -64.30538, 44.29849 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Second Peninsula",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -64.28405, 44.39805 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Voglers Cove",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -64.53335, 44.15722 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Wentzells Lake",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -64.62756, 44.48353 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "West Clifford",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -64.73333, 44.41667 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "West LaHave",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -64.41573, 44.3145 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Western Shore",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -64.3145, 44.5314 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Whynotts Settlement",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -64.46667, 44.4 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Wileville",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -64.55, 44.36667 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		}
-	]
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "Barss Corner",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-64.68095,44.56634]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Big Tancook Island",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-64.16188,44.45924]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Blandford",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-64.10972,44.49289]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Blockhouse",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-64.42023,44.44916]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Blue Rocks",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-64.24256,44.35641]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Bridgewater",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Broad Cove",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-64.48547,44.18467]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Chester",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-64.23888,44.54212]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Chester Basin",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-64.30844,44.56454]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Clearland",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-64.41667,44.48333]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Conquerall Bank",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-64.46008,44.3612]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Conquerall Mills",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-64.52587,44.30809]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Crescent Beach",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-64.40495,44.24458]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Dayspring",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-64.48038,44.37685]
+            },
+            "properties": {}
+        },
+        {
+            "id": "East Chester",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-64.21775,44.56621]
+            },
+            "properties": {}
+        },
+        {
+            "id": "East River",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-64.16637,44.58641]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Fox Point",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-64.05887,44.6119]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Hebbs Cross",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-64.56617,44.30314]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Hebbville",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-64.53928,44.35102]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Heckmans Island",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-64.25,44.38333]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Hermans Island",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-64.32877,44.41483]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Indian Point",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-64.3207,44.45756]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Italy Cross",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-64.54911,44.26165]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Kingsburg",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-64.2594,44.27727]
+            },
+            "properties": {}
+        },
+        {
+            "id": "LaHave",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-64.36757,44.29632]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Lake Centre",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-64.48333,44.31667]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Lapland",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-64.67945,44.29398]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Lunenburg",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-64.31884,44.37701]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Maders Cove",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-64.35,44.43333]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Mahone Bay",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-64.382,44.449]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Martins Brook",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-64.35,44.41667]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Martins Point",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-64.31389,44.4935]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Martins River",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-64.33454,44.48555]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Masons Beach",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-64.33749,44.36376]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Middle LaHave",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-64.40797,44.3212]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Mill Cove",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-64.06331,44.58658]
+            },
+            "properties": {}
+        },
+        {
+            "id": "New Elm",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-64.83333,44.4]
+            },
+            "properties": {}
+        },
+        {
+            "id": "New Germany",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-64.72876,44.54555]
+            },
+            "properties": {}
+        },
+        {
+            "id": "New Ross",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-64.45665,44.73701]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Newburne",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-64.6,44.6]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Newcombville",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-64.61667,44.38333]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Oak Hill",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-64.5,44.4]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Oak Island",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-64.29495,44.51228]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Oakland",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-64.36323,44.45025]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Parkdale",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-64.63333,44.65]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Petite Riviere Bridge",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-64.44733,44.23328]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Pinehurst",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-64.64271,44.49588]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Pleasantville",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-64.44281,44.34018]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Riverport",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-64.3276,44.29464]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Rose Bay",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-64.30538,44.29849]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Second Peninsula",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-64.28405,44.39805]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Voglers Cove",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-64.53335,44.15722]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Wentzells Lake",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-64.62756,44.48353]
+            },
+            "properties": {}
+        },
+        {
+            "id": "West Clifford",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-64.73333,44.41667]
+            },
+            "properties": {}
+        },
+        {
+            "id": "West LaHave",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-64.41573,44.3145]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Western Shore",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-64.3145,44.5314]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Whynotts Settlement",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-64.46667,44.4]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Wileville",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-64.55,44.36667]
+            },
+            "properties": {}
+        }
+    ]
 }

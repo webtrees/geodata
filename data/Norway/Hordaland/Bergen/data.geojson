@@ -1,0 +1,94 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "Arna",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Arstad",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "en": "Årstad",
+                "nb": "Årstad",
+                "nn": "Årstad"
+            }
+        },
+        {
+            "id": "Asane",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "en": "Åsane",
+                "nb": "Åsane",
+                "nn": "Åsane"
+            }
+        },
+        {
+            "id": "Bergenhus",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Fana",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "el": "Φάνα (Νορβηγία)",
+                "fr": "Fana (Norvège)",
+                "nl": "Fana (Bergen)",
+                "sv": "Fana, Norge"
+            }
+        },
+        {
+            "id": "Fyllingsdalen",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Laksevag",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "en": "Laksevåg",
+                "nb": "Laksevåg",
+                "nn": "Laksevåg"
+            }
+        },
+        {
+            "id": "Ytrebygda",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {}
+        }
+    ]
+}

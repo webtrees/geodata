@@ -1,4 +1,23 @@
 {
-	"type": "FeatureCollection",
-	"features": []
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "Orkney",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Shetland",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        }
+    ]
 }

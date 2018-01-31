@@ -1,0 +1,291 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "Ardal",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "en": "Årdal",
+                "nb": "Årdal",
+                "nn": "Årdal"
+            }
+        },
+        {
+            "id": "Askvoll",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Aurland",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "et": "Aurlandi vald",
+                "nn": "Aurland kommune",
+                "ru": "Эурланн",
+                "sv": "Aurlands kommun"
+            }
+        },
+        {
+            "id": "Balestrand",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Bremanger",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Eid",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Fjaler",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Flora",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Forde",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "en": "Førde",
+                "nb": "Førde",
+                "nn": "Førde"
+            }
+        },
+        {
+            "id": "Gaular",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Gloppen",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Gulen",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "et": "Guleni vald",
+                "fo": "Gulen kommuna",
+                "nn": "Gulen kommune",
+                "ru": "Гулен",
+                "sv": "Gulens kommun"
+            }
+        },
+        {
+            "id": "Hornindal",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Hoyanger",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "en": "Høyanger",
+                "nb": "Høyanger",
+                "nn": "Høyanger"
+            }
+        },
+        {
+            "id": "Hyllestad",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Jolster",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "en": "Jølster",
+                "nb": "Jølster",
+                "nn": "Jølster"
+            }
+        },
+        {
+            "id": "Laerdal",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "en": "Lærdal",
+                "nb": "Lærdal",
+                "nn": "Lærdal"
+            }
+        },
+        {
+            "id": "Leikanger",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Luster",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Naustdal",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Selje",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Sogndal",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "el": "Σόγκνταλ",
+                "ko": "송달 (노르웨이)",
+                "lt": "Sogndalis",
+                "nn": "Sogndal kommune",
+                "ru": "Согндал",
+                "sv": "Sogndals kommun"
+            }
+        },
+        {
+            "id": "Solund",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "et": "Solundi vald",
+                "nn": "Solund kommune",
+                "ru": "Сулунн",
+                "sv": "Solunds kommun"
+            }
+        },
+        {
+            "id": "Stryn",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "et": "Stryni vald",
+                "nn": "Stryn kommune",
+                "ru": "Стрюн",
+                "sv": "Stryns kommun"
+            }
+        },
+        {
+            "id": "Vagsoy",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "en": "Vågsøy",
+                "nb": "Vågsøy",
+                "nn": "Vågsøy"
+            }
+        },
+        {
+            "id": "Vik",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        }
+    ]
+}

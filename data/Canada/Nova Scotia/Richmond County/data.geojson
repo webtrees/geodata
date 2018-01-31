@@ -2,100 +2,118 @@
     "type": "FeatureCollection",
     "features": [
         {
-            "type": "Feature",
             "id": "Arichat",
+            "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [-61.01184, 45.51373]
-            }
+                "coordinates": [-61.01184,45.51373]
+            },
+            "properties": []
         },
         {
-            "type": "Feature",
             "id": "Chapel Island",
+            "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [-60.78255, 45.71623]
-            }
+                "coordinates": [-60.78255,45.71623]
+            },
+            "properties": []
         },
         {
-            "type": "Feature",
             "id": "Cleveland",
+            "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [-61.23179, 45.66797]
-            }
+                "coordinates": [-61.23179,45.66797]
+            },
+            "properties": []
         },
         {
-            "type": "Feature",
             "id": "D'Escousse",
+            "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [-60.95881, 45.58765]
+                "coordinates": [-60.95881,45.58765]
+            },
+            "properties": {
+                "en": "D’Escousse",
+                "fr": "D’Escousse"
             }
         },
         {
-            "type": "Feature",
             "id": "Evanston",
+            "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [-61.21667, 45.61667]
-            }
+                "coordinates": [-61.21667,45.61667]
+            },
+            "properties": []
         },
         {
-            "type": "Feature",
             "id": "Grand River",
+            "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [-60.66667, 45.65]
-            }
+                "coordinates": [-60.66667,45.65]
+            },
+            "properties": []
         },
         {
-            "type": "Feature",
             "id": "Isle Madame",
+            "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [-61.01069, 45.53712]
-            }
+                "coordinates": [-61.01069,45.53712]
+            },
+            "properties": []
         },
         {
-            "type": "Feature",
             "id": "L'Ardoise",
+            "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [-60.76632, 45.61516]
+                "coordinates": [-60.76632,45.61516]
+            },
+            "properties": {
+                "en": "L’Ardoise",
+                "fr": "L’Ardoise"
             }
         },
         {
-            "type": "Feature",
             "id": "Louisdale",
+            "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [-61.06249, 45.60696]
-            }
+                "coordinates": [-61.06249,45.60696]
+            },
+            "properties": []
         },
         {
-            "type": "Feature",
             "id": "Petit-de-Grat",
+            "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [-60.95683, 45.50567]
-            }
+                "coordinates": [-60.95683,45.50567]
+            },
+            "properties": []
         },
         {
-            "type": "Feature",
             "id": "River Bourgeois",
+            "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [-60.9317, 45.63188]
-            }
+                "coordinates": [-60.9317,45.63188]
+            },
+            "properties": []
         },
         {
-            "type": "Feature",
             "id": "St Peters",
+            "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [-60.89275, 45.66013]
-            }
+                "coordinates": [-60.89275,45.66013]
+            },
+            "properties": []
         }
     ]
 }

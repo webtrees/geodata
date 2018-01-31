@@ -1,0 +1,18 @@
+{
+    "require": {
+        "php": "~7.4",
+        "ext-dom": "*",
+        "ext-json": "*",
+        "symfony/console": "~5.0",
+        "league/flysystem": "~1.0",
+        "league/flysystem-ziparchive": "~1.0",
+        "intervention/image": "~2.5",
+        "guzzlehttp/guzzle": "~6.5",
+        "masterminds/html5": "~2.7"
+    },
+    "autoload": {
+        "psr-4": {
+            "Webtrees\\Geodata\\": "src/"
+        }
+    }
+}

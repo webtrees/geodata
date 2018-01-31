@@ -1,492 +1,492 @@
 {
-	"type": "FeatureCollection",
-	"features": [
-		{
-			"id": "Algoma District",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {
-				"fr": "District d’Algoma"
-			},
-			"type": "Feature"
-		},
-		{
-			"id": "Bruce County",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {
-				"fr": "Comté de Bruce"
-			},
-			"type": "Feature"
-		},
-		{
-			"id": "Cochrane District",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {
-				"fr": "District de Cochrane"
-			},
-			"type": "Feature"
-		},
-		{
-			"id": "Dufferin County",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {
-				"fr": "District de Dufferin"
-			},
-			"type": "Feature"
-		},
-		{
-			"id": "Elgin County",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {
-				"fr": "Comté d’Elgin"
-			},
-			"type": "Feature"
-		},
-		{
-			"id": "Essex County",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {
-				"fr": "Comté d’Essex"
-			},
-			"type": "Feature"
-		},
-		{
-			"id": "Frontenac County",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {
-				"fr": "Comté de Frontenac"
-			},
-			"type": "Feature"
-		},
-		{
-			"id": "Greater Sudbury",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Grey County",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {
-				"fr": "Comté de Grey"
-			},
-			"type": "Feature"
-		},
-		{
-			"id": "Haldimand",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Haliburton County",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {
-				"fr": "Comté de Haliburton"
-			},
-			"type": "Feature"
-		},
-		{
-			"id": "Halton",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Hamilton",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Hastings County",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {
-				"fr": "Comté de Hastings"
-			},
-			"type": "Feature"
-		},
-		{
-			"id": "Huron County",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {
-				"fr": "Comté de Huron"
-			},
-			"type": "Feature"
-		},
-		{
-			"id": "Kawartha Lakes",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Kenora District",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {
-				"fr": "District de Kenora"
-			},
-			"type": "Feature"
-		},
-		{
-			"id": "Lambton County",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {
-				"fr": "Comté de Lambton"
-			},
-			"type": "Feature"
-		},
-		{
-			"id": "Lanark County",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {
-				"fr": "Comté de Lanark"
-			},
-			"type": "Feature"
-		},
-		{
-			"id": "Lennox and Addington County",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {
-				"fr": "Comté de Lennox et Addington"
-			},
-			"type": "Feature"
-		},
-		{
-			"id": "Manitoulin District",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {
-				"fr": "District de Manitoulin"
-			},
-			"type": "Feature"
-		},
-		{
-			"id": "Middlesex County",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {
-				"fr": "Comté de Middlesex"
-			},
-			"type": "Feature"
-		},
-		{
-			"id": "Muskoka",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Niagara",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Nipissing District",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {
-				"fr": "District de Nipissing"
-			},
-			"type": "Feature"
-		},
-		{
-			"id": "Norfolk",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Northumberland County",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {
-				"fr": "Comté de Northumberland"
-			},
-			"type": "Feature"
-		},
-		{
-			"id": "Ottawa",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Oxford",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Parry Sound District",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {
-				"fr": "District de Parry Sound"
-			},
-			"type": "Feature"
-		},
-		{
-			"id": "Peel",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Perth County",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {
-				"fr": "Comté de Perth"
-			},
-			"type": "Feature"
-		},
-		{
-			"id": "Peterborough County",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {
-				"fr": "Comté de Peterborough"
-			},
-			"type": "Feature"
-		},
-		{
-			"id": "Prince Edward",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Rainy River District",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {
-				"fr": "District de Rainy River"
-			},
-			"type": "Feature"
-		},
-		{
-			"id": "Renfrew County",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {
-				"fr": "Comté de Renfrew"
-			},
-			"type": "Feature"
-		},
-		{
-			"id": "Simcoe County",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {
-				"fr": "Comté de Simcoe"
-			},
-			"type": "Feature"
-		},
-		{
-			"id": "Sudbury District",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {
-				"fr": "District de Sudbury"
-			},
-			"type": "Feature"
-		},
-		{
-			"id": "Thunder Bay District",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {
-				"fr": "District de Thunder Bay"
-			},
-			"type": "Feature"
-		},
-		{
-			"id": "Timiskaming District",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {
-				"fr": "District de Timiskaming"
-			},
-			"type": "Feature"
-		},
-		{
-			"id": "Toronto",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "United Counties of Leeds and Grenville",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {
-				"fr": "Comté Unis de Leeds et Grenville"
-			},
-			"type": "Feature"
-		},
-		{
-			"id": "United Counties of Prescott and Russell",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {
-				"fr": "Comté Unis de Prescott et Russell"
-			},
-			"type": "Feature"
-		},
-		{
-			"id": "United Counties of Stormont, Dundas and Glengarry",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {
-				"fr": "Comté de Unis Stormont, Dundas et Glengarry"
-			},
-			"type": "Feature"
-		},
-		{
-			"id": "Waterloo",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Wellington County",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {
-				"fr": "Comté de Wellington"
-			},
-			"type": "Feature"
-		},
-		{
-			"id": "York",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		}
-	]
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "Algoma District",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "fr": "District d’Algoma"
+            }
+        },
+        {
+            "id": "Bruce County",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "fr": "Comté de Bruce"
+            }
+        },
+        {
+            "id": "Cochrane District",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "fr": "District de Cochrane"
+            }
+        },
+        {
+            "id": "Dufferin County",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "fr": "District de Dufferin"
+            }
+        },
+        {
+            "id": "Elgin County",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "fr": "Comté d’Elgin"
+            }
+        },
+        {
+            "id": "Essex County",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "fr": "Comté d’Essex"
+            }
+        },
+        {
+            "id": "Frontenac County",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "fr": "Comté de Frontenac"
+            }
+        },
+        {
+            "id": "Greater Sudbury",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Grey County",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "fr": "Comté de Grey"
+            }
+        },
+        {
+            "id": "Haldimand",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Haliburton County",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "fr": "Comté de Haliburton"
+            }
+        },
+        {
+            "id": "Halton",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Hamilton",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Hastings County",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "fr": "Comté de Hastings"
+            }
+        },
+        {
+            "id": "Huron County",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "fr": "Comté de Huron"
+            }
+        },
+        {
+            "id": "Kawartha Lakes",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Kenora District",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "fr": "District de Kenora"
+            }
+        },
+        {
+            "id": "Lambton County",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "fr": "Comté de Lambton"
+            }
+        },
+        {
+            "id": "Lanark County",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "fr": "Comté de Lanark"
+            }
+        },
+        {
+            "id": "Lennox and Addington County",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "fr": "Comté de Lennox et Addington"
+            }
+        },
+        {
+            "id": "Manitoulin District",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "fr": "District de Manitoulin"
+            }
+        },
+        {
+            "id": "Middlesex County",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "fr": "Comté de Middlesex"
+            }
+        },
+        {
+            "id": "Muskoka",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Niagara",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Nipissing District",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "fr": "District de Nipissing"
+            }
+        },
+        {
+            "id": "Norfolk",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Northumberland County",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "fr": "Comté de Northumberland"
+            }
+        },
+        {
+            "id": "Ottawa",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Oxford",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Parry Sound District",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "fr": "District de Parry Sound"
+            }
+        },
+        {
+            "id": "Peel",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Perth County",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "fr": "Comté de Perth"
+            }
+        },
+        {
+            "id": "Peterborough County",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "fr": "Comté de Peterborough"
+            }
+        },
+        {
+            "id": "Prince Edward",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Rainy River District",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "fr": "District de Rainy River"
+            }
+        },
+        {
+            "id": "Renfrew County",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "fr": "Comté de Renfrew"
+            }
+        },
+        {
+            "id": "Simcoe County",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "fr": "Comté de Simcoe"
+            }
+        },
+        {
+            "id": "Sudbury District",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "fr": "District de Sudbury"
+            }
+        },
+        {
+            "id": "Thunder Bay District",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "fr": "District de Thunder Bay"
+            }
+        },
+        {
+            "id": "Timiskaming District",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "fr": "District de Timiskaming"
+            }
+        },
+        {
+            "id": "Toronto",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {}
+        },
+        {
+            "id": "United Counties of Leeds and Grenville",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "fr": "Comté Unis de Leeds et Grenville"
+            }
+        },
+        {
+            "id": "United Counties of Prescott and Russell",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "fr": "Comté Unis de Prescott et Russell"
+            }
+        },
+        {
+            "id": "United Counties of Stormont Dundas and Glengarry",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "fr": "Comté de Unis Stormont Dundas et Glengarry"
+            }
+        },
+        {
+            "id": "Waterloo",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Wellington County",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "fr": "Comté de Wellington"
+            }
+        },
+        {
+            "id": "York",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {}
+        }
+    ]
 }

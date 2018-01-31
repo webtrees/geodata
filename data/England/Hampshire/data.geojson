@@ -1,0 +1,14 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "Isle of Wight",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        }
+    ]
+}

@@ -1,167 +1,167 @@
 {
-	"type": "FeatureCollection",
-	"features": [
-		{
-			"type": "Feature",
-			"id": "Amherst",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -64.217, 45.817 ]
-			},
-			"properties": {}
-		},
-		{
-			"id": "Five Islands",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -64.02233, 45.48633 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"type": "Feature",
-			"id": "Fort Lawrence",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -64.248, 45.849 ]
-			},
-			"properties": {}
-		},
-		{
-			"id": "Joggins",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -64.44341, 45.69193 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Linden",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -63.82288, 45.87793 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Malagash",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -63.37664, 45.7721 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Minudie",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -64.35, 45.76667 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Moose River",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -64.17844, 45.41766 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Northport",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -63.86431, 45.93131 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Oxford",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -63.86729, 45.73631 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Parrsboro",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -64.32589, 45.40566 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Port Philip",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Pugwash",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -63.66026, 45.85072 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "River Hebert",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -64.37798, 45.69022 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Shinimicas Bridge",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -63.91527, 45.87308 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Springhill",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -64.05996, 45.64865 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Wallace",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -63.47335, 45.81377 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Wentworth",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -63.54911, 45.65645 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		}
-	]
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "Amherst",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-64.217,45.817]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Five Islands",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-64.02233,45.48633]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Fort Lawrence",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-64.248,45.849]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Joggins",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-64.44341,45.69193]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Linden",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-63.82288,45.87793]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Malagash",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-63.37664,45.7721]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Minudie",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-64.35,45.76667]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Moose River",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-64.17844,45.41766]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Northport",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-63.86431,45.93131]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Oxford",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-63.86729,45.73631]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Parrsboro",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-64.32589,45.40566]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Port Philip",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Pugwash",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-63.66026,45.85072]
+            },
+            "properties": {}
+        },
+        {
+            "id": "River Hebert",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-64.37798,45.69022]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Shinimicas Bridge",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-63.91527,45.87308]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Springhill",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-64.05996,45.64865]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Wallace",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-63.47335,45.81377]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Wentworth",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-63.54911,45.65645]
+            },
+            "properties": {}
+        }
+    ]
 }

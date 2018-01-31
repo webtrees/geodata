@@ -1,158 +1,149 @@
 {
-	"type": "FeatureCollection",
-	"features": [
-		{
-			"id": "\"Level\";\"Country\";\"State\";\"County\";\"City\";\"Place\";\"Longitude\";\"Latitude\";\"Zoom level\";\"Icon\";",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "3;Canada;Nova Scotia;Guysborough;Boylston;;W61.49417;N45.43961;13;",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "3;Canada;Nova Scotia;Guysborough;Canso;;W60.99444;N45.33628;13;",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "3;Canada;Nova Scotia;Guysborough;Charlos Cove;;W61.33288;N45.24984;13;",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "3;Canada;Nova Scotia;Guysborough;Ecum Secum;;W62.11294;N44.96853;13;",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "3;Canada;Nova Scotia;Guysborough;Goshen;;W61.97303;N45.37797;15;",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "3;Canada;Nova Scotia;Guysborough;Guysborough;;W61.49896;N45.39061;13;",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "3;Canada;Nova Scotia;Guysborough;Halfway Cove;;W61.36679;N45.34665;13;",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "3;Canada;Nova Scotia;Guysborough;Larrys River;;W61.37700;N45.22147;13;",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "3;Canada;Nova Scotia;Guysborough;Lincolnville;;W61.55000;N45.50000;13;",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "3;Canada;Nova Scotia;Guysborough;Little Dover;;W61.4948;N45.28971;13;",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "3;Canada;Nova Scotia;Guysborough;Melrose;;W62.4017;N45.26152;13;",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "3;Canada;Nova Scotia;Guysborough;Mulgrave;;W61.39173;N45.61185;13;",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "3;Canada;Nova Scotia;Guysborough;New Harbour;;W61.46667;N45.16667;13;",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "3;Canada;Nova Scotia;Guysborough;Sherbrooke;;W61.97991;N45.14022;13;",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "3;Canada;Nova Scotia;Guysborough;White Head;;W61.18333;N45.23333;13;",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "3;Canada;Nova Scotia;Guysborough;Wine Harbour;;W61.85000;N45.8333;13;",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		}
-	]
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "Boylston",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-61.49417,45.43961]
+            },
+            "properties": []
+        },
+        {
+            "id": "Canso",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-60.99444,45.33628]
+            },
+            "properties": []
+        },
+        {
+            "id": "Charlos Cove",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-61.33288,45.24984]
+            },
+            "properties": []
+        },
+        {
+            "id": "Ecum Secum",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-62.11294,44.96853]
+            },
+            "properties": []
+        },
+        {
+            "id": "Goshen",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-61.97303,45.37797]
+            },
+            "properties": []
+        },
+        {
+            "id": "Guysborough",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-61.49896,45.39061]
+            },
+            "properties": []
+        },
+        {
+            "id": "Halfway Cove",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-61.36679,45.34665]
+            },
+            "properties": []
+        },
+        {
+            "id": "Larrys River",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-61.377,45.22147]
+            },
+            "properties": []
+        },
+        {
+            "id": "Lincolnville",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-61.55,45.5]
+            },
+            "properties": []
+        },
+        {
+            "id": "Little Dover",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-61.04948,45.28971]
+            },
+            "properties": []
+        },
+        {
+            "id": "Melrose",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-62.04017,45.26152]
+            },
+            "properties": []
+        },
+        {
+            "id": "Mulgrave",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-61.39173,45.61185]
+            },
+            "properties": []
+        },
+        {
+            "id": "New Harbour",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-61.46667,45.16667]
+            },
+            "properties": []
+        },
+        {
+            "id": "Sherbrooke",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-61.97991,45.14022]
+            },
+            "properties": []
+        },
+        {
+            "id": "White Head",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-61.18333,45.23333]
+            },
+            "properties": []
+        },
+        {
+            "id": "Wine Harbour",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-61.85,45.08333]
+            },
+            "properties": []
+        }
+    ]
 }

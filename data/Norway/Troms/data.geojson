@@ -1,0 +1,296 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "Balsfjord",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Bardu",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Berg",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Bjarkoy",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "en": "Bjarkøy",
+                "nb": "Bjarkøy",
+                "nn": "Bjarkøy"
+            }
+        },
+        {
+            "id": "Dyroy",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "en": "Dyrøy",
+                "nb": "Dyrøy",
+                "nn": "Dyrøy"
+            }
+        },
+        {
+            "id": "Gratangen",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Harstad",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Ibestad",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Kafjord",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "en": "Kåfjord",
+                "nb": "Kåfjord",
+                "nn": "Kåfjord"
+            }
+        },
+        {
+            "id": "Karlsoy",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Kvaefjord",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "en": "Kvæfjord",
+                "nb": "Kvæfjord",
+                "nn": "Kvæfjord"
+            }
+        },
+        {
+            "id": "Kvaenangen",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "en": "Kvænangen",
+                "nb": "Kvænangen",
+                "nn": "Kvænangen"
+            }
+        },
+        {
+            "id": "Lavangen",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Lenvik",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Lyngen",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "et": "Lyngeni vald",
+                "fi": "Yykeä",
+                "nl": "Lyngen (gemeente)",
+                "nn": "Lyngen kommune",
+                "ru": "Люнген",
+                "sv": "Lyngens kommun"
+            }
+        },
+        {
+            "id": "Malselv",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "en": "Målselv",
+                "nb": "Målselv",
+                "nn": "Målselv"
+            }
+        },
+        {
+            "id": "Nordreisa",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "et": "Nordreisa vald",
+                "fi": "Raisi",
+                "nn": "Nordreisa kommune",
+                "ru": "Нуррейса",
+                "sv": "Nordreisa kommun"
+            }
+        },
+        {
+            "id": "Salangen",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Skaanland",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "en": "Skånland",
+                "nb": "Skånland",
+                "nn": "Skånland"
+            }
+        },
+        {
+            "id": "Skanland",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Skjervoy",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "en": "Skjervøy",
+                "nb": "Skjervøy",
+                "nn": "Skjervøy"
+            }
+        },
+        {
+            "id": "Sorreisa",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "en": "Sørreisa",
+                "nb": "Sørreisa",
+                "nn": "Sørreisa"
+            }
+        },
+        {
+            "id": "Storfjord",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Torsken",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Tranoy",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "en": "Tranøy",
+                "nb": "Tranøy",
+                "nn": "Tranøy"
+            }
+        },
+        {
+            "id": "Tromso",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "en": "Tromsø",
+                "nb": "Tromsø",
+                "nn": "Tromsø"
+            }
+        }
+    ]
+}

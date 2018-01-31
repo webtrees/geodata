@@ -1,0 +1,208 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "Aremark",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "et": "Aremarki vald",
+                "nn": "Aremark kommune",
+                "ru": "Аремарк",
+                "sv": "Aremarks kommun"
+            }
+        },
+        {
+            "id": "Askim",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Eidsberg",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Fredrikstad",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Halden",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Hobol",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "en": "Hobøl",
+                "nb": "Hobøl",
+                "nn": "Hobøl"
+            }
+        },
+        {
+            "id": "Hvaler",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Marker",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Moss",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Rade",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "en": "Råde",
+                "nb": "Råde",
+                "nn": "Råde"
+            }
+        },
+        {
+            "id": "Rakkestad",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "et": "Rakkestadi vald",
+                "nl": "Rakkestad (gemeente)",
+                "nn": "Rakkestad kommune",
+                "ru": "Раккестад",
+                "sv": "Rakkestads kommun"
+            }
+        },
+        {
+            "id": "Romskog",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "et": "Rømskog",
+                "nn": "Rømskog",
+                "sv": "Rømskog"
+            }
+        },
+        {
+            "id": "Rygge",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "et": "Rygge vald",
+                "nn": "Rygge kommune",
+                "ru": "Рюгге (Норвегия)",
+                "sv": "Rygge kommun"
+            }
+        },
+        {
+            "id": "Sarpsborg",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Skiptvet",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Spydeberg",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "et": "Spydebergi vald",
+                "nn": "Spydeberg kommune",
+                "ru": "Спюдеберг",
+                "sv": "Spydebergs kommun"
+            }
+        },
+        {
+            "id": "Trogstad",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "en": "Trøgstad",
+                "nb": "Trøgstad",
+                "nn": "Trøgstad"
+            }
+        },
+        {
+            "id": "Valer",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {
+                "en": "Våler",
+                "nb": "Våler",
+                "nn": "Våler"
+            }
+        }
+    ]
+}

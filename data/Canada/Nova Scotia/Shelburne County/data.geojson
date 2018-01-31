@@ -2,148 +2,169 @@
     "type": "FeatureCollection",
     "features": [
         {
-            "type": "Feature",
             "id": "Atwoods Brook",
+            "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [-65.66181, 43.50346]
-            }
+                "coordinates": [-65.66181,43.50346]
+            },
+            "properties": []
         },
         {
-            "type": "Feature",
             "id": "Barrington",
+            "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [-65.5644, 43.56434]
-            }
+                "coordinates": [-65.5644,43.56434]
+            },
+            "properties": []
         },
         {
-            "type": "Feature",
             "id": "Barrington Passage",
+            "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [-65.60927, 43.52723]
-            }
+                "coordinates": [-65.60927,43.52723]
+            },
+            "properties": []
         },
         {
-            "type": "Feature",
             "id": "Birchtown",
+            "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [-65.37865, 43.74773]
-            }
+                "coordinates": [-65.37865,43.74773]
+            },
+            "properties": []
         },
         {
-            "type": "Feature",
             "id": "Centreville",
+            "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [-65.60208, 43.47556]
-            }
+                "coordinates": [-65.60208,43.47556]
+            },
+            "properties": []
         },
         {
-            "type": "Feature",
             "id": "Clark's Harbour",
+            "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [-65.65121, 43.45071]
+                "coordinates": [-65.65121,43.45071]
+            },
+            "properties": {
+                "en": "Clark’s Harbour",
+                "fr": "Clark’s Harbour"
             }
         },
         {
-            "type": "Feature",
             "id": "Clyde River",
+            "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [-65.47739, 43.63229]
-            }
+                "coordinates": [-65.47739,43.63229]
+            },
+            "properties": []
         },
         {
-            "type": "Feature",
             "id": "Ingomar",
+            "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [-65.35853, 43.56372]
-            }
+                "coordinates": [-65.35853,43.56372]
+            },
+            "properties": []
         },
         {
-            "type": "Feature",
             "id": "Jordan Bay",
+            "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [-65.23799, 43.70256]
-            }
+                "coordinates": [-65.23799,43.70256]
+            },
+            "properties": []
         },
         {
-            "type": "Feature",
             "id": "Jordan Falls",
+            "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [-65.23201, 43.81567]
-            }
+                "coordinates": [-65.23201,43.81567]
+            },
+            "properties": []
         },
         {
-            "type": "Feature",
             "id": "Little Harbour",
+            "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [-65.03628, 43.71963]
-            }
+                "coordinates": [-65.03628,43.71963]
+            },
+            "properties": []
         },
         {
-            "type": "Feature",
             "id": "Lockeport",
+            "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [-65.1138, 43.69978]
-            }
+                "coordinates": [-65.1138,43.69978]
+            },
+            "properties": []
         },
         {
-            "type": "Feature",
             "id": "Louis Head",
+            "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [-65.0167, 43.74966]
-            }
+                "coordinates": [-65.0167,43.74966]
+            },
+            "properties": []
         },
         {
-            "type": "Feature",
             "id": "Rockland",
+            "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [-65.07328, 43.74027]
-            }
+                "coordinates": [-65.07328,43.74027]
+            },
+            "properties": []
         },
         {
-            "type": "Feature",
             "id": "Sable River",
+            "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [-65.06367, 43.83934]
-            }
+                "coordinates": [-65.06367,43.83934]
+            },
+            "properties": []
         },
         {
-            "type": "Feature",
             "id": "Shag Arbour",
+            "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [-65.69978, 43.49869]
-            }
+                "coordinates": [-65.69978,43.49869]
+            },
+            "properties": []
         },
         {
-            "type": "Feature",
             "id": "Shelburne",
+            "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [-65.32402, 43.76436]
-            }
+                "coordinates": [-65.32402,43.76436]
+            },
+            "properties": []
         },
         {
-            "type": "Feature",
             "id": "Woods Harbour",
+            "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [-65.73333, 43.55]
-            }
+                "coordinates": [-65.73333,43.55]
+            },
+            "properties": []
         }
     ]
 }

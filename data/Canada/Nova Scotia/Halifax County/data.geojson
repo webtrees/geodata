@@ -1,599 +1,599 @@
 {
-	"type": "FeatureCollection",
-	"features": [
-		{
-			"id": "Bayside",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -63.80039, 44.53337 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Beaver Bank",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -63.70718, 44.86793 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Bedford",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -63.69085, 44.72466 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Black Point",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -63.98138, 44.65157 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Boutiliers Point",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -63.95272, 44.6598 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Brookside",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -63.72407, 44.55391 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Cole Harbour",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -63.45344, 44.64581 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Dartmouth",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -63.56774, 44.66521 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "East Jeddore",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -63.00368, 44.73197 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Eastern Passage",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -63.47488, 44.61644 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Elderbank",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -63.21633, 44.98027 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Elmsdale",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -63.50642, 44.96697 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Enfield",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -63.53617, 44.94353 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Fall River",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -63.61207, 44.81807 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "French Village",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -63.89727, 44.62676 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Hacketts Cove",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -63.9255, 44.56198 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Halifax",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -63.57524, 44.64876 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Hammonds Plains",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -63.78501, 44.73367 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Harrietsfield",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -63.63455, 44.56968 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Hatchet Lake",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -63.7133, 44.56794 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Head of Chezzetcook",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -63.25222, 44.74141 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Hean of Saint Margarets Bay",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -63.91675, 44.68298 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Herring Cove",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -63.56196, 44.5714 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Hubbards",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -64.05178, 44.64272 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Hubley",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -63.82097, 44.67524 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Indian Harbour",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -63.93508, 44.53222 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Jeddore Oyster Ponds",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -63.0011, 44.78951 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Lake Echo",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -63.39837, 44.75628 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Lakeside",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -63.70105, 44.63706 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Lakeview",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -63.62973, 44.76726 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Lawrencetown",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -63.39558, 44.66584 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Lower Sackville",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -63.67912, 44.77641 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "McGraths Cove",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -63.85146, 44.50785 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Meaghers Grant",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -63.23378, 44.93511 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Middle Musquodoboit",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -63.14328, 45.04539 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Middle Sackville",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -63.72679, 44.80807 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Mineville",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -63.38261, 44.69731 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Moser River",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -62.25645, 44.9698 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Murphy Cove",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -62.7541, 44.78677 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Mushaboom",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -62.5352, 44.85136 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Musquodoboit Harbour",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -63.1481, 44.78724 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Peggys Cove",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -63.91256, 44.4934 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Port Dufferin",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -62.38246, 44.91549 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Porters Lake",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -63.31021, 44.7402 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Portuguese Cove",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -63.53574, 44.52384 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Prospect",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -63.78801, 44.47072 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Queensland",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -64.0263, 44.63538 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Salmon River Bridge",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -63.02652, 44.77619 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Sambro",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -63.60684, 44.48053 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Seabright",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -63.92903, 44.61966 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Seaforth",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -63.25774, 44.66584 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Shad Bay",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -63.7641, 44.52112 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Shearwater",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -63.50607, 44.63662 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Sheet Harbour",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -62.54424, 44.92785 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Stillwater Lake",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -63.83187, 44.6974 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Tangier",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -62.69133, 44.80708 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Tantallon",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -63.90853, 44.65112 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Terence Bay",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -63.71701, 44.46691 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Timberlea",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -63.74031, 44.65989 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Upper Sackville",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -63.75195, 44.80625 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Upper Tantallon",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -63.87775, 44.68775 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Waverley",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -63.56733, 44.75366 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Wellington",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -63.61648, 44.86502 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "West Chezzetcook",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -63.27142, 44.7042 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "West Jeddore",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -63.03866, 44.7304 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Whites Lake",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -63.75928, 44.52874 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		}
-	]
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "Bayside",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-63.80039,44.53337]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Beaver Bank",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-63.70718,44.86793]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Bedford",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-63.69085,44.72466]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Black Point",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-63.98138,44.65157]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Boutiliers Point",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-63.95272,44.6598]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Brookside",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-63.72407,44.55391]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Cole Harbour",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-63.45344,44.64581]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Dartmouth",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-63.56774,44.66521]
+            },
+            "properties": {}
+        },
+        {
+            "id": "East Jeddore",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-63.00368,44.73197]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Eastern Passage",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-63.47488,44.61644]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Elderbank",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-63.21633,44.98027]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Elmsdale",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-63.50642,44.96697]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Enfield",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-63.53617,44.94353]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Fall River",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-63.61207,44.81807]
+            },
+            "properties": {}
+        },
+        {
+            "id": "French Village",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-63.89727,44.62676]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Hacketts Cove",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-63.9255,44.56198]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Halifax",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-63.57524,44.64876]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Hammonds Plains",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-63.78501,44.73367]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Harrietsfield",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-63.63455,44.56968]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Hatchet Lake",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-63.7133,44.56794]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Head of Chezzetcook",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-63.25222,44.74141]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Hean of Saint Margarets Bay",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-63.91675,44.68298]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Herring Cove",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-63.56196,44.5714]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Hubbards",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-64.05178,44.64272]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Hubley",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-63.82097,44.67524]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Indian Harbour",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-63.93508,44.53222]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Jeddore Oyster Ponds",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-63.0011,44.78951]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Lake Echo",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-63.39837,44.75628]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Lakeside",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-63.70105,44.63706]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Lakeview",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-63.62973,44.76726]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Lawrencetown",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-63.39558,44.66584]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Lower Sackville",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-63.67912,44.77641]
+            },
+            "properties": {}
+        },
+        {
+            "id": "McGraths Cove",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-63.85146,44.50785]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Meaghers Grant",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-63.23378,44.93511]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Middle Musquodoboit",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-63.14328,45.04539]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Middle Sackville",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-63.72679,44.80807]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Mineville",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-63.38261,44.69731]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Moser River",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-62.25645,44.9698]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Murphy Cove",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-62.7541,44.78677]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Mushaboom",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-62.5352,44.85136]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Musquodoboit Harbour",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-63.1481,44.78724]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Peggys Cove",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-63.91256,44.4934]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Port Dufferin",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-62.38246,44.91549]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Porters Lake",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-63.31021,44.7402]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Portuguese Cove",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-63.53574,44.52384]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Prospect",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-63.78801,44.47072]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Queensland",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-64.0263,44.63538]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Salmon River Bridge",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-63.02652,44.77619]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Sambro",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-63.60684,44.48053]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Seabright",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-63.92903,44.61966]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Seaforth",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-63.25774,44.66584]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Shad Bay",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-63.7641,44.52112]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Shearwater",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-63.50607,44.63662]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Sheet Harbour",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-62.54424,44.92785]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Stillwater Lake",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-63.83187,44.6974]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Tangier",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-62.69133,44.80708]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Tantallon",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-63.90853,44.65112]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Terence Bay",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-63.71701,44.46691]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Timberlea",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-63.74031,44.65989]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Upper Sackville",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-63.75195,44.80625]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Upper Tantallon",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-63.87775,44.68775]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Waverley",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-63.56733,44.75366]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Wellington",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-63.61648,44.86502]
+            },
+            "properties": {}
+        },
+        {
+            "id": "West Chezzetcook",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-63.27142,44.7042]
+            },
+            "properties": {}
+        },
+        {
+            "id": "West Jeddore",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-63.03866,44.7304]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Whites Lake",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-63.75928,44.52874]
+            },
+            "properties": {}
+        }
+    ]
 }

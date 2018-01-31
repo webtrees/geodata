@@ -1,1274 +1,1265 @@
 {
-	"type": "FeatureCollection",
-	"features": [
-		{
-			"id": "Aishihik",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -137.5, 61.56667 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Arlington",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Armstrong",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Ballarat Creek",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Barlow",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -137.65, 63.73333 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Bear Creek",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -139.25445, 64.02866 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Beaver Creek",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -140.86951, 62.35991 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Big Salmon",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -134.93333, 61.86667 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Black Hills",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -138.83333, 63.48333 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Boundary",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Braeburn",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -135.83333, 61.51667 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Brewer Creek",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Britannia Creek",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Brooks Brook",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Burwash Landing",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -139.0261, 61.3492 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Calumet",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Canyon City",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -140.78333, 61.81667 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Carcross",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -134.70768, 60.16865 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Carcross Cutoff",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Caribou",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -134.71667, 60.18333 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Carmacks",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -136.29295, 62.08835 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Champagne",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -136.48333, 60.8 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Clear Creek",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -137.3, 63.78333 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Clinton Creek",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Coffee Creek",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Conrad",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Dalton Post",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -137.01667, 60.13333 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Dawson",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -139.4314, 64.06167 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "De Wette",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Destruction Bay",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -138.81462, 61.24959 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Dezadeash",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -137.05, 60.36667 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Dominion",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Dry Creek",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Dundalk",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Eagle Plains",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Elsa",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -135.52017, 63.8863 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Faro",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -133.33894, 62.2256 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Flat Creek",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Fort Frances",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Fort Reliance",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Fort Selkirk",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -137.38333, 62.76667 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Forty Mile",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -140.55, 64.45 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Frances Lake",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -129.28333, 61.26667 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Glenboyle",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Gold Bottom",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Gold Run",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Gordon Landing",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -135.45, 63.63333 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Grand Forks",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Granville",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -138.61667, 63.66667 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Gravel Lake",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Haines Junction",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -137.51082, 60.75216 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Herschel",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Hootalinqua",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -134.91667, 61.58333 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Hundred Mile Landing",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Ibex Valley",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Isaac Creek",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Jakes Corner",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Jensen Creek",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Johnsons Crossing",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -133.28333, 60.48333 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Keno Hill",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -135.3, 63.9 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Kirkman Creek",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Klondike",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -139.43333, 64.03333 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Kloo Lake",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Klukshu",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -137, 60.3 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Koidern",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Kynocks",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -135.98333, 61.25 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Lansdowne",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -134.28333, 60.26667 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Lapierre House",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Lewis",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Little Gold",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Little River",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -135.78333, 61.01667 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Little Salmon",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -135.68333, 62.05 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Little Teslin Lake",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Livingstone",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Lorne",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Lower Laberge",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -135.21667, 61.4 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Marsh Lake",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -134.34736, 60.63811 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Mason Landing",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -134.63333, 61.43333 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Mayo",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -135.85818, 63.59773 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "McCabe Creek",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "McQuesten",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Mendenhall Landing",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -136.01667, 60.76667 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Miner's Prayer",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Miner's PrayerIbex Valley",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Minto",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -136.83333, 62.58333 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Minto Bridge",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -135.86667, 63.7 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Montague",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -136.05, 61.78333 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Moosehide",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -139.43333, 64.1 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Morley River",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Mount Lorne",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Mount LorneAishihik",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Nesketahin",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Ogilvie",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -139.73333, 63.56667 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Old Crow",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -139.82111, 67.57384 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Paris",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -138.66667, 63.81667 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Pelly Crossing",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -136.58298, 62.82901 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Pelly Lakes",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Quill Creek",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -139.53228, 62.17642 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Rampart House",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Rancheria",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -130.6, 60.08333 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Readford",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -139.1, 63.76667 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Robinson",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -134.85, 60.45 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Rock Creek",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Ross River",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -132.46406, 61.98335 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Scroggie Creek",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -138.81667, 63.2 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Selwyn",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -138.28333, 62.78333 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Siver City",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Sixtymile",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Snag",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -140.36667, 62.38333 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Snag Junction",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Stevens Roadhouse",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Stewart Crossing",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Stewart River",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -139.41667, 63.31667 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Stony Creek Camp",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Sulphur",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Summit Roadhouse",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Swift River",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -131.19093, 60.00369 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Tagish",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -134.27173, 60.31331 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Takhini",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -135.09815, 60.73691 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Takhini Hot Springs",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Ten Mile",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Teslin",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -132.71605, 60.16846 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Teslin Crossing",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -134.61667, 61.25 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Teslin Lake",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Teslin River",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Thistle Creek",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -139.48333, 63.06667 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Tuchitua",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Two Mile Village",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Two and One-Half Mile Village",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Upper Laberge",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -135.08333, 60.93333 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Upper Liard",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Watson",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -134.83333, 60.08333 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Watson Lake",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -128.7034, 60.0689 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Wernecke",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -135.26667, 63.95 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "West Dawson",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -139.45, 64.06667 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Whitefish Station",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Whitehorse",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -135.05261, 60.71935 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "WhitehorseArlington",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Whitestone Village",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Yukon Crossing",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -136.48333, 62.33333 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Yukon CrossingCarmacks",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		}
-	]
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "Aishihik",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-137.5,61.56667]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Arlington",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Armstrong",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Ballarat Creek",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Barlow",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-137.65,63.73333]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Bear Creek",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-139.25445,64.02866]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Beaver Creek",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-140.86951,62.35991]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Big Salmon",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-134.93333,61.86667]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Black Hills",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-138.83333,63.48333]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Boundary",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Braeburn",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-135.83333,61.51667]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Brewer Creek",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Britannia Creek",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Brooks Brook",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Burwash Landing",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-139.0261,61.3492]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Calumet",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Canyon City",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-140.78333,61.81667]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Carcross",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-134.70768,60.16865]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Carcross Cutoff",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Caribou",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-134.71667,60.18333]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Carmacks",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-136.29295,62.08835]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Champagne",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-136.48333,60.8]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Clear Creek",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-137.3,63.78333]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Clinton Creek",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Coffee Creek",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Conrad",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Dalton Post",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-137.01667,60.13333]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Dawson",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-139.4314,64.06167]
+            },
+            "properties": {}
+        },
+        {
+            "id": "De Wette",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Destruction Bay",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-138.81462,61.24959]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Dezadeash",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-137.05,60.36667]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Dominion",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Dry Creek",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Dundalk",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Eagle Plains",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Elsa",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-135.52017,63.8863]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Faro",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-133.33894,62.2256]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Flat Creek",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Fort Frances",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Fort Reliance",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Fort Selkirk",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-137.38333,62.76667]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Forty Mile",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-140.55,64.45]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Frances Lake",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-129.28333,61.26667]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Glenboyle",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Gold Bottom",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Gold Run",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Gordon Landing",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-135.45,63.63333]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Grand Forks",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Granville",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-138.61667,63.66667]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Gravel Lake",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Haines Junction",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-137.51082,60.75216]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Herschel",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Hootalinqua",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-134.91667,61.58333]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Hundred Mile Landing",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Ibex Valley",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Isaac Creek",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Jakes Corner",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Jensen Creek",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Johnsons Crossing",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-133.28333,60.48333]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Keno Hill",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-135.3,63.9]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Kirkman Creek",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Klondike",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-139.43333,64.03333]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Kloo Lake",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Klukshu",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-137,60.3]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Koidern",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Kynocks",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-135.98333,61.25]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Lansdowne",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-134.28333,60.26667]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Lapierre House",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Lewis",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Little Gold",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Little River",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-135.78333,61.01667]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Little Salmon",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-135.68333,62.05]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Little Teslin Lake",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Livingstone",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Lorne",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Lower Laberge",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-135.21667,61.4]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Marsh Lake",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-134.34736,60.63811]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Mason Landing",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-134.63333,61.43333]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Mayo",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-135.85818,63.59773]
+            },
+            "properties": {}
+        },
+        {
+            "id": "McCabe Creek",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {}
+        },
+        {
+            "id": "McQuesten",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Mendenhall Landing",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-136.01667,60.76667]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Miner's Prayer",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Minto",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-136.83333,62.58333]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Minto Bridge",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-135.86667,63.7]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Montague",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-136.05,61.78333]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Moosehide",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-139.43333,64.1]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Morley River",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Mount Lorne",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Mount LorneAishihik",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Nesketahin",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Ogilvie",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-139.73333,63.56667]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Old Crow",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-139.82111,67.57384]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Paris",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-138.66667,63.81667]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Pelly Crossing",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-136.58298,62.82901]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Pelly Lakes",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Quill Creek",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-139.53228,62.17642]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Rampart House",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Rancheria",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-130.6,60.08333]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Readford",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-139.1,63.76667]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Robinson",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-134.85,60.45]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Rock Creek",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Ross River",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-132.46406,61.98335]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Scroggie Creek",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-138.81667,63.2]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Selwyn",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-138.28333,62.78333]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Siver City",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Sixtymile",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Snag",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-140.36667,62.38333]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Snag Junction",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Stevens Roadhouse",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Stewart Crossing",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Stewart River",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-139.41667,63.31667]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Stony Creek Camp",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Sulphur",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Summit Roadhouse",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Swift River",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-131.19093,60.00369]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Tagish",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-134.27173,60.31331]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Takhini",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-135.09815,60.73691]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Takhini Hot Springs",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Ten Mile",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Teslin",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-132.71605,60.16846]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Teslin Crossing",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-134.61667,61.25]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Teslin Lake",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Teslin River",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Thistle Creek",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-139.48333,63.06667]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Tuchitua",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Two Mile Village",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Two and One-Half Mile Village",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Upper Laberge",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-135.08333,60.93333]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Upper Liard",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Watson",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-134.83333,60.08333]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Watson Lake",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-128.7034,60.0689]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Wernecke",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-135.26667,63.95]
+            },
+            "properties": {}
+        },
+        {
+            "id": "West Dawson",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-139.45,64.06667]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Whitefish Station",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Whitehorse",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-135.05261,60.71935]
+            },
+            "properties": {}
+        },
+        {
+            "id": "WhitehorseArlington",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Whitestone Village",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Yukon Crossing",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-136.48333,62.33333]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Yukon CrossingCarmacks",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {}
+        }
+    ]
 }

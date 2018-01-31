@@ -1,149 +1,149 @@
 {
-	"type": "FeatureCollection",
-	"features": [
-		{
-			"id": "Annandale-Little Pond-Howe Bay",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -62.40938, 46.28373 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Brudenell",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -62.63239, 46.19112 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Cardigan",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -62.62179, 46.23369 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Central Kings",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -62.5, 46.31667 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Eastern Kings",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -62.1, 46.43333 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Fortune Bridge",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -62.38944, 46.35103 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Little Pond",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Lorne Valley",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -62.68503, 46.26752 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Lower Montague",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -62.56061, 46.16976 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Morell",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -62.70597, 46.41599 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Morell 2",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Murray Harbour",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -62.51988, 46.00201 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Murray River",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -62.61074, 46.01373 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Souris West",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -62.28336, 46.35882 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "St. Peters Bay",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 0, 0 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		},
-		{
-			"id": "Valleyfield",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -62.73348, 46.12948 ]
-			},
-			"properties": {},
-			"type": "Feature"
-		}
-	]
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "Annandale-Little Pond-Howe Bay",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-62.40938,46.28373]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Brudenell",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-62.63239,46.19112]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Cardigan",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-62.62179,46.23369]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Central Kings",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-62.5,46.31667]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Eastern Kings",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-62.1,46.43333]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Fortune Bridge",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-62.38944,46.35103]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Little Pond",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Lorne Valley",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-62.68503,46.26752]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Lower Montague",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-62.56061,46.16976]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Morell",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-62.70597,46.41599]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Morell 2",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Murray Harbour",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-62.51988,46.00201]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Murray River",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-62.61074,46.01373]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Souris West",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-62.28336,46.35882]
+            },
+            "properties": {}
+        },
+        {
+            "id": "St. Peters Bay",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": {}
+        },
+        {
+            "id": "Valleyfield",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-62.73348,46.12948]
+            },
+            "properties": {}
+        }
+    ]
 }

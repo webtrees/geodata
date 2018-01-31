@@ -52,8 +52,6 @@ Images in SVG format are prefered.  If no SVG image is available, then a PNG can
 
 ## geojson format
 
-data.geojson files should be formatted using the command `php tools/geodata.php --file=XXX`.
-
 You can validate geojson files using [geojsonlint.com](http://geojsonlint.com/)
 
 ## Licences

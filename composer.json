@@ -1,0 +1,15 @@
+{
+    "require": {
+        "symfony/console": "~4.0",
+        "league/flysystem": "~1.0",
+        "league/flysystem-ziparchive": "~1.0",
+        "intervention/image": "~2.4",
+        "guzzlehttp/guzzle": "~6.3",
+        "masterminds/html5": "~2.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "Webtrees\\Geodata\\": "src/"
+        }
+    }
+}

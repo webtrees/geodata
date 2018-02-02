@@ -5,7 +5,7 @@
 			"id": "Auburn",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -64.86303, 45.01735 ]
+				"coordinates": [-64.86303,45.01735]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -14,7 +14,7 @@
 			"id": "Aylesford",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -64.83643, 45.02816 ]
+				"coordinates": [-64.83643,45.02816]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -23,7 +23,7 @@
 			"id": "Berwick",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -64.73469, 45.04523 ]
+				"coordinates": [-64.73469,45.04523]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -32,7 +32,7 @@
 			"id": "Cambridge Station",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -64.63465, 45.05735 ]
+				"coordinates": [-64.63465,45.05735]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -41,7 +41,7 @@
 			"id": "Canning",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -64.42822, 45.16043 ]
+				"coordinates": [-64.42822,45.16043]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -50,7 +50,7 @@
 			"id": "Centreville",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -64.52887, 45.13414 ]
+				"coordinates": [-64.52887,45.13414]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -59,7 +59,7 @@
 			"id": "Coldbrook",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -64.59247, 45.05846 ]
+				"coordinates": [-64.59247,45.05846]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -68,7 +68,7 @@
 			"id": "Gaspereau",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -64.35253, 45.06794 ]
+				"coordinates": [-64.35253,45.06794]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -78,7 +78,7 @@
 			"id": "Grand-Pre",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -64.305, 45.102 ]
+				"coordinates": [-64.305,45.102]
 			},
 			"properties": {
 				"en": "Grand-Pré",
@@ -89,7 +89,7 @@
 			"id": "Greenwich",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -64.39993, 45.0838 ]
+				"coordinates": [-64.39993,45.0838]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -98,7 +98,7 @@
 			"id": "Greenwood",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -64.93413, 44.97172 ]
+				"coordinates": [-64.93413,44.97172]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -107,7 +107,7 @@
 			"id": "Halls Harbour",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -64.61704, 45.19918 ]
+				"coordinates": [-64.61704,45.19918]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -116,7 +116,7 @@
 			"id": "Harbourville",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -64.81068, 45.1511 ]
+				"coordinates": [-64.81068,45.1511]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -126,7 +126,7 @@
 			"id": "Kentville",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -64.49447, 45.07691 ]
+				"coordinates": [-64.49447,45.07691]
 			},
 			"properties": {}
 		},
@@ -134,7 +134,7 @@
 			"id": "Kingsport",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -64.36136, 45.15931 ]
+				"coordinates": [-64.36136,45.15931]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -143,7 +143,7 @@
 			"id": "Kingston",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -64.93941, 44.99169 ]
+				"coordinates": [-64.93941,44.99169]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -152,7 +152,7 @@
 			"id": "Morden",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -64.94515, 45.10266 ]
+				"coordinates": [-64.94515,45.10266]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -161,7 +161,7 @@
 			"id": "New Minas",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -64.44575, 45.07234 ]
+				"coordinates": [-64.44575,45.07234]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -170,7 +170,7 @@
 			"id": "Port Williams",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -64.41002, 45.098 ]
+				"coordinates": [-64.41002,45.098]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -179,7 +179,7 @@
 			"id": "Somerset",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -64.74945, 45.07404 ]
+				"coordinates": [-64.74945,45.07404]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -188,7 +188,7 @@
 			"id": "Waterville",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -64.67637, 45.04863 ]
+				"coordinates": [-64.67637,45.04863]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -197,7 +197,7 @@
 			"id": "Wolfville",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -64.35984, 45.09176 ]
+				"coordinates": [-64.35984,45.09176]
 			},
 			"properties": {},
 			"type": "Feature"

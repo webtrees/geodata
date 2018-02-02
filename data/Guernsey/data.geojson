@@ -1,4 +1,17 @@
 {
 	"type": "FeatureCollection",
-	"features": []
+	"features": [
+		{
+			"type": "Feature",
+			"id": "Alderney"
+		},
+		{
+			"type": "Feature",
+			"id": "Herm"
+		},
+		{
+			"type": "Feature",
+			"id": "Sark"
+		}
+	]
 }

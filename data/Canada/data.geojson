@@ -6,7 +6,7 @@
 			"id": "Alberta",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -116.6, 53.9 ]
+				"coordinates": [-116.6,53.9]
 			},
 			"properties": {}
 		},
@@ -15,7 +15,7 @@
 			"id": "British Columbia",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -127.6, 53.7 ]
+				"coordinates": [-127.6,53.7]
 			},
 			"properties": {
 				"fr": "Colombie-Britannique"
@@ -26,7 +26,7 @@
 			"id": "Manitoba",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -98.8, 53.8 ]
+				"coordinates": [-98.8,53.8]
 			},
 			"properties": {}
 		},
@@ -35,7 +35,7 @@
 			"id": "New Brunswick",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -66.5, 46.6 ]
+				"coordinates": [-66.5,46.6]
 			},
 			"properties": {
 				"fr": "Nouveau-Brunswick"
@@ -46,7 +46,7 @@
 			"id": "Newfoundland and Labrador",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -57.7, 53.1 ]
+				"coordinates": [-57.7,53.1]
 			},
 			"properties": {
 				"fr": "Terre-Neuve-et-Labrador",
@@ -58,7 +58,7 @@
 			"id": "Northwest Territories",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -120.8, 63.8 ]
+				"coordinates": [-120.8,63.8]
 			},
 			"properties": {
 				"fr": "Territoires du Nord-Ouest",
@@ -70,7 +70,7 @@
 			"id": "Nova Scotia",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.4, 44.6 ]
+				"coordinates": [-63.4,44.6]
 			},
 			"properties": {
 				"fr": "Nouvelle-Écosse",
@@ -82,7 +82,7 @@
 			"id": "Nunavut",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -94.6, 66.1 ]
+				"coordinates": [-94.6,66.1]
 			},
 			"properties": {
 				"iu": "ᓄᓇᕗᑦ"
@@ -93,7 +93,7 @@
 			"id": "Ontario",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -85.3, 51.3 ]
+				"coordinates": [-85.3,51.3]
 			},
 			"properties": {}
 		},
@@ -102,7 +102,7 @@
 			"id": "Prince Edward Island",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.4, 46.5 ]
+				"coordinates": [-63.4,46.5]
 			},
 			"properties": {
 				"fr": "Île-du-Prince-Édouard"
@@ -113,7 +113,7 @@
 			"id": "Quebec",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -73.5, 52.9 ]
+				"coordinates": [-73.5,52.9]
 			},
 			"properties": {
 				"fr": "Québec"
@@ -124,7 +124,7 @@
 			"id": "Saskatchewan",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -106.5, 52.9 ]
+				"coordinates": [-106.5,52.9]
 			},
 			"properties": {}
 		},
@@ -133,7 +133,7 @@
 			"id": "Yukon Territory",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -136, 63.8 ]
+				"coordinates": [-136,63.8]
 			},
 			"properties": {
 				"fr": "Territoire du Yukon"

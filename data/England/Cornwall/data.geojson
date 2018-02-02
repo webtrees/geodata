@@ -1,0 +1,16 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"id": "Isles of Scilly",
+			"properties": {
+				"cy": "Ynysoedd Syllan",
+				"el": "Νησιά Σίλι",
+				"fr": "Îles Scilly",
+				"ga": "Na Scillí",
+				"kw": "Enesek Syllan"
+			}
+		}
+	]
+}

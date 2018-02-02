@@ -3,11 +3,7 @@
 	"features": [
 		{
 			"type": "Feature",
-			"id": "Orkney"
-		},
-		{
-			"type": "Feature",
-			"id": "Shetland"
+			"id": "Isle of Wight"
 		}
 	]
 }

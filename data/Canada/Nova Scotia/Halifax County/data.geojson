@@ -5,7 +5,7 @@
 			"id": "Bayside",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.80039, 44.53337 ]
+				"coordinates": [-63.80039,44.53337]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -14,7 +14,7 @@
 			"id": "Beaver Bank",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.70718, 44.86793 ]
+				"coordinates": [-63.70718,44.86793]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -23,7 +23,7 @@
 			"id": "Bedford",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.69085, 44.72466 ]
+				"coordinates": [-63.69085,44.72466]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -32,7 +32,7 @@
 			"id": "Black Point",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.98138, 44.65157 ]
+				"coordinates": [-63.98138,44.65157]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -41,7 +41,7 @@
 			"id": "Boutiliers Point",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.95272, 44.6598 ]
+				"coordinates": [-63.95272,44.6598]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -50,7 +50,7 @@
 			"id": "Brookside",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.72407, 44.55391 ]
+				"coordinates": [-63.72407,44.55391]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -59,7 +59,7 @@
 			"id": "Cole Harbour",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.45344, 44.64581 ]
+				"coordinates": [-63.45344,44.64581]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -68,7 +68,7 @@
 			"id": "Dartmouth",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.56774, 44.66521 ]
+				"coordinates": [-63.56774,44.66521]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -77,7 +77,7 @@
 			"id": "East Jeddore",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.00368, 44.73197 ]
+				"coordinates": [-63.00368,44.73197]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -86,7 +86,7 @@
 			"id": "Eastern Passage",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.47488, 44.61644 ]
+				"coordinates": [-63.47488,44.61644]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -95,7 +95,7 @@
 			"id": "Elderbank",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.21633, 44.98027 ]
+				"coordinates": [-63.21633,44.98027]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -104,7 +104,7 @@
 			"id": "Elmsdale",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.50642, 44.96697 ]
+				"coordinates": [-63.50642,44.96697]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -113,7 +113,7 @@
 			"id": "Enfield",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.53617, 44.94353 ]
+				"coordinates": [-63.53617,44.94353]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -122,7 +122,7 @@
 			"id": "Fall River",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.61207, 44.81807 ]
+				"coordinates": [-63.61207,44.81807]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -131,7 +131,7 @@
 			"id": "French Village",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.89727, 44.62676 ]
+				"coordinates": [-63.89727,44.62676]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -140,7 +140,7 @@
 			"id": "Hacketts Cove",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.9255, 44.56198 ]
+				"coordinates": [-63.9255,44.56198]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -149,7 +149,7 @@
 			"id": "Halifax",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.57524, 44.64876 ]
+				"coordinates": [-63.57524,44.64876]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -158,7 +158,7 @@
 			"id": "Hammonds Plains",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.78501, 44.73367 ]
+				"coordinates": [-63.78501,44.73367]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -167,7 +167,7 @@
 			"id": "Harrietsfield",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.63455, 44.56968 ]
+				"coordinates": [-63.63455,44.56968]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -176,7 +176,7 @@
 			"id": "Hatchet Lake",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.7133, 44.56794 ]
+				"coordinates": [-63.7133,44.56794]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -185,7 +185,7 @@
 			"id": "Head of Chezzetcook",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.25222, 44.74141 ]
+				"coordinates": [-63.25222,44.74141]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -194,7 +194,7 @@
 			"id": "Hean of Saint Margarets Bay",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.91675, 44.68298 ]
+				"coordinates": [-63.91675,44.68298]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -203,7 +203,7 @@
 			"id": "Herring Cove",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.56196, 44.5714 ]
+				"coordinates": [-63.56196,44.5714]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -212,7 +212,7 @@
 			"id": "Hubbards",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -64.05178, 44.64272 ]
+				"coordinates": [-64.05178,44.64272]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -221,7 +221,7 @@
 			"id": "Hubley",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.82097, 44.67524 ]
+				"coordinates": [-63.82097,44.67524]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -230,7 +230,7 @@
 			"id": "Indian Harbour",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.93508, 44.53222 ]
+				"coordinates": [-63.93508,44.53222]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -239,7 +239,7 @@
 			"id": "Jeddore Oyster Ponds",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.0011, 44.78951 ]
+				"coordinates": [-63.0011,44.78951]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -248,7 +248,7 @@
 			"id": "Lake Echo",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.39837, 44.75628 ]
+				"coordinates": [-63.39837,44.75628]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -257,7 +257,7 @@
 			"id": "Lakeside",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.70105, 44.63706 ]
+				"coordinates": [-63.70105,44.63706]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -266,7 +266,7 @@
 			"id": "Lakeview",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.62973, 44.76726 ]
+				"coordinates": [-63.62973,44.76726]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -275,7 +275,7 @@
 			"id": "Lawrencetown",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.39558, 44.66584 ]
+				"coordinates": [-63.39558,44.66584]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -284,7 +284,7 @@
 			"id": "Lower Sackville",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.67912, 44.77641 ]
+				"coordinates": [-63.67912,44.77641]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -293,7 +293,7 @@
 			"id": "McGraths Cove",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.85146, 44.50785 ]
+				"coordinates": [-63.85146,44.50785]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -302,7 +302,7 @@
 			"id": "Meaghers Grant",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.23378, 44.93511 ]
+				"coordinates": [-63.23378,44.93511]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -311,7 +311,7 @@
 			"id": "Middle Musquodoboit",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.14328, 45.04539 ]
+				"coordinates": [-63.14328,45.04539]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -320,7 +320,7 @@
 			"id": "Middle Sackville",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.72679, 44.80807 ]
+				"coordinates": [-63.72679,44.80807]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -329,7 +329,7 @@
 			"id": "Mineville",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.38261, 44.69731 ]
+				"coordinates": [-63.38261,44.69731]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -338,7 +338,7 @@
 			"id": "Moser River",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -62.25645, 44.9698 ]
+				"coordinates": [-62.25645,44.9698]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -347,7 +347,7 @@
 			"id": "Murphy Cove",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -62.7541, 44.78677 ]
+				"coordinates": [-62.7541,44.78677]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -356,7 +356,7 @@
 			"id": "Mushaboom",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -62.5352, 44.85136 ]
+				"coordinates": [-62.5352,44.85136]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -365,7 +365,7 @@
 			"id": "Musquodoboit Harbour",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.1481, 44.78724 ]
+				"coordinates": [-63.1481,44.78724]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -374,7 +374,7 @@
 			"id": "Peggys Cove",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.91256, 44.4934 ]
+				"coordinates": [-63.91256,44.4934]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -383,7 +383,7 @@
 			"id": "Port Dufferin",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -62.38246, 44.91549 ]
+				"coordinates": [-62.38246,44.91549]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -392,7 +392,7 @@
 			"id": "Porters Lake",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.31021, 44.7402 ]
+				"coordinates": [-63.31021,44.7402]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -401,7 +401,7 @@
 			"id": "Portuguese Cove",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.53574, 44.52384 ]
+				"coordinates": [-63.53574,44.52384]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -410,7 +410,7 @@
 			"id": "Prospect",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.78801, 44.47072 ]
+				"coordinates": [-63.78801,44.47072]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -419,7 +419,7 @@
 			"id": "Queensland",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -64.0263, 44.63538 ]
+				"coordinates": [-64.0263,44.63538]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -428,7 +428,7 @@
 			"id": "Salmon River Bridge",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.02652, 44.77619 ]
+				"coordinates": [-63.02652,44.77619]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -437,7 +437,7 @@
 			"id": "Sambro",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.60684, 44.48053 ]
+				"coordinates": [-63.60684,44.48053]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -446,7 +446,7 @@
 			"id": "Seabright",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.92903, 44.61966 ]
+				"coordinates": [-63.92903,44.61966]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -455,7 +455,7 @@
 			"id": "Seaforth",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.25774, 44.66584 ]
+				"coordinates": [-63.25774,44.66584]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -464,7 +464,7 @@
 			"id": "Shad Bay",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.7641, 44.52112 ]
+				"coordinates": [-63.7641,44.52112]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -473,7 +473,7 @@
 			"id": "Shearwater",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.50607, 44.63662 ]
+				"coordinates": [-63.50607,44.63662]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -482,7 +482,7 @@
 			"id": "Sheet Harbour",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -62.54424, 44.92785 ]
+				"coordinates": [-62.54424,44.92785]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -491,7 +491,7 @@
 			"id": "Stillwater Lake",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.83187, 44.6974 ]
+				"coordinates": [-63.83187,44.6974]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -500,7 +500,7 @@
 			"id": "Tangier",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -62.69133, 44.80708 ]
+				"coordinates": [-62.69133,44.80708]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -509,7 +509,7 @@
 			"id": "Tantallon",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.90853, 44.65112 ]
+				"coordinates": [-63.90853,44.65112]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -518,7 +518,7 @@
 			"id": "Terence Bay",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.71701, 44.46691 ]
+				"coordinates": [-63.71701,44.46691]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -527,7 +527,7 @@
 			"id": "Timberlea",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.74031, 44.65989 ]
+				"coordinates": [-63.74031,44.65989]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -536,7 +536,7 @@
 			"id": "Upper Sackville",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.75195, 44.80625 ]
+				"coordinates": [-63.75195,44.80625]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -545,7 +545,7 @@
 			"id": "Upper Tantallon",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.87775, 44.68775 ]
+				"coordinates": [-63.87775,44.68775]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -554,7 +554,7 @@
 			"id": "Waverley",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.56733, 44.75366 ]
+				"coordinates": [-63.56733,44.75366]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -563,7 +563,7 @@
 			"id": "Wellington",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.61648, 44.86502 ]
+				"coordinates": [-63.61648,44.86502]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -572,7 +572,7 @@
 			"id": "West Chezzetcook",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.27142, 44.7042 ]
+				"coordinates": [-63.27142,44.7042]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -581,7 +581,7 @@
 			"id": "West Jeddore",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.03866, 44.7304 ]
+				"coordinates": [-63.03866,44.7304]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -590,7 +590,7 @@
 			"id": "Whites Lake",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.75928, 44.52874 ]
+				"coordinates": [-63.75928,44.52874]
 			},
 			"properties": {},
 			"type": "Feature"

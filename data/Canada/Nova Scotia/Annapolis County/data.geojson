@@ -6,7 +6,7 @@
 			"id": "Annaopolis Royal",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 0, 0 ]
+				"coordinates": [0,0]
 			},
 			"properties": {}
 		},
@@ -14,7 +14,7 @@
 			"id": "Annapolis Royal",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -65.513, 44.742 ]
+				"coordinates": [-65.513,44.742]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -23,7 +23,7 @@
 			"id": "Bridgetown",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -65.28835, 44.84184 ]
+				"coordinates": [-65.28835,44.84184]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -32,7 +32,7 @@
 			"id": "Centrelea",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -65.32001, 44.82096 ]
+				"coordinates": [-65.32001,44.82096]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -41,7 +41,7 @@
 			"id": "Clementsport",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -65.61077, 44.66664 ]
+				"coordinates": [-65.61077,44.66664]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -50,7 +50,7 @@
 			"id": "Clementsvale",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -65.56296, 44.6178 ]
+				"coordinates": [-65.56296,44.6178]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -59,7 +59,7 @@
 			"id": "Cornwallis",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -65.63097, 44.65153 ]
+				"coordinates": [-65.63097,44.65153]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -68,7 +68,7 @@
 			"id": "Deep Brook",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -65.65571, 44.63627 ]
+				"coordinates": [-65.65571,44.63627]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -77,7 +77,7 @@
 			"id": "Granville Ferry",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -65.51229, 44.75739 ]
+				"coordinates": [-65.51229,44.75739]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -86,7 +86,7 @@
 			"id": "Hampton",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -65.35278, 44.9015 ]
+				"coordinates": [-65.35278,44.9015]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -95,7 +95,7 @@
 			"id": "Lawrencetown",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -65.16471, 44.88357 ]
+				"coordinates": [-65.16471,44.88357]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -104,7 +104,7 @@
 			"id": "Maitland Bridge",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -65.20049, 44.44508 ]
+				"coordinates": [-65.20049,44.44508]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -113,7 +113,7 @@
 			"id": "Margaretsville",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -65.06478, 45.04803 ]
+				"coordinates": [-65.06478,45.04803]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -122,7 +122,7 @@
 			"id": "Middleton",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -65.06877, 44.94263 ]
+				"coordinates": [-65.06877,44.94263]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -131,7 +131,7 @@
 			"id": "Milford",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -65.40519, 44.57619 ]
+				"coordinates": [-65.40519,44.57619]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -140,7 +140,7 @@
 			"id": "Nictaux",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -65.05, 44.93333 ]
+				"coordinates": [-65.05,44.93333]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -149,7 +149,7 @@
 			"id": "Nictaux Falls",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -65.04531, 44.92168 ]
+				"coordinates": [-65.04531,44.92168]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -158,7 +158,7 @@
 			"id": "Saint Croix Cove",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -65.3143, 44.91307 ]
+				"coordinates": [-65.3143,44.91307]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -167,7 +167,7 @@
 			"id": "Smiths Cove",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -65.70267, 44.61258 ]
+				"coordinates": [-65.70267,44.61258]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -176,7 +176,7 @@
 			"id": "Upper Clements",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -65.58308, 44.69667 ]
+				"coordinates": [-65.58308,44.69667]
 			},
 			"properties": {},
 			"type": "Feature"

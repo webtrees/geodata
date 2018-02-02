@@ -5,7 +5,7 @@
 			"id": "Bass River",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.79991, 45.45205 ]
+				"coordinates": [-63.79991,45.45205]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -14,7 +14,7 @@
 			"id": "Belmont",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.38633, 45.42626 ]
+				"coordinates": [-63.38633,45.42626]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -23,7 +23,7 @@
 			"id": "Bible Hill",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.25108, 45.381 ]
+				"coordinates": [-63.25108,45.381]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -32,7 +32,7 @@
 			"id": "Black Rock",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.47798, 45.31938 ]
+				"coordinates": [-63.47798,45.31938]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -41,7 +41,7 @@
 			"id": "Brookfield",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.27955, 45.25375 ]
+				"coordinates": [-63.27955,45.25375]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -50,7 +50,7 @@
 			"id": "Debert",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.4583, 45.43772 ]
+				"coordinates": [-63.4583,45.43772]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -59,7 +59,7 @@
 			"id": "Denmark",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.1418, 45.69806 ]
+				"coordinates": [-63.1418,45.69806]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -68,7 +68,7 @@
 			"id": "Economy",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.91442, 45.38472 ]
+				"coordinates": [-63.91442,45.38472]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -77,7 +77,7 @@
 			"id": "Hilden",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.30066, 45.30771 ]
+				"coordinates": [-63.30066,45.30771]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -86,7 +86,7 @@
 			"id": "Masstown",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.46714, 45.37463 ]
+				"coordinates": [-63.46714,45.37463]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -95,7 +95,7 @@
 			"id": "Millbrook",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.28908, 45.33463 ]
+				"coordinates": [-63.28908,45.33463]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -104,7 +104,7 @@
 			"id": "Nuttby",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.21844, 45.54985 ]
+				"coordinates": [-63.21844,45.54985]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -113,7 +113,7 @@
 			"id": "Portapique",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.69741, 45.40157 ]
+				"coordinates": [-63.69741,45.40157]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -122,7 +122,7 @@
 			"id": "Stewiacke",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.34935, 45.13783 ]
+				"coordinates": [-63.34935,45.13783]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -131,7 +131,7 @@
 			"id": "Tatamagouche",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.29419, 45.7092 ]
+				"coordinates": [-63.29419,45.7092]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -140,7 +140,7 @@
 			"id": "Truro",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.28694, 45.36577 ]
+				"coordinates": [-63.28694,45.36577]
 			},
 			"properties": {},
 			"type": "Feature"

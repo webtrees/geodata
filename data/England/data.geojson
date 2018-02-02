@@ -1,4 +1,161 @@
 {
 	"type": "FeatureCollection",
-	"features": []
+	"features": [
+		{
+			"type": "Feature",
+			"id": "Bedfordshire"
+		},
+		{
+			"type": "Feature",
+			"id": "Buckinghamshire"
+		},
+		{
+			"type": "Feature",
+			"id": "Cambridgeshire"
+		},
+		{
+			"type": "Feature",
+			"id": "Cheshire"
+		},
+		{
+			"type": "Feature",
+			"id": "City of London"
+		},
+		{
+			"type": "Feature",
+			"id": "Cornwall"
+		},
+		{
+			"type": "Feature",
+			"id": "County Durham"
+		},
+		{
+			"type": "Feature",
+			"id": "Cumberland"
+		},
+		{
+			"type": "Feature",
+			"id": "Cumbria"
+		},
+		{
+			"type": "Feature",
+			"id": "Derbyshire"
+		},
+		{
+			"type": "Feature",
+			"id": "Devon"
+		},
+		{
+			"type": "Feature",
+			"id": "Dorset"
+		},
+		{
+			"type": "Feature",
+			"id": "Essex"
+		},
+		{
+			"type": "Feature",
+			"id": "Gloucestershire"
+		},
+		{
+			"type": "Feature",
+			"id": "Hampshire"
+		},
+		{
+			"type": "Feature",
+			"id": "Hertfordshire"
+		},
+		{
+			"type": "Feature",
+			"id": "Huntingdonshire"
+		},
+		{
+			"type": "Feature",
+			"id": "Kent"
+		},
+		{
+			"type": "Feature",
+			"id": "Lancashire"
+		},
+		{
+			"type": "Feature",
+			"id": "Leicestershire"
+		},
+		{
+			"type": "Feature",
+			"id": "Lincolnshire"
+		},
+		{
+			"type": "Feature",
+			"id": "London"
+		},
+		{
+			"type": "Feature",
+			"id": "Middlesex"
+		},
+		{
+			"type": "Feature",
+			"id": "Norfolk"
+		},
+		{
+			"type": "Feature",
+			"id": "Northamptonshire"
+		},
+		{
+			"type": "Feature",
+			"id": "Northumberland"
+		},
+		{
+			"type": "Feature",
+			"id": "Nottinghamshire"
+		},
+		{
+			"type": "Feature",
+			"id": "Rutland"
+		},
+		{
+			"type": "Feature",
+			"id": "Shropshire"
+		},
+		{
+			"type": "Feature",
+			"id": "Somerset"
+		},
+		{
+			"type": "Feature",
+			"id": "Staffordshire"
+		},
+		{
+			"type": "Feature",
+			"id": "Suffolk"
+		},
+		{
+			"type": "Feature",
+			"id": "Sussex"
+		},
+		{
+			"type": "Feature",
+			"id": "Tyne and Wear"
+		},
+		{
+			"type": "Feature",
+			"id": "West Midlands"
+		},
+		{
+			"type": "Feature",
+			"id": "Westmorland"
+		},
+		{
+			"type": "Feature",
+			"id": "Wiltshire"
+		},
+		{
+			"type": "Feature",
+			"id": "Worcestershire"
+		},
+		{
+			"type": "Feature",
+			"id": "Yorkshire"
+		}
+	]
 }

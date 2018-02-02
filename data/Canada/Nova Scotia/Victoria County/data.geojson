@@ -1,133 +1,133 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "id": "Baddeck",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-60.75468, 46.09992]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "Bay Saint Lawrence",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-60.46154, 46.99884]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "Big Hill",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-60.64212, 46.16659]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "Boularderie",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-60.56667, 46.16667]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "Cape North",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-60.50621, 46.88454]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "Dingwall",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-60.47057, 46.89863]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "Englishtown",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-60.544, 46.28143]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "Ingonish",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-60.40396, 46.64083]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "Iona",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-60.80498, 45.96111]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "Little River",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-60.47042, 46.4383]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "Neils Harbour",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-60.32108, 46.80891]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "North River Bridge",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-60.62357, 46.30664]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "St Anns Bay",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-60.54582, 46.31613]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "Wagmatcook",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-60.91996, 46.07421]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "White Point",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-60.35, 46.86667]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "Wreck Cove",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-60.4113, 46.55027]
-            }
-        }
-    ]
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"id": "Baddeck",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-60.75468,46.09992]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Bay Saint Lawrence",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-60.46154,46.99884]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Big Hill",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-60.64212,46.16659]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Boularderie",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-60.56667,46.16667]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Cape North",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-60.50621,46.88454]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Dingwall",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-60.47057,46.89863]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Englishtown",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-60.544,46.28143]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Ingonish",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-60.40396,46.64083]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Iona",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-60.80498,45.96111]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Little River",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-60.47042,46.4383]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Neils Harbour",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-60.32108,46.80891]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "North River Bridge",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-60.62357,46.30664]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "St Anns Bay",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-60.54582,46.31613]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Wagmatcook",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-60.91996,46.07421]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "White Point",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-60.35,46.86667]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Wreck Cove",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-60.4113,46.55027]
+			}
+		}
+	]
 }

@@ -1,4 +1,29 @@
 {
 	"type": "FeatureCollection",
-	"features": []
+	"features": [
+		{
+			"type": "Feature",
+			"id": "Anglesey"
+		},
+		{
+			"type": "Feature",
+			"id": "Flintshire"
+		},
+		{
+			"type": "Feature",
+			"id": "Glamorganshire"
+		},
+		{
+			"type": "Feature",
+			"id": "Merionethshire"
+		},
+		{
+			"type": "Feature",
+			"id": "Monmouthshire"
+		},
+		{
+			"type": "Feature",
+			"id": "Pembrokeshire"
+		}
+	]
 }

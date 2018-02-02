@@ -5,7 +5,7 @@
 			"id": "Aberdeen",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -61.00681, 45.99259 ]
+				"coordinates": [-61.00681,45.99259]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -14,7 +14,7 @@
 			"id": "Cap Le Moine",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -61.0743, 46.49828 ]
+				"coordinates": [-61.0743,46.49828]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -23,7 +23,7 @@
 			"id": "Cheticamp",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -61.01482, 46.62496 ]
+				"coordinates": [-61.01482,46.62496]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -32,7 +32,7 @@
 			"id": "Colindale",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -61.51667, 46.05 ]
+				"coordinates": [-61.51667,46.05]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -41,7 +41,7 @@
 			"id": "Creignish",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -61.45886, 45.72995 ]
+				"coordinates": [-61.45886,45.72995]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -50,7 +50,7 @@
 			"id": "East Lake Ainslie",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -61.13875, 46.132 ]
+				"coordinates": [-61.13875,46.132]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -59,7 +59,7 @@
 			"id": "Glendale",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -61.3, 45.81667 ]
+				"coordinates": [-61.3,45.81667]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -68,7 +68,7 @@
 			"id": "Inverness",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -61.30438, 46.23083 ]
+				"coordinates": [-61.30438,46.23083]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -77,7 +77,7 @@
 			"id": "Judique",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -61.4905, 45.87634 ]
+				"coordinates": [-61.4905,45.87634]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -86,7 +86,7 @@
 			"id": "Mabou",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -61.39177, 46.0721 ]
+				"coordinates": [-61.39177,46.0721]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -95,7 +95,7 @@
 			"id": "Malagawatch",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -60.9877, 45.8382 ]
+				"coordinates": [-60.9877,45.8382]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -104,7 +104,7 @@
 			"id": "Margaree Centre",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -60.99908, 46.34739 ]
+				"coordinates": [-60.99908,46.34739]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -113,7 +113,7 @@
 			"id": "Margaree Forks",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -61.09669, 46.33389 ]
+				"coordinates": [-61.09669,46.33389]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -122,7 +122,7 @@
 			"id": "Margaree Harbour",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -61.10647, 46.43248 ]
+				"coordinates": [-61.10647,46.43248]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -131,7 +131,7 @@
 			"id": "Margaree Valley",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -60.96667, 46.35 ]
+				"coordinates": [-60.96667,46.35]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -140,7 +140,7 @@
 			"id": "Meat Cove",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -60.55956, 47.02654 ]
+				"coordinates": [-60.55956,47.02654]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -149,7 +149,7 @@
 			"id": "North East Margaree",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -61.00879, 46.32631 ]
+				"coordinates": [-61.00879,46.32631]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -158,7 +158,7 @@
 			"id": "Orangedale",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -61.09698, 45.90223 ]
+				"coordinates": [-61.09698,45.90223]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -167,7 +167,7 @@
 			"id": "Pleasant Bay",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -60.79986, 46.82308 ]
+				"coordinates": [-60.79986,46.82308]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -176,7 +176,7 @@
 			"id": "Port Hastings",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -61.40293, 45.65259 ]
+				"coordinates": [-61.40293,45.65259]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -185,7 +185,7 @@
 			"id": "Port Hawkesbury",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -61.35855, 45.62765 ]
+				"coordinates": [-61.35855,45.62765]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -194,7 +194,7 @@
 			"id": "Port Hood",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -61.52893, 46.01511 ]
+				"coordinates": [-61.52893,46.01511]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -203,7 +203,7 @@
 			"id": "River Denys",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -61.17582, 45.83251 ]
+				"coordinates": [-61.17582,45.83251]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -212,7 +212,7 @@
 			"id": "Saint Joseph du Moine",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -61.05, 46.53333 ]
+				"coordinates": [-61.05,46.53333]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -221,7 +221,7 @@
 			"id": "Terre Noire",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -61.06667, 46.48333 ]
+				"coordinates": [-61.06667,46.48333]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -230,7 +230,7 @@
 			"id": "West Bay",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -61.2, 45.73333 ]
+				"coordinates": [-61.2,45.73333]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -239,7 +239,7 @@
 			"id": "Whycocomagh",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -61.12158, 45.9751 ]
+				"coordinates": [-61.12158,45.9751]
 			},
 			"properties": {},
 			"type": "Feature"

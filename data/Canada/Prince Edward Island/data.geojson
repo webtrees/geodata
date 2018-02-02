@@ -6,33 +6,33 @@
 			"id": "Kings County",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -62.27095, 46.40337 ]
+				"coordinates": [-62.27095,46.40337]
 			},
 			"properties": {
 				"fr": "Comté de Kings"
-				}
+			}
 		},
 		{
 			"type": "Feature",
 			"id": "Prince County",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -64.14642, 46.78502 ]
+				"coordinates": [-64.14642,46.78502]
 			},
 			"properties": {
 				"fr": "Comté de Prince"
-				}
+			}
 		},
 		{
 			"type": "Feature",
 			"id": "Queens County",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -63.16288, 46.31948 ]
+				"coordinates": [-63.16288,46.31948]
 			},
 			"properties": {
 				"fr": "Comté de Queens"
-				}
+			}
 		}
 	]
 }

@@ -1,189 +1,189 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "id": "Arcadia",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-66.07284, 43.82492]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "Argyle",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-65.855, 43.79365]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "Carleton",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-65.9278, 44.00711]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "Chebogue",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-66.08893, 43.78992]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "Darlings Lake",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-66.13153, 43.95567]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "Dayton",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-66.10736, 43.86935]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "East Kemptville",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-65.76667, 44.08333]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "Glenwood",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-65.88292, 43.79302]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "Hebron",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-66.09039, 43.88748]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "Kemptville",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-65.83501, 44.04622]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "Lower Eel Brook",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-65.90744, 43.81733]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "Lower West Pubnico",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-65.80228, 43.62728]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "Middle West Pubnico",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-65.8034, 43.64912]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "Port Maitland",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-66.14717, 43.98196]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "Pubnico",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-65.784, 43.70251]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "Quinan",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-65.83714, 43.92092]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "Sluice Point",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-65.96626, 43.78657]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "South Ohio",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-66.06492, 43.92032]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "Ste Anne du Ruisseau",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-65.92557, 43.83531]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "Tusket",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-65.96875, 43.86765]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "Wedgeport",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-65.98035, 43.73518]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "West Pubnico",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-65.79813, 43.67278]
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "Yarmouth",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-66.11738, 43.83746]
-            }
-        }
-    ]
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"id": "Arcadia",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-66.07284,43.82492]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Argyle",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-65.855,43.79365]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Carleton",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-65.9278,44.00711]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Chebogue",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-66.08893,43.78992]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Darlings Lake",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-66.13153,43.95567]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Dayton",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-66.10736,43.86935]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "East Kemptville",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-65.76667,44.08333]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Glenwood",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-65.88292,43.79302]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Hebron",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-66.09039,43.88748]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Kemptville",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-65.83501,44.04622]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Lower Eel Brook",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-65.90744,43.81733]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Lower West Pubnico",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-65.80228,43.62728]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Middle West Pubnico",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-65.8034,43.64912]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Port Maitland",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-66.14717,43.98196]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Pubnico",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-65.784,43.70251]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Quinan",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-65.83714,43.92092]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Sluice Point",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-65.96626,43.78657]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "South Ohio",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-66.06492,43.92032]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Ste Anne du Ruisseau",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-65.92557,43.83531]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Tusket",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-65.96875,43.86765]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Wedgeport",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-65.98035,43.73518]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "West Pubnico",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-65.79813,43.67278]
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Yarmouth",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-66.11738,43.83746]
+			}
+		}
+	]
 }

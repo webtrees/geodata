@@ -5,7 +5,7 @@
 			"id": "Algoma District",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 0, 0 ]
+				"coordinates": [0,0]
 			},
 			"properties": {
 				"fr": "District d’Algoma"
@@ -16,7 +16,7 @@
 			"id": "Bruce County",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 0, 0 ]
+				"coordinates": [0,0]
 			},
 			"properties": {
 				"fr": "Comté de Bruce"
@@ -27,7 +27,7 @@
 			"id": "Cochrane District",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 0, 0 ]
+				"coordinates": [0,0]
 			},
 			"properties": {
 				"fr": "District de Cochrane"
@@ -38,7 +38,7 @@
 			"id": "Dufferin County",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 0, 0 ]
+				"coordinates": [0,0]
 			},
 			"properties": {
 				"fr": "District de Dufferin"
@@ -49,7 +49,7 @@
 			"id": "Elgin County",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 0, 0 ]
+				"coordinates": [0,0]
 			},
 			"properties": {
 				"fr": "Comté d’Elgin"
@@ -60,7 +60,7 @@
 			"id": "Essex County",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 0, 0 ]
+				"coordinates": [0,0]
 			},
 			"properties": {
 				"fr": "Comté d’Essex"
@@ -71,7 +71,7 @@
 			"id": "Frontenac County",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 0, 0 ]
+				"coordinates": [0,0]
 			},
 			"properties": {
 				"fr": "Comté de Frontenac"
@@ -82,7 +82,7 @@
 			"id": "Greater Sudbury",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 0, 0 ]
+				"coordinates": [0,0]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -91,7 +91,7 @@
 			"id": "Grey County",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 0, 0 ]
+				"coordinates": [0,0]
 			},
 			"properties": {
 				"fr": "Comté de Grey"
@@ -102,7 +102,7 @@
 			"id": "Haldimand",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 0, 0 ]
+				"coordinates": [0,0]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -111,7 +111,7 @@
 			"id": "Haliburton County",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 0, 0 ]
+				"coordinates": [0,0]
 			},
 			"properties": {
 				"fr": "Comté de Haliburton"
@@ -122,7 +122,7 @@
 			"id": "Halton",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 0, 0 ]
+				"coordinates": [0,0]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -131,7 +131,7 @@
 			"id": "Hamilton",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 0, 0 ]
+				"coordinates": [0,0]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -140,7 +140,7 @@
 			"id": "Hastings County",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 0, 0 ]
+				"coordinates": [0,0]
 			},
 			"properties": {
 				"fr": "Comté de Hastings"
@@ -151,7 +151,7 @@
 			"id": "Huron County",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 0, 0 ]
+				"coordinates": [0,0]
 			},
 			"properties": {
 				"fr": "Comté de Huron"
@@ -162,7 +162,7 @@
 			"id": "Kawartha Lakes",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 0, 0 ]
+				"coordinates": [0,0]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -171,7 +171,7 @@
 			"id": "Kenora District",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 0, 0 ]
+				"coordinates": [0,0]
 			},
 			"properties": {
 				"fr": "District de Kenora"
@@ -182,7 +182,7 @@
 			"id": "Lambton County",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 0, 0 ]
+				"coordinates": [0,0]
 			},
 			"properties": {
 				"fr": "Comté de Lambton"
@@ -193,7 +193,7 @@
 			"id": "Lanark County",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 0, 0 ]
+				"coordinates": [0,0]
 			},
 			"properties": {
 				"fr": "Comté de Lanark"
@@ -204,7 +204,7 @@
 			"id": "Lennox and Addington County",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 0, 0 ]
+				"coordinates": [0,0]
 			},
 			"properties": {
 				"fr": "Comté de Lennox et Addington"
@@ -215,7 +215,7 @@
 			"id": "Manitoulin District",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 0, 0 ]
+				"coordinates": [0,0]
 			},
 			"properties": {
 				"fr": "District de Manitoulin"
@@ -226,7 +226,7 @@
 			"id": "Middlesex County",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 0, 0 ]
+				"coordinates": [0,0]
 			},
 			"properties": {
 				"fr": "Comté de Middlesex"
@@ -237,7 +237,7 @@
 			"id": "Muskoka",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 0, 0 ]
+				"coordinates": [0,0]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -246,7 +246,7 @@
 			"id": "Niagara",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 0, 0 ]
+				"coordinates": [0,0]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -255,7 +255,7 @@
 			"id": "Nipissing District",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 0, 0 ]
+				"coordinates": [0,0]
 			},
 			"properties": {
 				"fr": "District de Nipissing"
@@ -266,7 +266,7 @@
 			"id": "Norfolk",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 0, 0 ]
+				"coordinates": [0,0]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -275,7 +275,7 @@
 			"id": "Northumberland County",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 0, 0 ]
+				"coordinates": [0,0]
 			},
 			"properties": {
 				"fr": "Comté de Northumberland"
@@ -286,7 +286,7 @@
 			"id": "Ottawa",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 0, 0 ]
+				"coordinates": [0,0]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -295,7 +295,7 @@
 			"id": "Oxford",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 0, 0 ]
+				"coordinates": [0,0]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -304,7 +304,7 @@
 			"id": "Parry Sound District",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 0, 0 ]
+				"coordinates": [0,0]
 			},
 			"properties": {
 				"fr": "District de Parry Sound"
@@ -315,7 +315,7 @@
 			"id": "Peel",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 0, 0 ]
+				"coordinates": [0,0]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -324,7 +324,7 @@
 			"id": "Perth County",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 0, 0 ]
+				"coordinates": [0,0]
 			},
 			"properties": {
 				"fr": "Comté de Perth"
@@ -335,7 +335,7 @@
 			"id": "Peterborough County",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 0, 0 ]
+				"coordinates": [0,0]
 			},
 			"properties": {
 				"fr": "Comté de Peterborough"
@@ -346,7 +346,7 @@
 			"id": "Prince Edward",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 0, 0 ]
+				"coordinates": [0,0]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -355,7 +355,7 @@
 			"id": "Rainy River District",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 0, 0 ]
+				"coordinates": [0,0]
 			},
 			"properties": {
 				"fr": "District de Rainy River"
@@ -366,7 +366,7 @@
 			"id": "Renfrew County",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 0, 0 ]
+				"coordinates": [0,0]
 			},
 			"properties": {
 				"fr": "Comté de Renfrew"
@@ -377,7 +377,7 @@
 			"id": "Simcoe County",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 0, 0 ]
+				"coordinates": [0,0]
 			},
 			"properties": {
 				"fr": "Comté de Simcoe"
@@ -388,7 +388,7 @@
 			"id": "Sudbury District",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 0, 0 ]
+				"coordinates": [0,0]
 			},
 			"properties": {
 				"fr": "District de Sudbury"
@@ -399,7 +399,7 @@
 			"id": "Thunder Bay District",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 0, 0 ]
+				"coordinates": [0,0]
 			},
 			"properties": {
 				"fr": "District de Thunder Bay"
@@ -410,7 +410,7 @@
 			"id": "Timiskaming District",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 0, 0 ]
+				"coordinates": [0,0]
 			},
 			"properties": {
 				"fr": "District de Timiskaming"
@@ -421,7 +421,7 @@
 			"id": "Toronto",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 0, 0 ]
+				"coordinates": [0,0]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -430,7 +430,7 @@
 			"id": "United Counties of Leeds and Grenville",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 0, 0 ]
+				"coordinates": [0,0]
 			},
 			"properties": {
 				"fr": "Comté Unis de Leeds et Grenville"
@@ -441,7 +441,7 @@
 			"id": "United Counties of Prescott and Russell",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 0, 0 ]
+				"coordinates": [0,0]
 			},
 			"properties": {
 				"fr": "Comté Unis de Prescott et Russell"
@@ -452,7 +452,7 @@
 			"id": "United Counties of Stormont, Dundas and Glengarry",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 0, 0 ]
+				"coordinates": [0,0]
 			},
 			"properties": {
 				"fr": "Comté de Unis Stormont, Dundas et Glengarry"
@@ -463,7 +463,7 @@
 			"id": "Waterloo",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 0, 0 ]
+				"coordinates": [0,0]
 			},
 			"properties": {},
 			"type": "Feature"
@@ -472,7 +472,7 @@
 			"id": "Wellington County",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 0, 0 ]
+				"coordinates": [0,0]
 			},
 			"properties": {
 				"fr": "Comté de Wellington"
@@ -483,7 +483,7 @@
 			"id": "York",
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 0, 0 ]
+				"coordinates": [0,0]
 			},
 			"properties": {},
 			"type": "Feature"

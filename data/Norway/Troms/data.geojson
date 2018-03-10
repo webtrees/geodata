@@ -1,0 +1,482 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"id": "Balsfjord",
+			"properties": {
+				"ar": "بالسفيورد",
+				"bpy": "বালস্ফজোর্ড",
+				"ceb": "Balsfjord_(munisipyo_sa_Noruwega)",
+				"de": "Balsfjord_(Kommune)",
+				"et": "Balsfjordi_vald",
+				"fi": "Paatsivuono",
+				"hy": "Բալսֆյորդ",
+				"nds": "Kommun_Balsfjord",
+				"nn": "Balsfjord_kommune",
+				"ru": "Балсфьорд",
+				"se": "Báhccavuotna",
+				"sv": "Balsfjords_kommun",
+				"zh": "巴爾斯菲尤爾"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Bardu",
+			"properties": {
+				"ar": "باردو_(النرويج)",
+				"bpy": "বারডু",
+				"et": "Bardu_vald",
+				"hy": "Բարդու",
+				"nds": "Kommun_Bardu",
+				"nn": "Bardu_kommune",
+				"ru": "Барду",
+				"se": "Beardu",
+				"sv": "Bardu_kommun",
+				"zh": "巴爾迪_(挪威)"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Berg",
+			"properties": {
+				"ar": "برغ_(النرويج)",
+				"bpy": "বের্গ",
+				"ca": "Berg_(Noruega)",
+				"de": "Berg_(Norwegen)",
+				"eo": "Berg_(Norvegio)",
+				"es": "Berg_(Noruega)",
+				"et": "Bergi_vald_(Norra)",
+				"fi": "Bergin_kunta",
+				"fr": "Berg_(Norvège)",
+				"hy": "Բերգի_համայնք",
+				"it": "Berg_(Norvegia)",
+				"la": "Berg_(Norvegia)",
+				"li": "Berg_(Troms)",
+				"ms": "Berg,_Norway",
+				"nds": "Kommun_Berg_(Norwegen)",
+				"nl": "Berg_(Troms)",
+				"nn": "Berg_kommune",
+				"no": "Berg_(Troms)",
+				"pl": "Gmina_Berg_(Norwegia)",
+				"pt": "Berg_(Noruega)",
+				"ro": "Berg_(Norvegia)",
+				"ru": "Берг_(Норвегия)",
+				"se": "Birgi",
+				"sl": "Berg,_Norveška",
+				"sq": "Berg_(Norvegjia)",
+				"sv": "Bergs_kommun,_Norge",
+				"vi": "Berg,_Na_Uy",
+				"war": "Berg,_Norway",
+				"zh": "貝格_(挪威)"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Bjarkøy",
+			"properties": {
+				"bpy": "বজারকায়",
+				"hy": "Բյարկիո",
+				"nds": "Kommun_Bjarkøy",
+				"nn": "Bjarkøy_kommune",
+				"ru": "Бьяркёй",
+				"se": "Bjarkeddjo",
+				"sv": "Bjarkøy_kommun"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Dyrøy",
+			"properties": {
+				"ar": "ديروي",
+				"bpy": "ডয়রায়",
+				"ceb": "Dyrøy_(munisipyo)",
+				"hy": "Դյուրյո",
+				"nds": "Kommun_Dyrøy",
+				"nn": "Dyrøy_kommune",
+				"ru": "Дюрёй",
+				"se": "Divrrát",
+				"sv": "Dyrøy_kommun",
+				"zh": "迪略"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Gratangen",
+			"properties": {
+				"ar": "غراتانغن",
+				"bpy": "গ্রাটাঙেন",
+				"ceb": "Gratangen_(munisipyo)",
+				"hy": "Գրաթանգեն",
+				"nds": "Kommun_Gratangen",
+				"nn": "Gratangen_kommune",
+				"ru": "Гратанген",
+				"se": "Rivttát",
+				"sv": "Gratangens_kommun",
+				"zh": "格拉唐恩"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Harstad",
+			"properties": {
+				"ar": "هارستاد",
+				"bg": "Хаща",
+				"bpy": "হারস্টাড",
+				"ceb": "Harstad_(munisipyo)",
+				"fa": "هارستاد",
+				"hu": "Harstad_község",
+				"hy": "Հարսթադ",
+				"ja": "ハーシュタ",
+				"ko": "하르스타",
+				"lt": "Harstadas",
+				"mk": "Харстад",
+				"nds": "Kommun_Harstad",
+				"nn": "Harstad_kommune",
+				"ru": "Харстад",
+				"se": "Hárštá",
+				"sr": "Харстад",
+				"sv": "Harstads_kommun",
+				"zh": "哈尔斯塔"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Ibestad",
+			"properties": {
+				"ar": "إيبستاد",
+				"bpy": "ইবেস্টাড",
+				"ceb": "Ibestad_(munisipyo)",
+				"hy": "Իբեսթադ",
+				"nds": "Kommun_Ibestad",
+				"nl": "Ibestad_(gemeente)",
+				"nn": "Ibestad_kommune",
+				"ru": "Ибестад",
+				"se": "Ivvárstáđit",
+				"sv": "Ibestads_kommun",
+				"zh": "伊伯斯特"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Karlsøy",
+			"properties": {
+				"ar": "كارلسوي",
+				"bpy": "কার্লসায়",
+				"ceb": "Karlsøy_(munisipyo_sa_Noruwega)",
+				"fi": "Kalsa",
+				"hy": "Կարլսյո",
+				"nds": "Kommun_Karlsøy",
+				"nn": "Karlsøy_kommune",
+				"ru": "Карлсёй",
+				"se": "Gálsa",
+				"sv": "Karlsøy_kommun",
+				"zh": "卡爾綏"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Kvæfjord",
+			"properties": {
+				"ar": "كفافيورد",
+				"bpy": "কভায়েফজোর্ড",
+				"ceb": "Kvæfjord_(munisipyo_sa_Noruwega)",
+				"de": "Kvæfjord_(Kommune)",
+				"hy": "Կվեֆյորդ",
+				"nds": "Kommun_Kvæfjord",
+				"nn": "Kvæfjord_kommune",
+				"ru": "Квефьорд",
+				"se": "Giehtavuotna",
+				"sv": "Kvæfjords_kommun",
+				"zh": "克韋菲尤爾"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Kvænangen",
+			"properties": {
+				"ar": "كفانانغن",
+				"bpy": "কভায়েনাঙেন",
+				"ceb": "Kvænangen_(munisipyo_sa_Noruwega)",
+				"de": "Kvænangen_(Kommune)",
+				"et": "Kvænangeni_vald",
+				"fi": "Naavuono",
+				"hy": "Քվենանգեն",
+				"nds": "Kommun_Kvænangen",
+				"nn": "Kvænangen_kommune",
+				"ru": "Квенанген",
+				"se": "Návuotna",
+				"sv": "Kvænangens_kommun",
+				"zh": "克韋南恩"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Kåfjord",
+			"properties": {
+				"ar": "كوفيورد",
+				"bpy": "গায়ভুটনা_কফজোর্ড",
+				"ca": "Gáivuotna-Kåfjord",
+				"ceb": "Kåfjord_(munisipyo_sa_Noruwega)",
+				"de": "Kåfjord_(Kommune)",
+				"et": "Kåfjordi_vald",
+				"eu": "Gáivuotna–Kåfjord",
+				"fi": "Kaivuono",
+				"fr": "Kåfjord_(commune)",
+				"hy": "Կոֆյորդ",
+				"la": "Kåfjord_(commune)",
+				"ms": "Gáivuotna–Kåfjord",
+				"nds": "Kommun_Kåfjord",
+				"nl": "Kåfjord_(Troms)",
+				"nn": "Kåfjord_kommune",
+				"pl": "Gáivuotna_Kåfjord",
+				"ro": "Gáivuotna–Kåfjord",
+				"ru": "Кофьорд",
+				"se": "Gáivuotna",
+				"sv": "Kåfjords_kommun",
+				"vi": "Gáivuotna_–_Kåfjord",
+				"war": "Gáivuotna_–_Kåfjord",
+				"zh": "科菲尤爾",
+				"zh-min-nan": "Gáivuotna_–_Kåfjord"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Lavangen",
+			"properties": {
+				"ar": "لافانغن",
+				"bpy": "লাভাঙেন",
+				"ceb": "Lavangen_(munisipyo)",
+				"hy": "Լավանգեն",
+				"nds": "Kommun_Lavangen",
+				"nn": "Lavangen_kommune",
+				"ru": "Лаванген",
+				"se": "Loabát",
+				"sv": "Lavangens_kommun",
+				"zh": "拉旺恩"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Lenvik",
+			"properties": {
+				"ar": "لينفيك",
+				"bpy": "লেনভিক",
+				"hy": "Լենվիք",
+				"nds": "Kommun_Lenvik",
+				"nn": "Lenvik_kommune",
+				"ru": "Ленвик",
+				"se": "Leaŋgáviika",
+				"sv": "Lenviks_kommun",
+				"uk": "Ленвік",
+				"zh": "倫維克"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Lyngen",
+			"properties": {
+				"bpy": "লয়ঙেন",
+				"ceb": "Lyngen_(munisipyo)",
+				"et": "Lyngeni_vald",
+				"fi": "Yykeä",
+				"hy": "Լյունգեն",
+				"nds": "Kommun_Lyngen",
+				"nl": "Lyngen_(gemeente)",
+				"nn": "Lyngen_kommune",
+				"ru": "Люнген",
+				"se": "Ivgu",
+				"sv": "Lyngens_kommun",
+				"zh": "靈恩"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Målselv",
+			"properties": {
+				"bpy": "মলসেলভ",
+				"ceb": "Målselv_(munisipyo_sa_Noruwega)",
+				"et": "Målselvi_vald",
+				"hy": "Մոլսելվ",
+				"nds": "Kommun_Målselv",
+				"nn": "Målselv_kommune",
+				"ru": "Молсэльв",
+				"se": "Málatvuopmi",
+				"sv": "Målselvs_kommun",
+				"zh": "莫爾塞爾夫"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Nordreisa",
+			"properties": {
+				"bpy": "নোর্দরেইসা",
+				"ceb": "Nordreisa_(munisipyo_sa_Noruwega)",
+				"et": "Nordreisa_vald",
+				"fi": "Raisi",
+				"hy": "Նորդռեիսա",
+				"nds": "Kommun_Nordreisa",
+				"nn": "Nordreisa_kommune",
+				"ru": "Нуррейса",
+				"se": "Ráisa",
+				"sv": "Nordreisa_kommun",
+				"zh": "諾雷薩"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Salangen",
+			"properties": {
+				"bpy": "সালাঙেন",
+				"ceb": "Salangen_(munisipyo)",
+				"hy": "Սալանգեն",
+				"nds": "Kommun_Salangen",
+				"nn": "Salangen_kommune",
+				"ru": "Саланген",
+				"se": "Siellat",
+				"sv": "Salangens_kommun",
+				"zh": "沙蘭根"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Skjervøy",
+			"properties": {
+				"bpy": "স্কজেরভায়",
+				"ceb": "Skjervøy_(munisipyo)",
+				"es": "Skjervøy_(municipio)",
+				"et": "Skjervøy_vald",
+				"fi": "Kierua",
+				"hy": "Շերվյե",
+				"nds": "Kommun_Skjervøy",
+				"nn": "Skjervøy_kommune",
+				"ru": "Шервёй",
+				"se": "Skiervá",
+				"sv": "Skjervøy_kommun",
+				"zh": "謝爾沃于"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Skånland",
+			"properties": {
+				"az": "Skonlann",
+				"bpy": "স্কনলেন্ড",
+				"hy": "Սքոնլան",
+				"nds": "Kommun_Skånland",
+				"nn": "Skånland_kommune",
+				"pl": "Gmina_Skånland",
+				"ru": "Сконланн",
+				"se": "Skánit",
+				"sv": "Skånlands_kommun",
+				"zh": "斯孔蘭"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Storfjord",
+			"properties": {
+				"bpy": "স্ট্রোফজোর্ড",
+				"ceb": "Storfjord_(munisipyo_sa_Noruwega)",
+				"de": "Storfjord_(Kommune)",
+				"et": "Storfjordi_vald",
+				"fi": "Omasvuono",
+				"hy": "Սթյուրֆյորդ",
+				"nds": "Kommun_Storfjord",
+				"nn": "Storfjord_kommune",
+				"ru": "Стурфьорд",
+				"se": "Omasvuotna",
+				"sv": "Storfjords_kommun",
+				"zh": "斯托爾菲尤爾"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Sørreisa",
+			"properties": {
+				"bpy": "সার্রেইসা",
+				"es": "Sørreisa_(municipio)",
+				"fi": "Raisivuono",
+				"hy": "Սյորռեիսա",
+				"nds": "Kommun_Sørreisa",
+				"nl": "Sørreisa_(gemeente)",
+				"nn": "Sørreisa_kommune",
+				"ru": "Сёррейса",
+				"se": "Ráisavuotna",
+				"sv": "Sørreisa_kommun",
+				"zh": "瑟雷薩"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Torsken",
+			"properties": {
+				"bpy": "ট্রোসকেন",
+				"ceb": "Torsken_(munisipyo)",
+				"hy": "Տորսկեն",
+				"nds": "Kommun_Torsken",
+				"nn": "Torsken_kommune",
+				"ru": "Торскен",
+				"se": "Doasku",
+				"sv": "Torskens_kommun",
+				"zh": "托什肯"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Tranøy",
+			"properties": {
+				"bpy": "ট্রানায়",
+				"ceb": "Tranøy_(munisipyo_sa_Noruwega)",
+				"et": "Tranøy_vald",
+				"hy": "Թրանյոյ",
+				"nds": "Kommun_Tranøy",
+				"nn": "Tranøy_kommune",
+				"ru": "Транёй",
+				"se": "Ránáidsuolu",
+				"sv": "Tranøy_kommun",
+				"zh": "特拉訥于"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Tromsø",
+			"properties": {
+				"ang": "Tromsīeg",
+				"ar": "ترومسو",
+				"bat-smg": "Tromsė",
+				"be": "Тромсё",
+				"be-x-old": "Трумсё",
+				"bg": "Тромсьо",
+				"bpy": "ট্রোমসা",
+				"ceb": "Tromsø_(munisipyo)",
+				"co": "Tromsu",
+				"el": "Τρόμσε",
+				"fa": "ترومسو",
+				"fi": "Tromssa",
+				"he": "טרומסה",
+				"hy": "Թրոմսյո",
+				"ja": "トロムソ",
+				"ka": "ტრომსე",
+				"ko": "트롬쇠",
+				"la": "Tromsonda",
+				"lt": "Trumsė",
+				"lv": "Trumse",
+				"mk": "Тромсе",
+				"mr": "ट्रोम्सो",
+				"mrj": "Тромсӧ",
+				"myv": "Тромсё_ош",
+				"os": "Тромсё",
+				"pnb": "ٹرومسو",
+				"ru": "Тромсё",
+				"se": "Romsa",
+				"sr": "Тромсе",
+				"th": "ทรุมเซอ",
+				"uk": "Тромсе",
+				"vep": "Tromsö",
+				"zh": "特罗姆瑟",
+				"zh-yue": "特羅姆瑟"
+			}
+		}
+	]
+}

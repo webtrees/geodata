@@ -119,6 +119,31 @@
 				"ur": "ترومس",
 				"zh": "特罗姆斯郡"
 			}
+		},
+		{
+			"type": "Feature",
+			"id": "Trøndelag",
+			"properties": {
+				"ang": "Þrondham",
+				"ar": "تروندلاغ",
+				"be": "Трондэлаг",
+				"fa": "تروندلاگ",
+				"fo": "Trøndelag_fylki",
+				"hy": "Թրյոնդելագ",
+				"is": "Þrændalög",
+				"ja": "トロンデラーグ",
+				"ka": "ტრიონდელაგი",
+				"ko": "트뢰넬라그",
+				"lt": "Triondelagas",
+				"nn": "Trøndelag_fylke",
+				"os": "Централон_Норвеги",
+				"ru": "Трёнделаг",
+				"se": "Trøndelága",
+				"sv": "Trøndelag_fylke",
+				"uk": "Треннелаг",
+				"ur": "تروندیلاگ",
+				"zh": "特倫德拉格"
+			}
 		}
 	]
 }

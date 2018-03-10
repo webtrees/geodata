@@ -1,0 +1,735 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"id": "Alstahaug",
+			"properties": {
+				"bpy": "আল্সটাহৌগ",
+				"et": "Alstahaugi_vald",
+				"fa": "الستاهاگ",
+				"fo": "Alstahaug_kommuna",
+				"hu": "Alstahaug_község",
+				"ja": "アルスタハウグ",
+				"nds": "Kommun_Alstahaug",
+				"nn": "Alstahaug_kommune",
+				"ru": "Алстахёуг",
+				"sv": "Alstahaugs_kommun",
+				"uk": "Алстахьоуг",
+				"zh": "阿爾斯塔海于格"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Andøy",
+			"properties": {
+				"bpy": "আন্ডায়",
+				"ceb": "Andøy_(munisipyo)",
+				"et": "Andøy_vald",
+				"ja": "アンドイ",
+				"nds": "Kommun_Andøy",
+				"nn": "Andøy_kommune",
+				"ru": "Аннёй",
+				"se": "Ánddasuolu",
+				"sv": "Andøy_kommun",
+				"zh": "安德于"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Ballangen",
+			"properties": {
+				"bg": "Баланген",
+				"bpy": "বাল্লাঙেন",
+				"ceb": "Ballangen_(munisipyo)",
+				"et": "Ballangeni_vald",
+				"ja": "バランゲン",
+				"nds": "Kommun_Ballangen",
+				"nl": "Ballangen_(gemeente)",
+				"nn": "Ballangen_kommune",
+				"ru": "Балланген",
+				"se": "Bálat",
+				"sv": "Ballangens_kommun",
+				"zh": "巴朗恩"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Beiarn",
+			"properties": {
+				"bpy": "বেয়ার্ন",
+				"ceb": "Beiarn_(munisipyo)",
+				"et": "Beiarni_vald",
+				"nds": "Kommun_Beiarn",
+				"nn": "Beiarn_kommune",
+				"ru": "Бейарн",
+				"se": "Báidár",
+				"sv": "Beiarns_kommun",
+				"zh": "貝阿恩_(挪威)"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Bindal",
+			"properties": {
+				"bpy": "বিনডাল",
+				"et": "Bindali_vald",
+				"nds": "Kommun_Bindal",
+				"nn": "Bindal_kommune",
+				"ru": "Биндал",
+				"sv": "Bindals_kommun",
+				"zh": "賓達爾"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Bodø",
+			"properties": {
+				"ar": "بودو_(مدينة)",
+				"bat-smg": "Bodė",
+				"be": "Будзё",
+				"be-x-old": "Будэ",
+				"bg": "Будьо",
+				"bpy": "বোডা",
+				"el": "Μπόντο",
+				"et": "Bodø_vald",
+				"fa": "بودو،_نروژ",
+				"ja": "ボードー",
+				"ko": "보되",
+				"lt": "Budė",
+				"lv": "Būdē",
+				"mk": "Буде",
+				"nds": "Kommun_Bodø",
+				"nn": "Bodø_kommune",
+				"os": "Будё",
+				"pnb": "بوڈو",
+				"ru": "Будё",
+				"se": "Budejju",
+				"sr": "Боде_(Норвешка)",
+				"uk": "Буде",
+				"ur": "بودو",
+				"zh": "博德"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Brønnøy",
+			"properties": {
+				"bpy": "ব্রান্নায়",
+				"ceb": "Brønnøy_(munisipyo_sa_Noruwega)",
+				"et": "Brønnøy_vald",
+				"nds": "Kommun_Brønnøy",
+				"nn": "Brønnøy_kommune",
+				"ru": "Брённёй",
+				"sv": "Brønnøy_kommun",
+				"zh": "布倫訥于"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Bø",
+			"properties": {
+				"da": "Bø_(Nordland)",
+				"de": "Bø_(Nordland)",
+				"es": "Bø_(Nordland)",
+				"et": "Bø_vald_(Nordland)",
+				"eu": "Bø_(Nordland)",
+				"fi": "Bø_(Nordland)",
+				"fr": "Bø_(Nordland)",
+				"hr": "Bø_(Nordland,_Norveška)",
+				"id": "Bø,_Nordland",
+				"it": "Bø_(Nordland)",
+				"ja": "ボー_(ヌールラン県)",
+				"jv": "Bø,_Nordland",
+				"la": "Bø_(Nordland)",
+				"li": "Bø_(Nordland)",
+				"ms": "Bø,_Nordland",
+				"nds": "Kommun_Bø_(Nordland)",
+				"nl": "Bø_(Nordland)",
+				"nn": "Bø_kommune_i_Nordland",
+				"no": "Bø_(Nordland)",
+				"pl": "Bø_(Nordland)",
+				"pt": "Bø_i_Vesterålen",
+				"ro": "Bø,_Nordland",
+				"ru": "Бё_(Нурланн)",
+				"se": "Bievát",
+				"sl": "Bø,_Nordland",
+				"sq": "Bø_(Nordland)",
+				"sv": "Bø_kommun,_Nordland",
+				"vi": "Bø,_Nordland",
+				"war": "Bø,_Nordland",
+				"zh": "伯_(諾爾蘭郡)"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Dønna",
+			"properties": {
+				"bpy": "ডান্না",
+				"ceb": "Dønna_(munisipyo)",
+				"ko": "된나",
+				"nds": "Kommun_Dønna",
+				"nn": "Dønna_kommune",
+				"ru": "Дённа_(коммуна)",
+				"sv": "Dønna_kommun",
+				"zh": "登納島"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Evenes",
+			"properties": {
+				"bpy": "এভেনেস",
+				"ceb": "Evenes_(munisipyo)",
+				"de": "Evenes_(Kommune)",
+				"fr": "Evenes_(Norvège)",
+				"ja": "エヴェネス",
+				"nds": "Kommun_Evenes",
+				"nn": "Evenes_kommune",
+				"ru": "Эвенес",
+				"se": "Evenášši",
+				"sv": "Evenes_kommun",
+				"zh": "埃沃内斯"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Fauske",
+			"properties": {
+				"bg": "Фауске",
+				"bpy": "ফৌস্কে",
+				"ceb": "Fauske_(munisipyo)",
+				"nds": "Kommun_Fauske",
+				"nl": "Fauske_(gemeente)",
+				"nn": "Fauske_kommune",
+				"ru": "Фёуске",
+				"se": "Fuoisku",
+				"sr": "Фауске",
+				"sv": "Fauske_kommun",
+				"zh": "弗于斯克"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Flakstad",
+			"properties": {
+				"bpy": "ফ্লাকস্টাড",
+				"nds": "Kommun_Flakstad",
+				"nn": "Flakstad_kommune",
+				"ru": "Флакстад",
+				"sv": "Flakstads_kommun",
+				"zh": "弗拉克斯塔"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Gildeskål",
+			"properties": {
+				"bpy": "গিলডেসকল",
+				"nds": "Kommun_Gildeskål",
+				"nn": "Gildeskål_kommune",
+				"ru": "Йильдескол",
+				"se": "Oarjje-Báidár",
+				"sv": "Gildeskåls_kommun",
+				"zh": "伊勒斯卡爾"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Grane",
+			"properties": {
+				"ceb": "Grane_(pagklaro)",
+				"fr": "Grane_(homonymie)",
+				"no": "Grane_(andre_betydninger)",
+				"sv": "Grane_(olika_betydelser)"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Hadsel",
+			"properties": {
+				"bpy": "হাডসেল",
+				"ja": "ハッセル_(ノルウェー)",
+				"mk": "Хадсел",
+				"nds": "Kommun_Hadsel",
+				"nn": "Hadsel_kommune",
+				"ru": "Хадсель",
+				"se": "Válafierda",
+				"sv": "Hadsels_kommun",
+				"zh": "哈德瑟爾"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Hamarøy",
+			"properties": {
+				"bpy": "হামারায়",
+				"ceb": "Hamarøy_(munisipyo)",
+				"nds": "Kommun_Hamarøy",
+				"nn": "Hamarøy_kommune",
+				"ru": "Хамарёй",
+				"se": "Hábmir",
+				"sv": "Hamarøy_kommun",
+				"zh": "哈馬略"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Hattfjelldal",
+			"properties": {
+				"bpy": "হাট্টেফজেলডাল",
+				"et": "Hattfjelldali_vald",
+				"nds": "Kommun_Hattfjelldal",
+				"nn": "Hattfjelldal_kommune",
+				"ru": "Хаттфьелльдал",
+				"se": "Árbordi",
+				"sv": "Hattfjelldals_kommun",
+				"zh": "哈特菲耶爾達爾"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Hemnes",
+			"properties": {
+				"bpy": "হেমনেস",
+				"ceb": "Hemnes_(munisipyo)",
+				"et": "Hemnesi_vald",
+				"li": "Hemnes_(Nordland)",
+				"nds": "Kommun_Hemnes",
+				"nl": "Hemnes_(Nordland)",
+				"nn": "Hemnes_kommune",
+				"ru": "Хемнес",
+				"sv": "Hemnes_kommun",
+				"zh": "海姆內斯"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Herøy",
+			"properties": {
+				"ro": "Herøy_(dezambiguizare)",
+				"sq": "Herøy_(Møre_og_Romsdal)"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Leirfjord",
+			"properties": {
+				"bpy": "লেইরফজোর্ড",
+				"ceb": "Leirfjord_(munisipyo_sa_Noruwega)",
+				"ja": "ライルフィヨール",
+				"nds": "Kommun_Leirfjord",
+				"nn": "Leirfjord_kommune",
+				"ru": "Лейрфьорд",
+				"sv": "Leirfjords_kommun",
+				"zh": "雷爾菲尤爾"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Lurøy",
+			"properties": {
+				"bpy": "লুরায়",
+				"ceb": "Lurøy_(munisipyo)",
+				"nds": "Kommun_Lurøy",
+				"nn": "Lurøy_kommune",
+				"ru": "Лурёй",
+				"sv": "Lurøy_kommun",
+				"zh": "呂略"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Lødingen",
+			"properties": {
+				"bpy": "লাডিঙেন",
+				"ceb": "Lødingen_(munisipyo)",
+				"nds": "Kommun_Lødingen",
+				"nl": "Lødingen_(gemeente)",
+				"nn": "Lødingen_kommune",
+				"ru": "Лёдинген",
+				"se": "Lodegat",
+				"sv": "Lødingens_kommun",
+				"zh": "勒丁恩"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Meløy",
+			"properties": {
+				"bpy": "মেলায়",
+				"ceb": "Meløy_(munisipyo)",
+				"nds": "Kommun_Meløy",
+				"nn": "Meløy_kommune",
+				"ru": "Мелёй",
+				"sv": "Meløy_kommun",
+				"zh": "梅勒于"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Moskenes",
+			"properties": {
+				"bpy": "মোসকেনেস",
+				"fa": "موسکنس",
+				"nds": "Kommun_Moskenes",
+				"nn": "Moskenes_kommune",
+				"os": "Москенес",
+				"ru": "Москенес",
+				"sv": "Moskenes_kommun",
+				"zh": "莫斯克內斯"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Narvik",
+			"properties": {
+				"ar": "نارفيك",
+				"be": "Нарвік",
+				"be-x-old": "Нарвік",
+				"bg": "Нарвик",
+				"bpy": "নার্ভিক",
+				"ceb": "Narvik_(munisipyo)",
+				"el": "Νάρβικ",
+				"fa": "نارویک",
+				"he": "נרוויק",
+				"hy": "Նարվիք",
+				"ja": "ナルヴィク",
+				"ko": "나르비크",
+				"lt": "Narvikas",
+				"mk": "Нарвик",
+				"nds": "Kommun_Narvik",
+				"nl": "Narvik_(plaats)",
+				"os": "Нарвик",
+				"pl": "Narwik",
+				"ru": "Нарвик",
+				"se": "Áhkanjárga",
+				"sr": "Нарвик",
+				"uk": "Нарвік",
+				"zh": "纳尔维克"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Nesna",
+			"properties": {
+				"bpy": "নেসনা",
+				"ceb": "Nesna_(munisipyo)",
+				"ja": "ネスナ",
+				"nds": "Kommun_Nesna",
+				"nn": "Nesna_kommune",
+				"ru": "Несна",
+				"sv": "Nesna_kommun",
+				"zh": "內斯納"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Rana",
+			"properties": {
+				"ar": "رانا_(النرويج)",
+				"bar": "Rana_(Nordland)",
+				"bpy": "রানা",
+				"ca": "Rana_(Noruega)",
+				"ceb": "Rana_(munisipyo)",
+				"de": "Rana_(Nordland)",
+				"es": "Rana_(Noruega)",
+				"et": "Rana_vald",
+				"eu": "Rana_(Norvegia)",
+				"fi": "Rana_(Norja)",
+				"fr": "Rana_(Norvège)",
+				"hu": "Rana_község",
+				"it": "Rana_(Norvegia)",
+				"ja": "ラナ_(ノルウェー)",
+				"jv": "Rana,_Norway",
+				"ko": "라나_(노르웨이)",
+				"la": "Rana_(Norvegia)",
+				"li": "Rana_(Nordland)",
+				"ms": "Rana,_Norway",
+				"nds": "Kommun_Rana",
+				"nl": "Rana_(Nordland)",
+				"nn": "Rana_kommune",
+				"pl": "Gmina_Rana",
+				"pt": "Rana_(Noruega)",
+				"ro": "Rana_(Norvegia)",
+				"ru": "Рана_(Норвегия)",
+				"se": "Ruovatvuotna",
+				"sl": "Rana,_Norveška",
+				"sq": "Rana_(Norvegjia)",
+				"sv": "Rana_kommun",
+				"vi": "Rana,_Norway",
+				"war": "Rana,_Norway",
+				"zh": "拉納_(挪威)"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Rødøy",
+			"properties": {
+				"bpy": "রাডায়",
+				"ceb": "Rødøy_(munisipyo_sa_Noruwega)",
+				"nds": "Kommun_Rødøy",
+				"nn": "Rødøy_kommune",
+				"ru": "Рёдёй",
+				"se": "Ruovada",
+				"sv": "Rødøy_kommun",
+				"zh": "勒德于"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Røst",
+			"properties": {
+				"bpy": "রাস্ট",
+				"ceb": "Røst_(munisipyo)",
+				"fa": "روست_(نروژ)",
+				"nds": "Kommun_Røst",
+				"nn": "Røst_kommune",
+				"ru": "Рёст",
+				"sv": "Røsts_kommun",
+				"zh": "勒斯特"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Saltdal",
+			"properties": {
+				"bpy": "সাল্টডাল",
+				"ceb": "Saltdal_(munisipyo_sa_Noruwega)",
+				"nds": "Kommun_Saltdal",
+				"nn": "Saltdal_kommune",
+				"ru": "Салтдал",
+				"se": "Sálát",
+				"sv": "Saltdals_kommun",
+				"zh": "薩爾特達爾"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Sortland",
+			"properties": {
+				"bg": "Сортлан",
+				"bpy": "সোর্টলেন্ড",
+				"ceb": "Sortland_(munisipyo)",
+				"ja": "ソルトラン",
+				"nds": "Kommun_Sortland",
+				"nl": "Sortland_(gemeente)",
+				"nn": "Sortland_kommune",
+				"ru": "Сортланн",
+				"se": "Suorta",
+				"sr": "Сортланд",
+				"sv": "Sortlands_kommun",
+				"zh": "苏特兰_(挪威)"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Steigen",
+			"properties": {
+				"bpy": "স্টেইগেন",
+				"ceb": "Steigen_(munisipyo)",
+				"nds": "Kommun_Steigen",
+				"nn": "Steigen_kommune",
+				"ru": "Стейген",
+				"se": "Stáigu",
+				"sv": "Steigens_kommun",
+				"zh": "斯泰根"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Sømna",
+			"properties": {
+				"bpy": "সাম্না",
+				"ceb": "Sømna_(munisipyo)",
+				"nds": "Kommun_Sømna",
+				"nn": "Sømna_kommune",
+				"ru": "Сёмна",
+				"sv": "Sømna_kommun",
+				"zh": "瑟姆納"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Sørfold",
+			"properties": {
+				"bpy": "সারফোল্ড",
+				"nds": "Kommun_Sørfold",
+				"nn": "Sørfold_kommune",
+				"ru": "Сёрфолл",
+				"se": "Oarjje-Fuolldá",
+				"sv": "Sørfolds_kommun",
+				"zh": "瑟福爾"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Tjeldsund",
+			"properties": {
+				"bar": "Tjeldsund_(Kommune)",
+				"bpy": "টজেল্ডসুন্ড",
+				"ceb": "Tjeldsund_(munisipyo_sa_Noruwega)",
+				"de": "Tjeldsund_(Kommune)",
+				"ja": "チェルスン",
+				"nds": "Kommun_Tjeldsund",
+				"nl": "Tjeldsund_(gemeente)",
+				"nn": "Tjeldsund_kommune",
+				"ru": "Хьелльсунн",
+				"se": "Dielddanuorri",
+				"sv": "Tjeldsunds_kommun",
+				"zh": "切爾松"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Træna",
+			"properties": {
+				"bpy": "ট্রায়েনা",
+				"ceb": "Træna_(munisipyo)",
+				"nds": "Kommun_Træna",
+				"nn": "Træna_kommune",
+				"ru": "Трена",
+				"sv": "Træna_kommun",
+				"zh": "特賴納群島"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Tysfjord",
+			"properties": {
+				"bar": "Tysfjord_(Kommune)",
+				"bpy": "টাইসফজোর্ড",
+				"ceb": "Tysfjord_(munisipyo_sa_Noruwega)",
+				"de": "Tysfjord_(Kommune)",
+				"et": "Tysfjordi_vald",
+				"fa": "تیسفیورد",
+				"ja": "テュスフィヨール",
+				"kv": "Дивтасвуодна",
+				"nds": "Kommun_Tysfjord",
+				"nl": "Tysfjord_(gemeente)",
+				"nn": "Tysfjord_kommune",
+				"ru": "Тюсфьорд",
+				"se": "Divttasvuotna",
+				"sv": "Tysfjords_kommun",
+				"zh": "廷斯菲尤爾"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Vefsn",
+			"properties": {
+				"bpy": "ভেফ্সন",
+				"et": "Vefsni_vald",
+				"fa": "وفسن",
+				"nds": "Kommun_Vefsn",
+				"nn": "Vefsn_kommune",
+				"ru": "Вефсн",
+				"sv": "Vefsns_kommun",
+				"zh": "韋夫斯恩"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Vega",
+			"properties": {
+				"bpy": "ভেগা",
+				"ca": "Vega_(Noruega)",
+				"ceb": "Vega_(munisipyo)",
+				"da": "Vega_(Norge)",
+				"de": "Vega_(Norwegen)",
+				"es": "Vega_(Nordland)",
+				"eu": "Vega_(Norvegia)",
+				"fa": "وگا،_نروژ",
+				"fi": "Vega_(kunta)",
+				"fr": "Vega_(Norvège)",
+				"id": "Vega,_Norwegia",
+				"it": "Vega_(Norvegia)",
+				"ja": "ヴェーガ",
+				"jv": "Vega,_Norway",
+				"la": "Vega_(Norvegia)",
+				"ms": "Vega,_Norway",
+				"nds": "Kommun_Vega",
+				"nl": "Vega_(Nordland)",
+				"nn": "Vega_kommune",
+				"pl": "Vega_(Norwegia)",
+				"pt": "Vega_(Noruega)",
+				"ro": "Vega_(Norvegia)",
+				"ru": "Вега_(коммуна)",
+				"sl": "Vega,_Norveška",
+				"sq": "Vega_(Norvegjia)",
+				"sv": "Vega_kommun",
+				"war": "Vega,_Norway",
+				"zh": "韋加"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Vestvågøy",
+			"properties": {
+				"bpy": "ভেস্টবগায়",
+				"ja": "ヴェストヴォーゴイ",
+				"nds": "Kommun_Vestvågøy",
+				"nn": "Vestvågøy_kommune",
+				"ru": "Вествогёй",
+				"sv": "Vestvågøy_kommun",
+				"th": "เวสต์วอกอย",
+				"zh": "韋斯特沃格于"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Vevelstad",
+			"properties": {
+				"bpy": "ভেভেলস্টাড",
+				"ja": "ヴェヴェルスター",
+				"nds": "Kommun_Vevelstad",
+				"nn": "Vevelstad_kommune",
+				"ru": "Вевельстад",
+				"sv": "Vevelstads_kommun",
+				"zh": "韋韋爾斯塔"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Vågan",
+			"properties": {
+				"bpy": "ভগান",
+				"et": "Vågani_vald",
+				"ja": "ヴォーガン",
+				"nds": "Kommun_Vågan",
+				"nn": "Vågan_kommune",
+				"ru": "Воган",
+				"se": "Vuogát",
+				"sv": "Vågans_kommun",
+				"zh": "沃甘"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Værøy",
+			"properties": {
+				"bpy": "বায়েরায়",
+				"ceb": "Værøy_(munisipyo)",
+				"nds": "Kommun_Værøy",
+				"nn": "Værøy_kommune",
+				"ru": "Верёй",
+				"sv": "Værøy_kommun",
+				"zh": "韋島_(挪威)"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Øksnes",
+			"properties": {
+				"bpy": "আক্সনেস",
+				"ceb": "Øksnes_(munisipyo)",
+				"nds": "Kommun_Øksnes",
+				"nn": "Øksnes_kommune",
+				"ru": "Экснес",
+				"se": "Ikšnášši",
+				"sv": "Øksnes_kommun",
+				"zh": "厄克斯內斯"
+			}
+		}
+	]
+}

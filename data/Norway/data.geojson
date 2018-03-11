@@ -3,6 +3,41 @@
 	"features": [
 		{
 			"type": "Feature",
+			"id": "Aust-Agder",
+			"properties": {
+				"ar": "أوست_أغدر",
+				"bat-smg": "Rītū_Agderis",
+				"be": "Эўст-Агдэр",
+				"be-x-old": "Эўст-Агдэр",
+				"bg": "Ауст-Агдер",
+				"bpy": "ঔস্ট-অগ্দের",
+				"ceb": "Aust-Agder_fylke",
+				"fa": "اوست_اگدر",
+				"fi": "Itä-Agderin_lääni",
+				"fr": "Comté_d'Aust-Agder",
+				"hu": "Aust-Agder_megye",
+				"is": "Austur-Agðir",
+				"ja": "アウスト・アグデル県",
+				"ka": "ეუსტ-აგდერი",
+				"ko": "에우스트아그데르_주",
+				"la": "Agder_orientalis",
+				"lt": "Rytų_Agderis",
+				"mk": "Источен_Агдер",
+				"nds": "Amt_Oost-Agder",
+				"nn": "Aust-Agder_fylke",
+				"os": "Эуст-Агдер",
+				"pnb": "اسٹاگڈر",
+				"ru": "Эуст-Агдер",
+				"se": "Nuorta-Agdera_fylka",
+				"sr": "Источни_Агдер",
+				"sv": "Aust-Agder_fylke",
+				"uk": "Еуст-Агдер",
+				"ur": "آوست-آگدیر",
+				"zh": "东阿格德尔郡"
+			}
+		},
+		{
+			"type": "Feature",
 			"id": "Finnmark",
 			"properties": {
 				"ar": "فينمارك",

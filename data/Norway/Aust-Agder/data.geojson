@@ -1,0 +1,278 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"id": "Arendal",
+			"properties": {
+				"ar": "آرندال",
+				"bat-smg": "Arendalis",
+				"be": "Арэндал",
+				"be-x-old": "Арэндаль",
+				"bg": "Арендал",
+				"bpy": "আরেনডাল",
+				"et": "Arendali_vald",
+				"fa": "آرندال",
+				"ja": "アーレンダール",
+				"ko": "아렌달",
+				"lt": "Arendalis",
+				"lv": "Ārendāle",
+				"nds": "Kommun_Arendal",
+				"nl": "Arendal_(gemeente)",
+				"nn": "Arendal_kommune",
+				"os": "Арендал",
+				"pnb": "ارنڈل",
+				"ru": "Арендал",
+				"sr": "Арендал",
+				"sv": "Arendals_kommun",
+				"uk": "Арендал",
+				"ur": "آریندال",
+				"zh": "阿伦达尔"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Birkenes",
+			"properties": {
+				"bpy": "বিরকেনেস",
+				"et": "Birkenesi_vald",
+				"nds": "Kommun_Birkenes",
+				"nn": "Birkenes_kommune",
+				"ru": "Биркенес",
+				"sv": "Birkenes_kommun",
+				"zh": "比爾肯內斯"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Bygland",
+			"properties": {
+				"bpy": "বায়গলেন্ড",
+				"et": "Byglandi_vald",
+				"hu": "Bygland_község",
+				"nds": "Kommun_Bygland",
+				"nn": "Bygland_kommune",
+				"ru": "Бюгланн",
+				"sv": "Byglands_kommun",
+				"zh": "比格蘭"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Bykle",
+			"properties": {
+				"bpy": "বায়ক্লে",
+				"et": "Bykle_vald",
+				"nds": "Kommun_Bykle",
+				"nn": "Bykle_kommune",
+				"ru": "Бюкле",
+				"sv": "Bykle_kommun",
+				"zh": "比克勒"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Evje og Hornnes",
+			"properties": {
+				"bar": "Evje_og_Hornnes",
+				"bpy": "ইভজে_ওগ_হোর্নেস",
+				"ca": "Evje_og_Hornnes",
+				"ceb": "Evje_og_Hornnes",
+				"da": "Evje_og_Hornnes",
+				"de": "Evje_og_Hornnes",
+				"et": "Evje_og_Hornnesi_vald",
+				"eu": "Evje_og_Hornnes",
+				"fi": "Evje_og_Hornnes",
+				"fr": "Evje_og_Hornnes",
+				"hu": "Evje_og_Hornnes",
+				"id": "Evje_og_Hornnes",
+				"it": "Evje_og_Hornnes",
+				"jv": "Evje_og_Hornnes",
+				"la": "Evje_og_Hornnes",
+				"li": "Evje_og_Hornnes",
+				"ms": "Evje_og_Hornnes",
+				"nds": "Kommun_Evje_un_Hornnes",
+				"nl": "Evje_og_Hornnes",
+				"nn": "Evje_og_Hornnes_kommune",
+				"no": "Evje_og_Hornnes",
+				"pl": "Evje_og_Hornnes",
+				"pt": "Evje_og_Hornnes",
+				"ro": "Evje_og_Hornnes",
+				"ru": "Эвье-ог-Хорннес",
+				"se": "Evje_og_Hornnes",
+				"sl": "Evje_og_Hornnes",
+				"sq": "Evje_og_Hornnes",
+				"sv": "Evje_og_Hornnes_kommun",
+				"vi": "Evje_og_Hornnes",
+				"war": "Evje_og_Hornnes",
+				"zh": "埃維耶-霍爾恩內斯",
+				"zh-min-nan": "Evje_og_Hornnes"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Froland",
+			"properties": {
+				"bpy": "ফ্রোলেন্ড",
+				"et": "Frolandi_vald",
+				"nds": "Kommun_Froland",
+				"nl": "Froland_(gemeente)",
+				"nn": "Froland_kommune",
+				"ru": "Фроланн",
+				"sv": "Frolands_kommun",
+				"zh": "弗羅蘭"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Gjerstad",
+			"properties": {
+				"bpy": "জিজেরস্টাড",
+				"et": "Gjerstadi_vald",
+				"nds": "Kommun_Gjerstad",
+				"nn": "Gjerstad_kommune",
+				"ru": "Ерстад",
+				"sv": "Gjerstads_kommun",
+				"zh": "耶爾斯塔"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Grimstad",
+			"properties": {
+				"ar": "غريمستاد",
+				"bg": "Гримста",
+				"bpy": "গ্রিমস্টাড",
+				"et": "Grimstadi_vald",
+				"fa": "گریمستا",
+				"ja": "グリムスタ",
+				"ko": "그림스타드",
+				"lt": "Grimstadas",
+				"nds": "Kommun_Grimstad",
+				"nn": "Grimstad_kommune",
+				"ru": "Гримстад",
+				"sr": "Гримстад",
+				"sv": "Grimstads_kommun",
+				"uk": "Грімстад",
+				"zh": "格里姆斯塔"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Iveland",
+			"properties": {
+				"bpy": "লভেলেন্ড",
+				"et": "Ivelandi_vald",
+				"nds": "Kommun_Iveland",
+				"nn": "Iveland_kommune",
+				"ru": "Ивеланн",
+				"sv": "Ivelands_kommun",
+				"zh": "伊韋蘭"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Lillesand",
+			"properties": {
+				"bg": "Лилесан",
+				"bpy": "লিল্লেসান্ড",
+				"et": "Lillesandi_vald",
+				"nds": "Kommun_Lillesand",
+				"nn": "Lillesand_kommune",
+				"ru": "Лиллесанн",
+				"sv": "Lillesands_kommun",
+				"zh": "利勒桑"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Risør",
+			"properties": {
+				"bg": "Рисьор",
+				"bpy": "রিসার",
+				"et": "Risøri_vald",
+				"fa": "ریسور",
+				"nds": "Kommun_Risør",
+				"nl": "Risør_(gemeente)",
+				"nn": "Risør_kommune",
+				"ru": "Рисёр",
+				"sr": "Рисер",
+				"sv": "Risørs_kommun",
+				"zh": "里瑟爾"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Tvedestrand",
+			"properties": {
+				"bg": "Тведестран",
+				"bpy": "টভেডেস্ট্রান্ড",
+				"et": "Tvedestrandi_vald",
+				"nds": "Kommun_Tvedestrand",
+				"nl": "Tvedestrand_(gemeente)",
+				"nn": "Tvedestrand_kommune",
+				"ru": "Тведестранн",
+				"sv": "Tvedestrands_kommun",
+				"zh": "特韋德斯特蘭"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Valle",
+			"properties": {
+				"bpy": "ভাল্লে",
+				"ca": "Valle_(Aust-Agder)",
+				"ceb": "Valle,_Norway",
+				"da": "Valle_(kommune)",
+				"de": "Valle_(Norwegen)",
+				"es": "Valle_(Noruega)",
+				"et": "Valle_vald",
+				"fi": "Valle_(Norja)",
+				"it": "Valle_(Norvegia)",
+				"jv": "Valle,_Norway",
+				"la": "Valle_(Norvegia)",
+				"li": "Valle_(Nórwaeg)",
+				"ms": "Valle,_Norway",
+				"nds": "Kommun_Valle",
+				"nl": "Valle_(Aust-Agder)",
+				"nn": "Valle_kommune",
+				"pl": "Valle_(miasto_w_Norwegii)",
+				"pt": "Valle_(Noruega)",
+				"ro": "Valle_(Norvegia)",
+				"ru": "Валле_(Норвегия)",
+				"sq": "Valle_(Norvegjia)",
+				"sv": "Valle_kommun",
+				"war": "Valle,_Norway",
+				"zh": "瓦勒"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Vegårshei",
+			"properties": {
+				"bpy": "ভেগারসেই",
+				"et": "Vegårshei_vald",
+				"fa": "وگرشی",
+				"kk": "Вегорсхей",
+				"nds": "Kommun_Vegårshei",
+				"nn": "Vegårshei_kommune",
+				"ru": "Вегорсхей",
+				"sv": "Vegårsheis_kommun",
+				"zh": "韋戈爾什黑"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Åmli",
+			"properties": {
+				"bpy": "আমলি_(নরৱে)",
+				"et": "Åmli_vald",
+				"nds": "Kommun_Åmli",
+				"nn": "Åmli_kommune",
+				"ru": "Омли",
+				"sv": "Åmli_kommun",
+				"zh": "奧姆利"
+			}
+		}
+	]
+}

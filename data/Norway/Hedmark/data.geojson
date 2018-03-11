@@ -1,0 +1,368 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"id": "Alvdal",
+			"properties": {
+				"bpy": "আলভডাল",
+				"ceb": "Alvdal_(munisipyo)",
+				"fa": "الودال",
+				"nds": "Kommun_Alvdal",
+				"nl": "Alvdal_(gemeente)",
+				"nn": "Alvdal_kommune",
+				"ru": "Алвдал",
+				"sv": "Alvdals_kommun",
+				"zh": "阿爾夫達爾"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Eidskog",
+			"properties": {
+				"bpy": "ঈদসকগ",
+				"nds": "Kommun_Eidskog",
+				"nn": "Eidskog_kommune",
+				"ru": "Эйдскуг",
+				"sv": "Eidskogs_kommun",
+				"zh": "埃茲庫格"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Elverum",
+			"properties": {
+				"ar": "إلفروم",
+				"bg": "Елверум",
+				"bpy": "এলভেরুম",
+				"ceb": "Elverum_(munisipyo)",
+				"et": "Elverumi_vald",
+				"ko": "엘베룸",
+				"nds": "Kommun_Elverum",
+				"nl": "Elverum_(gemeente)",
+				"nn": "Elverum_kommune",
+				"ru": "Эльверум",
+				"sr": "Елверум",
+				"sv": "Elverums_kommun",
+				"zh": "埃尔沃吕姆"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Engerdal",
+			"properties": {
+				"bpy": "এঙ্গেরডাল",
+				"ceb": "Engerdal_(munisipyo)",
+				"nds": "Kommun_Engerdal",
+				"nn": "Engerdal_kommune",
+				"ru": "Энгердал",
+				"sv": "Engerdals_kommun",
+				"zh": "恩厄達爾"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Folldal",
+			"properties": {
+				"bpy": "ফোলডাল",
+				"ceb": "Folldal_(munisipyo)",
+				"nds": "Kommun_Folldal",
+				"nl": "Folldal_(gemeente)",
+				"nn": "Folldal_kommune",
+				"ru": "Фоллдал",
+				"sv": "Folldals_kommun",
+				"zh": "福爾達爾"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Grue",
+			"properties": {
+				"fr": "Grue_(Norvège)",
+				"it": "Grue_(Norvegia)",
+				"jv": "Grue,_Norway",
+				"ms": "Grue,_Norway",
+				"nds": "Kommun_Grue",
+				"nn": "Grue_kommune",
+				"ru": "Груэ_(Норвегия)",
+				"sl": "Grue,_Norveška",
+				"sv": "Grue_kommun",
+				"vi": "Grue,_Na_Uy",
+				"war": "Grue,_Norway",
+				"zh": "格呂厄_(挪威)"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Kongsvinger",
+			"properties": {
+				"ar": "كونغسفينغر",
+				"bg": "Конгсвингер",
+				"bpy": "কঙ্সভিনজের",
+				"ceb": "Kongsvinger_(munisipyo)",
+				"fa": "کونگسوینگر",
+				"ko": "콩스빙에르",
+				"lt": "Kongsvingeris",
+				"nds": "Kommun_Kongsvinger",
+				"nl": "Kongsvinger_(gemeente)",
+				"nn": "Kongsvinger_kommune",
+				"ru": "Конгсвингер",
+				"sr": "Конгсвингер",
+				"sv": "Kongsvingers_kommun",
+				"zh": "孔斯温厄尔"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Løten",
+			"properties": {
+				"bpy": "লাটেন",
+				"ceb": "Løten_(munisipyo)",
+				"nds": "Kommun_Løten",
+				"nl": "Løten_(gemeente)",
+				"nn": "Løten_kommune",
+				"ru": "Лётен",
+				"zh": "洛滕"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Nord-Odal",
+			"properties": {
+				"bpy": "নোর্দ-ওডাল",
+				"ceb": "Nord-Odal_(munisipyo_sa_Noruwega)",
+				"nds": "Kommun_Nord-Odal",
+				"nn": "Nord-Odal_kommune",
+				"ru": "Нур-Одал",
+				"sv": "Nord-Odals_kommun",
+				"zh": "北奧達爾"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Os",
+			"properties": {
+				"bpy": "ওস,_হেডমার্ক",
+				"ca": "Os_(Hedmark)",
+				"ceb": "Os_(munisipyo_sa_Noruwega,_Hedmark_fylke,_lat_62,50,_long_11,23)",
+				"da": "Os_(Hedmark)",
+				"de": "Os_(Hedmark)",
+				"es": "Os_(Hedmark)",
+				"eu": "Os_(Hedmark)",
+				"fi": "Os_(Hedmarkin_lääni)",
+				"fr": "Os_(Hedmark)",
+				"it": "Os_(Hedmark)",
+				"jv": "Os,_Hedmark",
+				"la": "Os_im_Østerdalen",
+				"li": "Os_(Hedmark)",
+				"ms": "Os,_Hedmark",
+				"nds": "Kommun_Os_(Hedmark)",
+				"nl": "Os_(Hedmark)",
+				"nn": "Os_kommune_i_Hedmark",
+				"no": "Os_(Hedmark)",
+				"pl": "Os_(Hedmark)",
+				"pt": "Os_i_Østerdalen",
+				"ro": "Os,_Hedmark",
+				"ru": "Ус_(Хедмарк)",
+				"se": "Os_(Hedmárku)",
+				"sl": "Os,_Hedmark",
+				"sv": "Os_kommun,_Hedmark",
+				"war": "Os,_Hedmark",
+				"zh": "烏斯_(海德馬克郡)"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Rendalen",
+			"properties": {
+				"bpy": "রেনডালেন",
+				"ceb": "Rendalen_(munisipyo)",
+				"nds": "Kommun_Rendalen",
+				"nn": "Rendalen_kommune",
+				"ru": "Рендал",
+				"sv": "Rendalens_kommun",
+				"zh": "倫達倫"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Ringsaker",
+			"properties": {
+				"ar": "رينغساكر",
+				"bg": "Рингсакер",
+				"bpy": "রিংসাকের",
+				"et": "Ringsakeri_vald",
+				"nds": "Kommun_Ringsaker",
+				"nn": "Ringsaker_kommune",
+				"ru": "Рингсакер",
+				"sv": "Ringsakers_kommun",
+				"zh": "靈薩克"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Stange",
+			"properties": {
+				"ar": "ستانغ",
+				"bar": "Stange,_Norwegen",
+				"bpy": "স্টান্জে",
+				"ceb": "Stange_(munisipyo)",
+				"de": "Stange_(Norwegen)",
+				"fa": "استانگه",
+				"it": "Stånge",
+				"la": "Stange_(Norvegia)",
+				"nds": "Kommun_Stange",
+				"nl": "Stange_(gemeente)",
+				"nn": "Stange_kommune",
+				"ru": "Станге",
+				"sv": "Stange_kommun",
+				"zh": "斯唐厄"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Stor-Elvdal",
+			"properties": {
+				"bpy": "স্টোর-এলভডাল",
+				"nds": "Kommun_Stor-Elvdal",
+				"nn": "Stor-Elvdal_kommune",
+				"ru": "Стур-Эльвдал",
+				"sv": "Stor-Elvdals_kommun",
+				"zh": "大埃爾夫達爾"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Sør-Odal",
+			"properties": {
+				"bpy": "সার-ওডাল",
+				"nds": "Kommun_Sør-Odal",
+				"nn": "Sør-Odal_kommune",
+				"ru": "Сёр-Одал",
+				"sv": "Sør-Odals_kommun",
+				"zh": "南奧達爾"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Tolga",
+			"properties": {
+				"ceb": "Tolga_(munisipyo)",
+				"de": "Tolga_(Norwegen)",
+				"fr": "Tolga_(Norvège)",
+				"it": "Tolga_(Norvegia)",
+				"jv": "Tolga,_Norway",
+				"kk": "Толга_(Норвегия)",
+				"la": "Tolga_(Norvegia)",
+				"ms": "Tolga,_Norway",
+				"nds": "Kommun_Tolga",
+				"nl": "Tolga_(gemeente)",
+				"nn": "Tolga_kommune",
+				"ro": "Tolga_(Norvegia)",
+				"ru": "Толга_(Норвегия)",
+				"sl": "Tolga,_Norveška",
+				"sq": "Tolga_(Norvegjia)",
+				"sv": "Tolga_kommun",
+				"war": "Tolga,_Norway",
+				"zh": "托爾加"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Trysil",
+			"properties": {
+				"bpy": "ট্রাইসিল",
+				"ceb": "Trysil_(munisipyo_sa_Noruwega)",
+				"et": "Trysili_vald",
+				"fa": "تریسیل",
+				"nds": "Kommun_Trysil",
+				"nn": "Trysil_kommune",
+				"ru": "Трюсиль",
+				"sv": "Trysils_kommun",
+				"ur": "تریسل",
+				"zh": "特呂西爾"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Tynset",
+			"properties": {
+				"bpy": "টাইনসেট",
+				"ceb": "Tynset_(munisipyo)",
+				"fa": "تینست",
+				"nds": "Kommun_Tynset",
+				"nl": "Tynset_(gemeente)",
+				"nn": "Tynset_kommune",
+				"ru": "Тюнсет",
+				"sv": "Tynsets_kommun",
+				"zh": "廷瑟"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Våler",
+			"properties": {
+				"bar": "Våler_(Hedmark)",
+				"bpy": "ভলের",
+				"ca": "Våler_(Hedmark)",
+				"da": "Våler_i_Hedmark",
+				"de": "Våler_(Hedmark)",
+				"es": "Våler_(Hedmark)",
+				"eu": "Våler_(Hedmark)",
+				"fi": "Våler_(Hedmark)",
+				"fr": "Våler_(Hedmark)",
+				"id": "Våler,_Hedmark",
+				"it": "Våler_(Hedmark)",
+				"jv": "Våler,_Hedmark",
+				"la": "Våler_(Hedmark)",
+				"li": "Våler_(Hedmark)",
+				"ms": "Våler,_Hedmark",
+				"nds": "Kommun_Våler_(Hedmark)",
+				"nl": "Våler_(gemeente_in_Hedmark)",
+				"nn": "Våler_kommune_i_Hedmark",
+				"no": "Våler_(Hedmark)",
+				"pl": "Våler_(Hedmark)",
+				"pt": "Våler_i_Hedmark",
+				"ro": "Våler,_Hedmark",
+				"ru": "Волер_(Хедмарк)",
+				"se": "Våler_(Hedmárku)",
+				"sl": "Våler,_Hedmark",
+				"sq": "Våler_(Hedmark)",
+				"sr": "Волер",
+				"sv": "Vålers_kommun,_Hedmark",
+				"war": "Våler,_Hedmark",
+				"zh": "沃勒_(海德馬克郡)"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Åmot",
+			"properties": {
+				"bpy": "অমোট",
+				"ceb": "Åmot_(munisipyo)",
+				"da": "Åmot_kommune",
+				"id": "Åmot,_Hedmark",
+				"li": "Åmot_(Hedmark)",
+				"nds": "Kommun_Åmot",
+				"nl": "Åmot_(Hedmark)",
+				"nn": "Åmot_kommune",
+				"ru": "Омут_(коммуна)",
+				"sv": "Åmots_kommun",
+				"zh": "奧莫特"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Åsnes",
+			"properties": {
+				"bpy": "অসনেস",
+				"ceb": "Åsnes_(munisipyo)",
+				"nds": "Kommun_Åsnes",
+				"nn": "Åsnes_kommune",
+				"ru": "Оснес",
+				"sv": "Åsnes_kommun",
+				"zh": "奧斯內斯"
+			}
+		}
+	]
+}

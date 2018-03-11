@@ -1,0 +1,473 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"id": "Askvoll",
+			"properties": {
+				"bpy": "আস্কভোল",
+				"nds": "Kommun_Askvoll",
+				"nl": "Askvoll_(gemeente)",
+				"nn": "Askvoll_kommune",
+				"ru": "Аскволл",
+				"sv": "Askvolls_kommun",
+				"zh": "阿斯克沃爾"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Aurland",
+			"properties": {
+				"bpy": "ঔরলেন্ড",
+				"et": "Aurlandi_vald",
+				"nds": "Kommun_Aurland",
+				"nn": "Aurland_kommune",
+				"ru": "Эурланн",
+				"sv": "Aurlands_kommun",
+				"zh": "艾于蘭"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Balestrand",
+			"properties": {
+				"bpy": "বালেস্ট্রান্ড",
+				"ceb": "Balestrand_(munisipyo)",
+				"nds": "Kommun_Balestrand",
+				"nn": "Balestrand_kommune",
+				"ru": "Балестранн",
+				"sv": "Balestrands_kommun",
+				"zh": "巴勒斯特蘭"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Bremanger",
+			"properties": {
+				"bpy": "ব্রেমাঙ্গের",
+				"ceb": "Bremanger_(munisipyo_sa_Noruwega)",
+				"la": "Vågsøy",
+				"nds": "Kommun_Bremanger",
+				"nn": "Bremanger_kommune",
+				"ru": "Бремангер",
+				"sv": "Bremangers_kommun",
+				"zh": "布雷芒厄"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Eid",
+			"properties": {
+				"bar": "Eid,_Norwegen",
+				"bn": "ঈদ,_নরওয়ে",
+				"bpy": "ঈড_(নরৱে)",
+				"ca": "Eid_(Noruega)",
+				"ceb": "Eid_(munisipyo_sa_Noruwega)",
+				"da": "Eid_kommune",
+				"de": "Eid_(Norwegen)",
+				"eu": "Eid_(Norvegia)",
+				"fa": "عید_(ابهام‌زدایی)",
+				"fr": "Eid_(Norvège)",
+				"hi": "ईद",
+				"hu": "Eid_(egyértelműsítő_lap)",
+				"kk": "Айт",
+				"ko": "EID",
+				"la": "Eid_(Norvegia)",
+				"li": "Eid_(Nórwaeg)",
+				"ms": "Eid,_Norway",
+				"my": "ဘကရီအစ်",
+				"nds": "Kommun_Eid",
+				"nl": "Eid_(Noorwegen)",
+				"nn": "Eid_kommune",
+				"no": "Eid_(andre_betydninger)",
+				"ru": "Эйд_(Норвегия)",
+				"sd": "عيد",
+				"sl": "Eid,_Norveška",
+				"sr": "Бајрам",
+				"sv": "Eids_kommun",
+				"ur": "عید",
+				"war": "Eid,_Norway",
+				"zh": "埃德_(松恩-菲尤拉讷郡)"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Fjaler",
+			"properties": {
+				"bpy": "ফজালের",
+				"ceb": "Fjaler_(munisipyo_sa_Noruwega)",
+				"nds": "Kommun_Fjaler",
+				"nn": "Fjaler_kommune",
+				"ru": "Фьялер",
+				"sv": "Fjalers_kommun",
+				"zh": "弗亞勒"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Flora",
+			"properties": {
+				"ar": "نبيت",
+				"az": "Flora_(botanika)",
+				"bar": "Flora,_Norwegen",
+				"be": "Флора",
+				"be-x-old": "Флёра",
+				"bg": "Флора",
+				"bpy": "ফ্লোরা",
+				"br": "Struzh",
+				"ca": "Flora_(Noruega)",
+				"cs": "Květena",
+				"da": "Flora_(Norge)",
+				"de": "Flora_(Norwegen)",
+				"diq": "Flora_(botanik)",
+				"el": "Χλωρίδα",
+				"eo": "Flaŭro",
+				"es": "Flora_(Noruega)",
+				"et": "Taimestik",
+				"eu": "Flora_(Norvegia)",
+				"fa": "فلورا،_نروژ",
+				"fi": "Flora_(Norja)",
+				"fiu-vro": "Kasvoq",
+				"fo": "Flora_kommuna",
+				"fr": "Flora_(Norvège)",
+				"he": "פלורה",
+				"hi": "वनस्पति_(फ्लोरा)",
+				"hr": "Flora_(biljke)",
+				"hu": "Flóra_(biológia)",
+				"hy": "Բուսական_աշխարհ",
+				"is": "Flóra_(líffræði)",
+				"it": "Flora_(Norvegia)",
+				"ja": "植物相",
+				"jv": "Flora,_Norwegia",
+				"ka": "ფლორა",
+				"kk": "Флора",
+				"ko": "식물상",
+				"ky": "Флора",
+				"la": "Flora_(Norvegia)",
+				"li": "Flora_(Nórwaeg)",
+				"mk": "Флора",
+				"ms": "Flora,_Norway",
+				"nds": "Kommun_Flora",
+				"nl": "Flora_(Sogn_og_Fjordane)",
+				"nn": "Flora_kommune",
+				"no": "Flora_(botanikk)",
+				"oc": "Flòra_(biologia)",
+				"pcd": "Flore",
+				"pl": "Gmina_Flora",
+				"pt": "Flora_(Noruega)",
+				"ro": "Flora_(Norvegia)",
+				"ru": "Флура_(Норвегия)",
+				"sh": "Flora_(biljke)",
+				"sk": "Flóra_(kvetena)",
+				"sl": "Flora,_Norveška",
+				"sq": "Flora_(Norvegjia)",
+				"sr": "Флора",
+				"sv": "Flora_kommun",
+				"te": "ఫ్లోరా_(వృక్ష_జాతులు)",
+				"tg": "Олами_наботот",
+				"tl": "Sanghalamanan",
+				"tr": "Flora_(botanik)",
+				"uk": "Флора",
+				"vec": "Flora_(Norvegia)",
+				"vi": "Hệ_thực_vật",
+				"war": "Flora,_Norway",
+				"xmf": "ფლორა",
+				"zh": "弗洛拉"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Førde",
+			"properties": {
+				"ar": "فورده_(النرويج)",
+				"bg": "Фьоде",
+				"bpy": "ফার্ডে",
+				"ceb": "Førde_(munisipyo)",
+				"et": "Førde_vald",
+				"fa": "فورده",
+				"id": "Førde,_Sogn_og_Fjordane",
+				"li": "Førde_(Sogn_og_Fjordane)",
+				"nds": "Kommun_Førde",
+				"nl": "Førde_(Sogn_og_Fjordane)",
+				"nn": "Førde_kommune",
+				"ru": "Фёрде_(Норвегия)",
+				"sr": "Ферде",
+				"sv": "Førde_kommun",
+				"zh": "弗勒"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Gaular",
+			"properties": {
+				"bpy": "গৌলার",
+				"nds": "Kommun_Gaular",
+				"nn": "Gaular_kommune",
+				"ru": "Гёулар",
+				"sv": "Gaulars_kommun",
+				"zh": "蓋于拉"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Gloppen",
+			"properties": {
+				"bpy": "গ্লোপ্পেন",
+				"nds": "Kommun_Gloppen",
+				"nn": "Gloppen_kommune",
+				"ru": "Глоппен",
+				"sv": "Gloppens_kommun",
+				"zh": "格洛彭"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Gulen",
+			"properties": {
+				"bpy": "গুলেন",
+				"ceb": "Gulen_(munisipyo)",
+				"et": "Guleni_vald",
+				"fo": "Gulen_kommuna",
+				"nds": "Kommun_Gulen",
+				"nn": "Gulen_kommune",
+				"ru": "Гулен",
+				"sv": "Gulens_kommun",
+				"zh": "居倫"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Hornindal",
+			"properties": {
+				"bpy": "হোরিনডাল",
+				"nds": "Kommun_Hornindal",
+				"nn": "Hornindal_kommune",
+				"ru": "Хорниндал",
+				"sv": "Hornindals_kommun",
+				"zh": "霍寧達爾"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Hyllestad",
+			"properties": {
+				"bpy": "হায়লেস্টাড",
+				"nds": "Kommun_Hyllestad",
+				"nn": "Hyllestad_kommune",
+				"ru": "Хюллестад",
+				"sv": "Hyllestads_kommun",
+				"zh": "許勒斯塔"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Høyanger",
+			"properties": {
+				"bpy": "হায়াঙ্গের",
+				"ceb": "Høyanger_(munisipyo)",
+				"ja": "ヘイヤンゲル",
+				"nds": "Kommun_Høyanger",
+				"nl": "Høyanger_(gemeente)",
+				"nn": "Høyanger_kommune",
+				"ru": "Хёйангер",
+				"sv": "Høyangers_kommun",
+				"zh": "赫揚厄爾"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Jølster",
+			"properties": {
+				"bpy": "জালস্টের",
+				"nds": "Kommun_Jølster",
+				"nn": "Jølster_kommune",
+				"ru": "Йёльстер",
+				"sv": "Jølsters_kommun",
+				"zh": "約爾斯特"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Leikanger",
+			"properties": {
+				"ar": "ليكانغر",
+				"bat-smg": "Lėikangerės",
+				"be": "Лейкангер",
+				"be-x-old": "Лейкангер",
+				"bg": "Лейкангер",
+				"bpy": "লেইকাঙ্গের",
+				"fa": "لیکانگر",
+				"ja": "ライカンゲル",
+				"ka": "ლეიკანგერი",
+				"ko": "레이캉에르",
+				"lt": "Leikangeris",
+				"nds": "Kommun_Leikanger",
+				"nn": "Leikanger_kommune",
+				"os": "Лейкангер",
+				"pnb": "لائکانگر",
+				"ru": "Лейкангер",
+				"sr": "Лејкангер",
+				"sv": "Leikangers_kommun",
+				"uk": "Лейканґер",
+				"ur": "لیئکانیر",
+				"zh": "莱康厄尔"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Luster",
+			"properties": {
+				"ca": "Luster_(Noruega)",
+				"de": "Luster_(Norwegen)",
+				"la": "Luster_(Norvegia)",
+				"ms": "Luster,_Norway",
+				"nds": "Kommun_Luster",
+				"nl": "Luster_(gemeente)",
+				"nn": "Luster_kommune",
+				"pl": "Luster_(gmina_w_Norwegii)",
+				"ro": "Luster_(Norvegia)",
+				"ru": "Лустер_(Норвегия)",
+				"sl": "Luster,_Norveška",
+				"sv": "Lusters_kommun",
+				"war": "Luster,_Norway",
+				"zh": "呂斯特"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Lærdal",
+			"properties": {
+				"bpy": "লায়েরডাল",
+				"ceb": "Lærdal_(munisipyo)",
+				"nds": "Kommun_Lærdal",
+				"nn": "Lærdal_kommune",
+				"ru": "Лердал",
+				"sv": "Lærdals_kommun",
+				"zh": "萊達爾"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Naustdal",
+			"properties": {
+				"bpy": "নৌস্টডাল",
+				"ceb": "Naustdal_(munisipyo)",
+				"nds": "Kommun_Naustdal",
+				"nn": "Naustdal_kommune",
+				"ru": "Нёустдал",
+				"sv": "Naustdals_kommun",
+				"zh": "奈于斯特達爾"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Selje",
+			"properties": {
+				"bpy": "সেলজে",
+				"ceb": "Selje_(munisipyo)",
+				"nds": "Kommun_Selje",
+				"nn": "Selje_kommune",
+				"no": "Selje_(kommune)",
+				"pt": "Selje_i_Nordfjord",
+				"ru": "Селье_(коммуна)",
+				"sv": "Selje_kommun",
+				"zh": "塞尔耶"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Sogndal",
+			"properties": {
+				"bpy": "সোগ্নডাল",
+				"ceb": "Sogndal_(munisipyo)",
+				"el": "Σόγκνταλ",
+				"ko": "송달_(노르웨이)",
+				"lt": "Sogndalis",
+				"nds": "Kommun_Sogndal",
+				"nn": "Sogndal_kommune",
+				"ru": "Согндал",
+				"sv": "Sogndals_kommun",
+				"zh": "松達爾"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Solund",
+			"properties": {
+				"bpy": "সোলুন্ড",
+				"ceb": "Solund_(munisipyo)",
+				"et": "Solundi_vald",
+				"nds": "Kommun_Solund",
+				"nn": "Solund_kommune",
+				"ru": "Сулунн",
+				"sv": "Solunds_kommun",
+				"zh": "索倫_(挪威)"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Stryn",
+			"properties": {
+				"bpy": "স্ট্রয়ন",
+				"ceb": "Stryn_(munisipyo)",
+				"et": "Stryni_vald",
+				"nds": "Kommun_Stryn",
+				"nn": "Stryn_kommune",
+				"ru": "Стрюн",
+				"sv": "Stryns_kommun",
+				"zh": "斯特林_(挪威)"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Vik",
+			"properties": {
+				"bpy": "ভিক",
+				"ca": "Vik_(Sogn_og_Fjordane)",
+				"ceb": "Vik_(munisipyo)",
+				"de": "Vik_(Norwegen)",
+				"et": "Viki_vald",
+				"fi": "Vik_(Norja)",
+				"fr": "Vik_i_Sogn",
+				"it": "Vik_(Sogn_og_Fjordane)",
+				"la": "Vik_(Norvegia)",
+				"li": "Vik_(Nórwaeg)",
+				"nds": "Kommun_Vik",
+				"nl": "Vik_(Noorwegen)",
+				"nn": "Vik_kommune",
+				"pt": "Vik_(Noruega)",
+				"ru": "Вик_(коммуна)",
+				"sq": "Vik_(Sogn_og_Fjordane)",
+				"sv": "Viks_kommun",
+				"zh": "維克_(挪威)"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Vågsøy",
+			"properties": {
+				"bpy": "ভগসায়",
+				"ceb": "Vågsøy_(munisipyo)",
+				"nds": "Kommun_Vågsøy",
+				"nn": "Vågsøy_kommune",
+				"ru": "Вогсёй",
+				"sv": "Vågsøy_kommun",
+				"zh": "沃格島_(挪威)"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Årdal",
+			"properties": {
+				"bpy": "অরডাল",
+				"ceb": "Årdal_(munisipyo)",
+				"id": "Årdal,_Sogn_og_Fjordane",
+				"nds": "Kommun_Årdal",
+				"nn": "Årdal_kommune",
+				"ru": "Ордал",
+				"sv": "Årdals_kommun",
+				"zh": "奧達爾"
+			}
+		}
+	]
+}

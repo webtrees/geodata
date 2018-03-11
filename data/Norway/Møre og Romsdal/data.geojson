@@ -1,0 +1,646 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"id": "Aukra",
+			"properties": {
+				"bpy": "ঔকরা",
+				"fa": "اوکرا_۲",
+				"nds": "Kommun_Aukra",
+				"nn": "Aukra_kommune",
+				"ru": "Эукра",
+				"sv": "Aukra_kommun",
+				"zh": "艾于克拉"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Aure",
+			"properties": {
+				"bg": "Ауре",
+				"bpy": "ঔরে_(নরৱে)",
+				"ca": "Aure_(Noruega)",
+				"ceb": "Aure_(munisipyo)",
+				"eu": "Aure_(Norvegia)",
+				"fa": "اووره",
+				"fr": "Aure_(Norvège)",
+				"it": "Aure_(Norvegia)",
+				"jv": "Aure,_Norway",
+				"li": "Aure_(Nórwaeg)",
+				"ms": "Aure,_Norway",
+				"nds": "Kommun_Aure",
+				"nl": "Aure_(Noorwegen)",
+				"nn": "Aure_kommune",
+				"pl": "Aure_(Møre_og_Romsdal)",
+				"ro": "Aure_(Norvegia)",
+				"ru": "Эуре_(коммуна)",
+				"sl": "Aure,_Norveška",
+				"sq": "Aure_(Norvegjia)",
+				"sv": "Aure_kommun",
+				"vi": "Aure_(Na_Uy)",
+				"war": "Aure,_Norway",
+				"zh": "艾于勒"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Averøy",
+			"properties": {
+				"bpy": "আভেরায়",
+				"ceb": "Averøy_(munisipyo_sa_Noruwega)",
+				"fa": "اویروی",
+				"nds": "Kommun_Averøy",
+				"nn": "Averøy_kommune",
+				"ru": "Аверёй",
+				"sv": "Averøy_kommun",
+				"zh": "阿沃島"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Eide",
+			"properties": {
+				"bpy": "এইডে",
+				"fa": "اید",
+				"li": "Eide_(Møre_og_Romsdal)",
+				"nds": "Kommun_Eide",
+				"nl": "Eide_(Møre_og_Romsdal)",
+				"nn": "Eide_kommune",
+				"ru": "Эйде",
+				"sv": "Eide_kommun",
+				"zh": "埃德_(默勒-鲁姆斯达尔郡)"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Fræna",
+			"properties": {
+				"bpy": "ফ্রায়েনা",
+				"nds": "Kommun_Fræna",
+				"nn": "Fræna_kommune",
+				"ru": "Френа",
+				"sv": "Fræna_kommun",
+				"zh": "弗雷納_(挪威)"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Giske",
+			"properties": {
+				"bpy": "জিসকে",
+				"ceb": "Giske_(munisipyo)",
+				"fa": "گیسک",
+				"nds": "Kommun_Giske",
+				"nn": "Giske_kommune",
+				"ru": "Йиске",
+				"sv": "Giske_kommun",
+				"zh": "伊斯克_(挪威)"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Gjemnes",
+			"properties": {
+				"bpy": "গজেমনেস",
+				"ceb": "Gjemnes_(munisipyo)",
+				"fa": "یمنس",
+				"nds": "Kommun_Gjemnes",
+				"nn": "Gjemnes_kommune",
+				"ru": "Емнес",
+				"sv": "Gjemnes_kommun",
+				"zh": "耶姆內斯"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Halsa",
+			"properties": {
+				"bpy": "হালসা",
+				"ceb": "Halsa_(munisipyo_sa_Noruwega)",
+				"fa": "هالسا",
+				"nds": "Kommun_Halsa",
+				"nn": "Halsa_kommune",
+				"ru": "Халса",
+				"sv": "Halsa_kommun",
+				"zh": "哈爾薩"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Haram",
+			"properties": {
+				"ca": "Haram_(Noruega)",
+				"ceb": "Haram_(munisipyo_sa_Noruwega)",
+				"da": "Haram_(Norge)",
+				"de": "Haram_(Norwegen)",
+				"fa": "هارام",
+				"fr": "Haram_(Norvège)",
+				"jv": "Haram,_Norway",
+				"la": "Haram_(Norvegia)",
+				"li": "Haram_(gemeinte)",
+				"ms": "Haram,_Norway",
+				"nds": "Kommun_Haram",
+				"nl": "Haram_(gemeente)",
+				"nn": "Haram_kommune",
+				"pl": "Haram_(Norwegia)",
+				"pt": "Haram_(Noruega)",
+				"ro": "Haram_(Norvegia)",
+				"ru": "Харам_(коммуна)",
+				"sl": "Haram,_Norveška",
+				"sv": "Harams_kommun",
+				"vi": "Haram_(Na_Uy)",
+				"war": "Haram,_Norway",
+				"zh": "哈拉姆_(挪威)"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Hareid",
+			"properties": {
+				"bpy": "হারেইড",
+				"ceb": "Hareid_(munisipyo)",
+				"fa": "هاراید",
+				"nds": "Kommun_Hareid",
+				"nn": "Hareid_kommune",
+				"ru": "Харэйд",
+				"sv": "Hareids_kommun",
+				"zh": "哈雷德"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Herøy",
+			"properties": {
+				"bpy": "হেরায়,_মারে_ওগ_রোম্সডাল",
+				"ca": "Herøy_(Møre_og_Romsdal)",
+				"ceb": "Herøy_(munisipyo_sa_Noruwega,_Møre_og_Romsdal_fylke)",
+				"da": "Herøy_(Møre_og_Romsdal)",
+				"de": "Herøy_(Møre_og_Romsdal)",
+				"es": "Herøy_(Møre_og_Romsdal)",
+				"eu": "Herøy_(Møre_og_Romsdal)",
+				"fa": "هیرای",
+				"fi": "Herøy_(Møre_ja_Romsdal)",
+				"fr": "Herøy_(Møre_og_Romsdal)",
+				"id": "Herøy,_Møre_og_Romsdal",
+				"it": "Herøy_(Møre_og_Romsdal)",
+				"jv": "Herøy,_Møre_og_Romsdal",
+				"li": "Herøy_(Møre_og_Romsdal)",
+				"ms": "Herøy,_Møre_og_Romsdal",
+				"nds": "Kommun_Herøy_(Møre_un_Romsdal)",
+				"nl": "Herøy_(Møre_og_Romsdal)",
+				"nn": "Herøy_kommune_i_Møre_og_Romsdal",
+				"no": "Herøy_(Møre_og_Romsdal)",
+				"pl": "Herøy_(Møre_og_Romsdal)",
+				"pt": "Herøy_på_Sunnmøre",
+				"ro": "Herøy,_Møre_og_Romsdal",
+				"se": "Herøy_(Møre_ja_Romsdála)",
+				"sl": "Herøy,_Møre_og_Romsdal",
+				"sv": "Herøy_kommun,_Møre_og_Romsdal",
+				"tr": "Herøy,_Møre_og_Romsdal",
+				"vi": "Herøy,_Møre_og_Romsdal",
+				"war": "Herøy,_Møre_og_Romsdal",
+				"zh": "海略_(默勒-魯姆斯達爾郡)"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Kristiansund",
+			"properties": {
+				"ar": "كريستيانسوند",
+				"bg": "Кристиансун",
+				"bpy": "ক্রিস্টিয়ানসুন্ড",
+				"el": "Κρίστιανσουντ",
+				"fa": "کریستین‌سون",
+				"is": "Kristjánssund",
+				"ja": "クリスチャンスン",
+				"ko": "크리스티안순",
+				"lt": "Kristiansiundas",
+				"nds": "Kommun_Kristiansund",
+				"nn": "Kristiansund_kommune",
+				"ru": "Кристиансунн",
+				"sr": "Кристијансунд",
+				"sv": "Kristiansunds_kommun",
+				"zh": "克里斯蒂安松"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Midsund",
+			"properties": {
+				"bpy": "মিডসুন্ড",
+				"fa": "میدسوند",
+				"nds": "Kommun_Midsund",
+				"nn": "Midsund_kommune",
+				"ru": "Мидсунн",
+				"sv": "Midsunds_kommun",
+				"zh": "米迪松"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Molde",
+			"properties": {
+				"ar": "مولده",
+				"bat-smg": "Muoldė",
+				"be": "Моле",
+				"be-x-old": "Мольдэ",
+				"bg": "Молде",
+				"bpy": "মোলডে",
+				"el": "Μόλντε",
+				"es": "Molde_(Møre_og_Romsdal)",
+				"fa": "مولدا",
+				"ja": "モルデ",
+				"ko": "몰데",
+				"lt": "Moldė",
+				"nds": "Kommun_Molde",
+				"nn": "Molde_kommune",
+				"os": "Молде",
+				"pnb": "مولڈے",
+				"pt": "Molde_(Møre_og_Romsdal)",
+				"ru": "Молде",
+				"sr": "Молде",
+				"sv": "Molde_kommun",
+				"uk": "Молде",
+				"ur": "مولدہ",
+				"zh": "莫尔德"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Nesset",
+			"properties": {
+				"bpy": "নেস্সেট",
+				"ceb": "Nesset_(munisipyo)",
+				"fa": "نیست",
+				"nds": "Kommun_Nesset",
+				"nn": "Nesset_kommune",
+				"ru": "Нессет",
+				"sv": "Nessets_kommun",
+				"zh": "內瑟特"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Norddal",
+			"properties": {
+				"bpy": "নোর্দডাল",
+				"ceb": "Norddal_(munisipyo)",
+				"fa": "نوردال",
+				"nds": "Kommun_Norddal",
+				"nn": "Norddal_kommune",
+				"ru": "Нурдал",
+				"sv": "Norddals_kommun",
+				"zh": "努達爾"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Rauma",
+			"properties": {
+				"ca": "Rauma_(Noruega)",
+				"ceb": "Rauma_(munisipyo_sa_Noruwega,_Møre_og_Romsdal_fylke,_lat_62,57,_long_7,69)",
+				"da": "Rauma_(Norge)",
+				"de": "Rauma_(Norwegen)",
+				"fa": "راوما",
+				"fi": "Rauma_(Norja)",
+				"fr": "Rauma_(Norvège)",
+				"it": "Rauma_(Norvegia)",
+				"jv": "Rauma,_Norway",
+				"la": "Rauma_(Norvegia)",
+				"li": "Rauma_(Nórwaeg)",
+				"ms": "Rauma,_Norway",
+				"nds": "Kommun_Rauma",
+				"nl": "Rauma_(Noorwegen)",
+				"nn": "Rauma_kommune",
+				"pl": "Rauma_(gmina)",
+				"pt": "Rauma_(Noruega)",
+				"ro": "Rauma_(Norvegia)",
+				"ru": "Рёума",
+				"se": "Rauma_(Norga)",
+				"sl": "Rauma,_Norveška",
+				"sq": "Rauma_(Norvegjia)",
+				"sv": "Rauma_kommun",
+				"vi": "Rauma_(Na_Uy)",
+				"war": "Rauma,_Norway",
+				"zh": "賴于馬"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Rindal",
+			"properties": {
+				"bpy": "রিনডাল",
+				"ceb": "Rindal_(munisipyo)",
+				"fa": "رایندال",
+				"nds": "Kommun_Rindal",
+				"nn": "Rindal_kommune",
+				"ru": "Риндал",
+				"sv": "Rindals_kommun",
+				"zh": "林達爾"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Sande",
+			"properties": {
+				"ca": "Sande_(Møre_og_Romsdal)",
+				"ceb": "Sande_(munisipyo_sa_Noruwega,_Møre_og_Romsdal_fylke,_lat_62,20,_long_5,58)",
+				"da": "Sande_(Møre_og_Romsdal)",
+				"de": "Sande_(Møre_og_Romsdal)",
+				"et": "Sande_vald_(Møre_og_Romsdal)",
+				"eu": "Sande_(Møre_og_Romsdal)",
+				"fa": "سانده",
+				"fi": "Sande_(Møre_ja_Romsdal)",
+				"fr": "Sande_(Møre_og_Romsdal)",
+				"it": "Sande_(Møre_og_Romsdal)",
+				"jv": "Sande,_Møre_og_Romsdal",
+				"la": "Sande_(Møre_og_Romsdal)",
+				"li": "Sande_(Møre_og_Romsdal)",
+				"ms": "Sande,_Møre_og_Romsdal",
+				"nds": "Kommun_Sande_(Møre_un_Romsdal)",
+				"nl": "Sande_(Møre_og_Romsdal)",
+				"nn": "Sande_kommune_i_Møre_og_Romsdal",
+				"no": "Sande_(Møre_og_Romsdal)",
+				"pl": "Sande_(Norwegia)",
+				"pt": "Sande_på_Sunnmøre",
+				"ro": "Sande,_Møre_og_Romsdal",
+				"ru": "Санне_(Мёре-ог-Ромсдал)",
+				"se": "Sande_(Møre_ja_Romsdála)",
+				"sl": "Sande,_Møre_og_Romsdal",
+				"sv": "Sande_kommun,_Møre_og_Romsdal",
+				"vi": "Sande,_Møre_og_Romsdal",
+				"war": "Sande,_Møre_og_Romsdal",
+				"zh": "桑訥_(默勒-魯姆斯達爾郡)"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Sandøy",
+			"properties": {
+				"bpy": "সান্ডায়",
+				"ceb": "Sandøy_(munisipyo)",
+				"fa": "ساندوی",
+				"ko": "산되위",
+				"nds": "Kommun_Sandøy",
+				"nn": "Sandøy_kommune",
+				"ru": "Саннёй",
+				"sv": "Sandøy_kommun",
+				"zh": "桑島_(挪威)"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Skodje",
+			"properties": {
+				"bpy": "স্কোডজে",
+				"ceb": "Skodje_(munisipyo)",
+				"fa": "اسکویه",
+				"nds": "Kommun_Skodje",
+				"nn": "Skodje_kommune",
+				"ru": "Скодье",
+				"sv": "Skodje_kommun",
+				"zh": "斯科迪耶"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Smøla",
+			"properties": {
+				"bpy": "সমালা",
+				"ceb": "Smøla_(munisipyo)",
+				"fa": "اسمولا",
+				"ja": "スメラ",
+				"nds": "Kommun_Smøla",
+				"nn": "Smøla_kommune",
+				"ru": "Смёла",
+				"sv": "Smøla_kommun",
+				"zh": "斯莫拉島"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Stordal",
+			"properties": {
+				"bpy": "স্টোরডাল",
+				"ceb": "Stordal_(munisipyo)",
+				"fa": "استوردال",
+				"nds": "Kommun_Stordal",
+				"nn": "Stordal_kommune",
+				"ru": "Стурдал",
+				"sv": "Stordals_kommun",
+				"zh": "斯圖達爾"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Stranda",
+			"properties": {
+				"bpy": "স্ট্রান্ডা",
+				"ceb": "Stranda_(munisipyo)",
+				"fa": "استراندا",
+				"nds": "Kommun_Stranda",
+				"nn": "Stranda_kommune",
+				"ru": "Странда",
+				"sv": "Stranda_kommun",
+				"zh": "斯特蘭達"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Sula",
+			"properties": {
+				"bpy": "সুলা",
+				"ca": "Sula_(Noruega)",
+				"ceb": "Sula_(munisipyo)",
+				"da": "Sula_(Norge)",
+				"de": "Sula_(Norwegen)",
+				"fa": "سورلا",
+				"fr": "Sula_(Norvège)",
+				"it": "Sula_(Møre_og_Romsdal)",
+				"jv": "Sula,_Møre_og_Romsdal",
+				"la": "Sula_(Norvegia)",
+				"li": "Sula_(Nórwaeg)",
+				"ms": "Sula,_Møre_og_Romsdal",
+				"nds": "Kommun_Sula",
+				"nl": "Sula_(Noorwegen)",
+				"nn": "Sula_kommune",
+				"pl": "Gmina_Sula",
+				"pt": "Sula_(Møre_og_Romsdal)",
+				"ro": "Sula,_Møre_og_Romsdal",
+				"ru": "Сула_(Норвегия)",
+				"sl": "Sula,_Norveška",
+				"sq": "Sula_(Møre_og_Romsdal)",
+				"sv": "Sula_kommun",
+				"vi": "Sula_(Na_Uy)",
+				"war": "Sula,_Møre_og_Romsdal",
+				"zh": "敘拉"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Sunndal",
+			"properties": {
+				"bpy": "সুন্নডাল",
+				"de": "Sunndal_(Kommune)",
+				"fa": "ساندال",
+				"la": "Sunndal_(commune)",
+				"nds": "Kommun_Sunndal",
+				"nn": "Sunndal_kommune",
+				"ru": "Сунндал",
+				"sv": "Sunndals_kommun",
+				"zh": "孫達爾"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Surnadal",
+			"properties": {
+				"bpy": "সুরনাডাল",
+				"fa": "سورنادال",
+				"nds": "Kommun_Surnadal",
+				"nn": "Surnadal_kommune",
+				"ru": "Сурнадал",
+				"sv": "Surnadals_kommun",
+				"zh": "敘納達爾"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Sykkylven",
+			"properties": {
+				"bpy": "সয়ক্ক্যলভেন",
+				"fa": "سیکیلون",
+				"nds": "Kommun_Sykkylven",
+				"nn": "Sykkylven_kommune",
+				"ru": "Сюккюльвен",
+				"sv": "Sykkylvens_kommun",
+				"zh": "敘許爾文"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Tingvoll",
+			"properties": {
+				"bpy": "টিঙভোল",
+				"ceb": "Tingvoll_(munisipyo)",
+				"fa": "تینگوول",
+				"nds": "Kommun_Tingvoll",
+				"nn": "Tingvoll_kommune",
+				"ru": "Тингволл",
+				"sv": "Tingvolls_kommun",
+				"zh": "廷沃爾"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Ulstein",
+			"properties": {
+				"bpy": "আলসটেইন",
+				"fa": "اولستاین",
+				"ko": "울스테인",
+				"nds": "Kommun_Ulstein",
+				"nn": "Ulstein_kommune",
+				"ru": "Ульстейн",
+				"sv": "Ulsteins_kommun",
+				"zh": "烏爾斯泰因"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Vanylven",
+			"properties": {
+				"ar": "فانيلفان",
+				"bpy": "ভানিয়ালভেন",
+				"fa": "ونیلون",
+				"nds": "Kommun_Vanylven",
+				"nn": "Vanylven_kommune",
+				"ru": "Ванюльвен",
+				"sv": "Vanylvens_kommun",
+				"zh": "瓦尼爾文"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Vestnes",
+			"properties": {
+				"bpy": "ভেস্টনেস",
+				"fa": "وستنس",
+				"nds": "Kommun_Vestnes",
+				"nn": "Vestnes_kommune",
+				"ru": "Вестнес",
+				"sv": "Vestnes_kommun",
+				"zh": "韋斯特內斯"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Volda",
+			"properties": {
+				"bg": "Волда",
+				"bpy": "ভোলডা",
+				"fa": "وولدا",
+				"nds": "Kommun_Volda",
+				"nn": "Volda_kommune",
+				"ru": "Волда",
+				"sv": "Volda_kommun",
+				"zh": "沃爾達"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Ålesund",
+			"properties": {
+				"ar": "أوليسوند",
+				"be-x-old": "Олесун",
+				"bg": "Олесун",
+				"bpy": "অলেসুন্ড",
+				"el": "Ώλεσουντ",
+				"fa": "السوند",
+				"hy": "Օլեսուն",
+				"is": "Álasund",
+				"ja": "オーレスン",
+				"ko": "올레순",
+				"lt": "Olesiundas",
+				"mk": "Олесунд",
+				"nds": "Kommun_Ålesund",
+				"nn": "Ålesund_kommune",
+				"os": "Олесунн",
+				"ru": "Олесунн",
+				"sr": "Олесунд",
+				"sv": "Ålesunds_kommun",
+				"uk": "Олесунн",
+				"zh": "奥勒松"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Ørskog",
+			"properties": {
+				"bpy": "আর্সকোগ",
+				"fa": "اورسکوگ",
+				"nds": "Kommun_Ørskog",
+				"nn": "Ørskog_kommune",
+				"ru": "Эрскуг",
+				"sv": "Ørskogs_kommun",
+				"zh": "厄什庫格"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Ørsta",
+			"properties": {
+				"bg": "Йоща",
+				"bpy": "আর্স্টা",
+				"ceb": "Ørsta_(munisipyo)",
+				"fa": "اورستا",
+				"fi": "Ørsta_(Møre_ja_Romsdal)",
+				"nds": "Kommun_Ørsta",
+				"nn": "Ørsta_kommune",
+				"ru": "Эрста",
+				"sv": "Ørsta_kommun",
+				"zh": "厄什塔"
+			}
+		}
+	]
+}

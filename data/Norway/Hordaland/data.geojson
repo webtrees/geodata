@@ -1,0 +1,548 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"id": "Askøy",
+			"properties": {
+				"bpy": "আসকায়",
+				"ceb": "Askøy_(munisipyo)",
+				"et": "Askøy_vald",
+				"nds": "Kommun_Askøy",
+				"nn": "Askøy_kommune",
+				"ru": "Аскёй",
+				"sv": "Askøy_kommun",
+				"zh": "阿斯克于"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Austevoll",
+			"properties": {
+				"bpy": "ঔসটেভোল",
+				"nds": "Kommun_Austevoll",
+				"nn": "Austevoll_kommune",
+				"ru": "Эустеволл",
+				"sv": "Austevolls_kommun",
+				"zh": "艾于斯特沃爾"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Austrheim",
+			"properties": {
+				"bpy": "ঔস্টরিহেইম",
+				"nds": "Kommun_Austrheim",
+				"nn": "Austrheim_kommune",
+				"ru": "Эустрхейм",
+				"sv": "Austrheims_kommun",
+				"zh": "艾于斯特爾海姆"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Bergen",
+			"properties": {
+				"als": "Bergen_(Norwegen)",
+				"ar": "برغن",
+				"bat-smg": "Bergens",
+				"be": "Берген",
+				"be-x-old": "Бэрген",
+				"bg": "Берген",
+				"bpy": "বারগেন",
+				"br": "Bergen_(Norvegia)",
+				"ce": "Берген",
+				"de": "Bergen_(Norwegen)",
+				"el": "Μπέργκεν",
+				"eo": "Bergen_(Norvegio)",
+				"fa": "برگن",
+				"fr": "Bergen_(Norvège)",
+				"frr": "Bergen_(Norweegen)",
+				"fy": "Bergen_(Noarwegen)",
+				"he": "ברגן",
+				"hsb": "Bergen_(Norwegska)",
+				"hy": "Բերգեն",
+				"ie": "Bergen_(Norvegia)",
+				"is": "Björgvin",
+				"ja": "ベルゲン",
+				"ka": "ბერგენი",
+				"kl": "Bergen_(Norge)",
+				"ko": "베르겐",
+				"la": "Berga",
+				"lb": "Bergen_(Norwegen)",
+				"li": "Bergen_(Nórwaeg)",
+				"lt": "Bergenas",
+				"lv": "Bergena",
+				"mk": "Берген",
+				"mr": "बार्गन",
+				"myv": "Берген_ош",
+				"nds": "Bargen",
+				"nds-nl": "Bargen_(Noorwegen)",
+				"nl": "Bergen_(Noorwegen)",
+				"os": "Берген",
+				"pnb": "برگن",
+				"ro": "Bergen,_Norvegia",
+				"ru": "Берген",
+				"se": "Birgon",
+				"sl": "Bergen,_Norveška",
+				"sr": "Берген",
+				"ta": "பேர்கன்",
+				"th": "แบร์เกน",
+				"tr": "Bergen,_Norveç",
+				"uk": "Берген",
+				"ur": "برگن",
+				"vec": "Bergen_(Norveja)",
+				"vls": "Bergn_(Nôorweegn)",
+				"vo": "Bergen_(Norgän)",
+				"zea": "Bergen_(Noorwegen)",
+				"zh": "卑爾根",
+				"zh-yue": "卑爾根"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Bømlo",
+			"properties": {
+				"bpy": "বামলো",
+				"ceb": "Bømlo_(munisipyo)",
+				"nds": "Kommun_Bømlo",
+				"nn": "Bømlo_kommune",
+				"ru": "Бёмлу",
+				"sv": "Bømlo_kommun",
+				"zh": "伯姆盧"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Eidfjord",
+			"properties": {
+				"bg": "Ейдфьорд",
+				"bpy": "ইদফজোর্ড",
+				"ceb": "Eidfjord_(munisipyo)",
+				"de": "Eidfjord_(Kommune)",
+				"fo": "Eidfjord_(kommuna)",
+				"nds": "Kommun_Eidfjord",
+				"nl": "Eidfjord_(gemeente)",
+				"nn": "Eidfjord_kommune",
+				"ru": "Эйдфьорд",
+				"sv": "Eidfjords_kommun",
+				"zh": "埃德菲尤爾"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Etne",
+			"properties": {
+				"bpy": "এটনে",
+				"ceb": "Etne_(munisipyo)",
+				"nds": "Kommun_Etne",
+				"nl": "Etne_(gemeente)",
+				"nn": "Etne_kommune",
+				"ru": "Этне",
+				"sv": "Etne_kommun",
+				"zh": "埃特訥"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Fedje",
+			"properties": {
+				"bpy": "ফেডজে",
+				"ceb": "Fedje_(munisipyo)",
+				"nds": "Kommun_Fedje",
+				"nn": "Fedje_kommune",
+				"ru": "Федье",
+				"sv": "Fedje_kommun",
+				"zh": "菲迪厄"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Fitjar",
+			"properties": {
+				"bpy": "ফিটজার",
+				"ceb": "Fitjar_(munisipyo)",
+				"nds": "Kommun_Fitjar",
+				"nl": "Fitjar_(gemeente)",
+				"nn": "Fitjar_kommune",
+				"ru": "Фитьяр",
+				"sv": "Fitjars_kommun",
+				"zh": "菲恰爾"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Fjell",
+			"properties": {
+				"bpy": "ফজেল",
+				"da": "Fjell_kommune",
+				"de": "Fjell_(Norwegen)",
+				"la": "Fjell_(Norvegia)",
+				"nds": "Kommun_Fjell",
+				"nl": "Fjell_(gemeente)",
+				"nn": "Fjell_kommune",
+				"no": "Fjell_(Hordaland)",
+				"ru": "Фьелль",
+				"sv": "Fjells_kommun",
+				"zh": "菲耶爾"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Fusa",
+			"properties": {
+				"bpy": "ফুসা",
+				"ca": "Fusa_(Noruega)",
+				"ceb": "Fusa_(munisipyo_sa_Noruwega)",
+				"es": "Fusa_(Noruega)",
+				"eu": "Fusa_(Norvegia)",
+				"it": "Fusa_(Norvegia)",
+				"nds": "Kommun_Fusa",
+				"nl": "Fusa_(gemeente)",
+				"nn": "Fusa_kommune",
+				"ru": "Фуса",
+				"sv": "Fusa_kommun",
+				"zh": "菲薩"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Granvin",
+			"properties": {
+				"bpy": "গ্রানভিন",
+				"ceb": "Granvin_(munisipyo)",
+				"fo": "Granvin_(kommuna)",
+				"nds": "Kommun_Granvin",
+				"nn": "Granvin_herad",
+				"ru": "Гранвин",
+				"sv": "Granvins_kommun",
+				"zh": "格蘭溫"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Jondal",
+			"properties": {
+				"bg": "Юндал",
+				"bpy": "জোনডাল",
+				"fo": "Jondal_(kommuna)",
+				"nds": "Kommun_Jondal",
+				"nn": "Jondal_kommune",
+				"ru": "Йондал",
+				"sv": "Jondals_kommun",
+				"zh": "永達爾"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Kvam",
+			"properties": {
+				"bpy": "কভাম",
+				"ceb": "Kvam_(munisipyo)",
+				"li": "Kvam_(Hordaland)",
+				"nds": "Kommun_Kvam",
+				"nl": "Kvam_(Hordaland)",
+				"nn": "Kvam_herad",
+				"ru": "Квам",
+				"sv": "Kvams_kommun",
+				"zh": "克瓦姆"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Kvinnherad",
+			"properties": {
+				"bpy": "কভিনহেরাড",
+				"nds": "Kommun_Kvinnherad",
+				"nn": "Kvinnherad_kommune",
+				"ru": "Квиннхерад",
+				"sv": "Kvinnherads_kommun",
+				"zh": "克溫赫拉"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Lindås",
+			"properties": {
+				"bpy": "লিন্ডস",
+				"ceb": "Lindås_(munisipyo)",
+				"et": "Lindåsi_vald",
+				"nds": "Kommun_Lindås",
+				"nl": "Lindås_(gemeente)",
+				"nn": "Lindås_kommune",
+				"ru": "Линнос",
+				"sv": "Lindås_kommun",
+				"zh": "林多斯"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Masfjorden",
+			"properties": {
+				"bpy": "মাস্ফজর্ডেন",
+				"ceb": "Masfjorden_(munisipyo)",
+				"nds": "Kommun_Masfjorden",
+				"nn": "Masfjorden_kommune",
+				"ru": "Масфьорден",
+				"sv": "Masfjordens_kommun",
+				"zh": "馬斯菲尤恩"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Meland",
+			"properties": {
+				"bpy": "মেলেন্ড",
+				"ceb": "Meland_(munisipyo)",
+				"nds": "Kommun_Meland",
+				"nn": "Meland_kommune",
+				"ru": "Меланн",
+				"sv": "Melands_kommun",
+				"zh": "梅蘭_(挪威)"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Modalen",
+			"properties": {
+				"bpy": "মোডালেন",
+				"ceb": "Modalen_(munisipyo)",
+				"nds": "Kommun_Modalen",
+				"nn": "Modalen_kommune",
+				"ru": "Мудален",
+				"sv": "Modalens_kommun",
+				"zh": "莫達倫"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Os",
+			"properties": {
+				"ca": "Os_(Hordaland)",
+				"ceb": "Os_(munisipyo_sa_Noruwega,_Hordaland_Fylke)",
+				"da": "Os_i_Hordaland",
+				"de": "Os_(Hordaland)",
+				"eo": "Os_(Hordaland)",
+				"es": "Os_(Hordaland)",
+				"eu": "Os_(Hordaland)",
+				"fi": "Os_(Hordaland)",
+				"fr": "Os_(Hordaland)",
+				"it": "Os_(Hordaland)",
+				"jv": "Os,_Hordaland",
+				"la": "Os_(Hordaland)",
+				"li": "Os_(Hordaland)",
+				"ms": "Os,_Hordaland",
+				"nds": "Kommun_Os_(Hordaland)",
+				"nl": "Os_(Hordaland)",
+				"nn": "Os_kommune_i_Hordaland",
+				"no": "Os_(Hordaland)",
+				"pl": "Os_(Hordaland)",
+				"pt": "Os_(Hordaland)",
+				"ro": "Os,_Hordaland",
+				"ru": "Ус_(Хордаланн)",
+				"se": "Os_(Hordalánda)",
+				"sl": "Os,_Hordaland",
+				"sq": "Os_(Hordaland)",
+				"sv": "Os_kommun,_Hordaland",
+				"vi": "Os,_Hordaland",
+				"war": "Os,_Hordaland",
+				"zh": "烏斯_(霍達蘭郡)"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Osterøy",
+			"properties": {
+				"bpy": "ওস্টেরায়",
+				"ceb": "Osterøy_(munisipyo)",
+				"nds": "Kommun_Osterøy",
+				"nn": "Osterøy_kommune",
+				"ru": "Остерёй",
+				"sv": "Osterøy_kommun",
+				"zh": "奧斯泰島"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Radøy",
+			"properties": {
+				"ceb": "Radøy_(munisipyo)",
+				"nds": "Kommun_Radøy",
+				"nn": "Radøy_kommune",
+				"ru": "Радёй",
+				"sv": "Radøy_kommun",
+				"zh": "拉德島"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Samnanger",
+			"properties": {
+				"bpy": "সামনাঙের",
+				"nds": "Kommun_Samnanger",
+				"nn": "Samnanger_kommune",
+				"ru": "Самнангер",
+				"sv": "Samnangers_kommun",
+				"zh": "薩姆南厄爾"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Stord",
+			"properties": {
+				"bpy": "স্টোর্ড",
+				"ceb": "Stord_(munisipyo)",
+				"es": "Stord_(municipio)",
+				"nds": "Kommun_Stord",
+				"nn": "Stord_kommune",
+				"ru": "Стур",
+				"sv": "Stords_kommun",
+				"zh": "斯圖爾"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Sund",
+			"properties": {
+				"bpy": "সুন্ড",
+				"ca": "Sund_(Noruega)",
+				"ceb": "Sund_(munisipyo_sa_Noruwega)",
+				"da": "Sund_(Norge)",
+				"de": "Sund_(Norwegen)",
+				"es": "Sund_(Noruega)",
+				"eu": "Sund_(Norvegia)",
+				"fi": "Sund_(Norja)",
+				"fo": "Sund_(Hordaland)",
+				"fr": "Sund_(Norvège)",
+				"hu": "Sund_(egyértelműsítő_lap)",
+				"it": "Sund_(Norvegia)",
+				"jv": "Sund,_Norway",
+				"la": "Sund_(Norvegia)",
+				"li": "Sund_(Hordaland)",
+				"ms": "Sund,_Norway",
+				"nds": "Kommun_Sund",
+				"nl": "Sund_(Hordaland)",
+				"nn": "Sund_kommune",
+				"no": "Sund_(Hordaland)",
+				"pl": "Gmina_Sund",
+				"ro": "Sund_(Norvegia)",
+				"ru": "Сунн_(Норвегия)",
+				"se": "Sund_(Norgga_gielda)",
+				"sl": "Sund,_Norveška",
+				"sq": "Sund_(Norvegjia)",
+				"sv": "Sunds_kommun,_Hordaland",
+				"vi": "Sund,_Na_Uy",
+				"war": "Sund,_Norway",
+				"zh": "松_(挪威)"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Sveio",
+			"properties": {
+				"bpy": "সভেইও",
+				"ceb": "Sveio_(munisipyo)",
+				"nds": "Kommun_Sveio",
+				"nl": "Sveio_(gemeente)",
+				"nn": "Sveio_kommune",
+				"ru": "Свейу",
+				"sv": "Sveio_kommun",
+				"zh": "斯韋奧"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Tysnes",
+			"properties": {
+				"bpy": "টাইসনেস",
+				"fa": "تیسنس",
+				"ka": "ტისნესი",
+				"nds": "Kommun_Tysnes",
+				"nn": "Tysnes_kommune",
+				"ru": "Тюснес",
+				"sv": "Tysnes_kommun",
+				"zh": "廷斯內斯"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Ullensvang",
+			"properties": {
+				"bpy": "উল্লেনসভাং",
+				"et": "Ullensvangi_vald",
+				"nds": "Kommun_Ullensvang",
+				"nn": "Ullensvang_herad",
+				"ru": "Улленсванг",
+				"sv": "Ullensvangs_kommun",
+				"zh": "于倫斯旺"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Ulvik",
+			"properties": {
+				"bpy": "উলভিক",
+				"ceb": "Ulvik_(munisipyo)",
+				"fo": "Ulvik_(kommuna)",
+				"nds": "Kommun_Ulvik",
+				"nl": "Ulvik_(gemeente)",
+				"nn": "Ulvik_herad",
+				"ru": "Ульвик",
+				"sv": "Ulviks_kommun",
+				"zh": "于爾維克"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Vaksdal",
+			"properties": {
+				"bpy": "ভাকসডাল",
+				"ceb": "Vaksdal_(munisipyo)",
+				"nds": "Kommun_Vaksdal",
+				"nl": "Vaksdal_(gemeente)",
+				"nn": "Vaksdal_kommune",
+				"ru": "Ваксдал",
+				"sv": "Vaksdals_kommun",
+				"zh": "瓦克斯達爾"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Voss",
+			"properties": {
+				"bg": "Вос",
+				"bpy": "ভোস",
+				"ceb": "Voss_(munisipyo)",
+				"de": "Voss_(Norwegen)",
+				"es": "Voss_(Noruega)",
+				"et": "Vossi_vald",
+				"fa": "ووس",
+				"ja": "ヴォス",
+				"ko": "보스_(노르웨이)",
+				"la": "Voss_(Norvegia)",
+				"mk": "Вос",
+				"nds": "Kommun_Voss",
+				"nn": "Voss_kommune",
+				"ru": "Восс_(коммуна)",
+				"se": "Voss_(guovlu)",
+				"sv": "Voss_kommun",
+				"uk": "Восс",
+				"zh": "沃斯"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Øygarden",
+			"properties": {
+				"bpy": "আয়গার্ডেন",
+				"ceb": "Øygarden_(munisipyo)",
+				"ka": "ეიგარდენი",
+				"nds": "Kommun_Øygarden",
+				"nn": "Øygarden_kommune",
+				"ru": "Эйгарден",
+				"sv": "Øygardens_kommun",
+				"zh": "厄于加倫"
+			}
+		}
+	]
+}

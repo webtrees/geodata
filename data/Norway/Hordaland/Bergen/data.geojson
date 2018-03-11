@@ -1,0 +1,53 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"id": "Arna",
+			"properties": {
+				"nl": "Arna_(Noorwegen)"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Bergenhus",
+			"properties": {
+				"fr": "Bergenhus_(bydel)",
+				"nl": "Bergenhus_(stadsdeel)",
+				"nn": "Bergenhus_bydel"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Fana",
+			"properties": {
+				"el": "Φάνα_(Νορβηγία)",
+				"fr": "Fana_(Norvège)",
+				"nl": "Fana_(Bergen)",
+				"sv": "Fana,_Norge"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Laksevåg",
+			"properties": {
+				"ur": "لاکسیواگ"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Ytrebygda",
+			"properties": {
+				"ceb": "Sandsli_(lungsod)",
+				"ur": "یٹربیگدا"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Årstad",
+			"properties": {
+				"nl": "Årstad_(Bergen)"
+			}
+		}
+	]
+}

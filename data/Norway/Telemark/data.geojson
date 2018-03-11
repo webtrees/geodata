@@ -1,0 +1,367 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"id": "Bamble",
+			"properties": {
+				"ar": "بامبله",
+				"bpy": "বামব্লে",
+				"et": "Bamble_vald",
+				"nds": "Kommun_Bamble",
+				"nn": "Bamble_kommune",
+				"ru": "Бамбле",
+				"sv": "Bamble_kommun",
+				"zh": "班布勒"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Bø",
+			"properties": {
+				"ar": "بو_(تلمارك)",
+				"bar": "Bø_(Telemark)",
+				"bpy": "বা",
+				"ca": "Bø_(Telemark)",
+				"ceb": "Bø_(munisipyo_sa_Noruwega,_Telemark_fylke,_lat_59,41,_long_9,07)",
+				"de": "Bø_(Telemark)",
+				"et": "Bø_vald_(Telemark)",
+				"eu": "Bø_(Telemark)",
+				"fi": "Bø_(Telemark)",
+				"fr": "Bø_(Telemark)",
+				"id": "Bø,_Telemark",
+				"it": "Bø_(Telemark)",
+				"la": "Bø_(Telemark)",
+				"li": "Bø_(Telemark)",
+				"ms": "Bø,_Telemark",
+				"nds": "Kommun_Bø_(Telemark)",
+				"nl": "Bø_(Telemark)",
+				"nn": "Bø_kommune_i_Telemark",
+				"no": "Bø_(Telemark)",
+				"pl": "Bø_(Telemark)",
+				"pt": "Bø_i_Telemark",
+				"ro": "Bø,_Telemark",
+				"ru": "Бё_(коммуна,_Телемарк)",
+				"se": "Bø_(Telemárku)",
+				"sl": "Bø,_Telemark",
+				"sq": "Bø_(Telemark)",
+				"sv": "Bø_kommun,_Telemark",
+				"vi": "Bø,_Telemark",
+				"war": "Bø,_Telemark",
+				"zh": "伯_(泰勒馬克郡)"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Drangedal",
+			"properties": {
+				"ar": "درانغدال",
+				"bpy": "ড্রাঙেডাল",
+				"ceb": "Drangedal_(munisipyo)",
+				"et": "Drangedali_vald",
+				"fo": "Drangedal_kommuna",
+				"nds": "Kommun_Drangedal",
+				"nn": "Drangedal_kommune",
+				"ru": "Дрангедал",
+				"sv": "Drangedals_kommun",
+				"zh": "特朗厄達爾"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Fyresdal",
+			"properties": {
+				"ar": "فيرسدال",
+				"bpy": "ফায়রেসডাল",
+				"ceb": "Fyresdal_(munisipyo)",
+				"et": "Fyresdali_vald",
+				"nds": "Kommun_Fyresdal",
+				"nl": "Fyresdal_(gemeente)",
+				"nn": "Fyresdal_kommune",
+				"ru": "Фюресдал",
+				"sv": "Fyresdals_kommun",
+				"zh": "菲勒斯達爾"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Hjartdal",
+			"properties": {
+				"ar": "يارتدال",
+				"bpy": "হজার্টডাল",
+				"ceb": "Hjartdal_(munisipyo)",
+				"et": "Hjartdali_vald",
+				"nds": "Kommun_Hjartdal",
+				"nn": "Hjartdal_kommune",
+				"ru": "Яртдал",
+				"sv": "Hjartdals_kommun",
+				"zh": "亞特達爾"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Kragerø",
+			"properties": {
+				"ar": "كراغرو",
+				"bg": "Крагерьо",
+				"bpy": "ক্রাগেরা",
+				"ceb": "Kragerø_(munisipyo)",
+				"et": "Kragerø_vald",
+				"ja": "クラーゲリョー",
+				"ko": "크라게뢰",
+				"nds": "Kommun_Kragerø",
+				"nl": "Kragerø_(gemeente)",
+				"nn": "Kragerø_kommune",
+				"ru": "Крагерё",
+				"sv": "Kragerø_kommun",
+				"zh": "克拉格勒"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Kviteseid",
+			"properties": {
+				"ar": "كفيتسايد",
+				"bpy": "কভিটেসেইড",
+				"ceb": "Kviteseid_(munisipyo)",
+				"et": "Kviteseidi_vald",
+				"nds": "Kommun_Kviteseid",
+				"nl": "Kviteseid_(gemeente)",
+				"nn": "Kviteseid_kommune",
+				"ru": "Квитесэйд",
+				"sv": "Kviteseids_kommun",
+				"zh": "克維特塞德"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Nissedal",
+			"properties": {
+				"ar": "نيسدال",
+				"bpy": "নিসেডাল",
+				"ceb": "Nissedal_(munisipyo)",
+				"et": "Nissedali_vald",
+				"nds": "Kommun_Nissedal",
+				"nn": "Nissedal_kommune",
+				"ru": "Нисседал",
+				"sv": "Nissedals_kommun",
+				"zh": "尼瑟達爾"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Nome",
+			"properties": {
+				"ar": "نومه",
+				"bpy": "নোমে",
+				"ca": "Nome_(Telemark)",
+				"ceb": "Nome_(munisipyo)",
+				"de": "Nome_(Norwegen)",
+				"et": "Nome_vald",
+				"fi": "Nome_(Norja)",
+				"fr": "Nome_(Norvège)",
+				"it": "Nome_(Norvegia)",
+				"ko": "노메",
+				"la": "Nome_(Telemark)",
+				"li": "Nome_(Nórwaeg)",
+				"ms": "Nome,_Norway",
+				"nds": "Kommun_Nome",
+				"nl": "Nome_(Telemark)",
+				"nn": "Nome_kommune",
+				"pl": "Gmina_Nome",
+				"pt": "Nome_(Noruega)",
+				"ro": "Nome_(Norvegia)",
+				"ru": "Нуме_(Норвегия)",
+				"sl": "Nome,_Norveška",
+				"sq": "Nome_(Norvegjia)",
+				"sv": "Nome_kommun",
+				"vi": "Nome,_Telemark",
+				"war": "Nome,_Norway",
+				"zh": "諾默"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Notodden",
+			"properties": {
+				"ar": "نوتودن",
+				"bg": "Нутоден",
+				"bpy": "নোটোডেন",
+				"el": "Νότοντεν",
+				"et": "Notoddeni_vald",
+				"fa": "نوتودن",
+				"ja": "ノトデン",
+				"ko": "노토덴",
+				"nds": "Kommun_Notodden",
+				"nl": "Notodden_(gemeente)",
+				"nn": "Notodden_kommune",
+				"ru": "Нутодден",
+				"sr": "Нотоден",
+				"sv": "Notoddens_kommun",
+				"zh": "諾托登"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Porsgrunn",
+			"properties": {
+				"ar": "بورشغرون",
+				"be-x-old": "Порсгрун",
+				"bg": "Пошгрун",
+				"bpy": "পোর্সগ্রুন",
+				"et": "Porsgrunni_vald",
+				"fa": "پورشگرن",
+				"ko": "포르스그룬",
+				"lt": "Pošgriūnas",
+				"nds": "Kommun_Porsgrunn",
+				"nn": "Porsgrunn_kommune",
+				"ru": "Порсгрунн",
+				"sr": "Порсгрун",
+				"sv": "Porsgrunns_kommun",
+				"tum": "Porsgrunn\/Skien",
+				"uk": "Порсгрунн",
+				"zh": "波什格伦"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Sauherad",
+			"properties": {
+				"ar": "ساوهاراد",
+				"bpy": "সৌহেরাড",
+				"et": "Sauheradi_vald",
+				"ko": "세우헤라드",
+				"nds": "Kommun_Sauherad",
+				"nn": "Sauherad_kommune",
+				"ru": "Сёухерад",
+				"sv": "Sauherads_kommun",
+				"zh": "賽于赫拉"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Seljord",
+			"properties": {
+				"ar": "سليورد",
+				"bpy": "সেলজর্ড",
+				"ceb": "Seljord_(munisipyo)",
+				"et": "Seljordi_vald",
+				"nds": "Kommun_Seljord",
+				"nl": "Seljord_(gemeente)",
+				"nn": "Seljord_kommune",
+				"ru": "Сельюр",
+				"sv": "Seljords_kommun",
+				"zh": "賽爾尤爾"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Siljan",
+			"properties": {
+				"ar": "سيليان_(النرويج)",
+				"be": "Сільян",
+				"ca": "Siljan_(Noruega)",
+				"ceb": "Siljan_(munisipyo)",
+				"de": "Siljan_(Norwegen)",
+				"et": "Siljani_vald",
+				"fi": "Siljan_(Norja)",
+				"it": "Siljan_(Norvegia)",
+				"la": "Siljan_(Norvegia)",
+				"li": "Siljan_(Nórwaeg)",
+				"ms": "Siljan,_Norway",
+				"nds": "Kommun_Siljan",
+				"nl": "Siljan_(gemeente)",
+				"nn": "Siljan_kommune",
+				"no": "Siljan_(andre_betydninger)",
+				"pl": "Siljan_(Norwegia)",
+				"ro": "Siljan_(Norvegia)",
+				"ru": "Сильян_(Норвегия)",
+				"sl": "Siljan,_Norveška",
+				"sv": "Siljans_kommun",
+				"vi": "Siljan,_Telemark",
+				"war": "Siljan,_Norway",
+				"zh": "錫利揚"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Skien",
+			"properties": {
+				"ar": "شين_(النرويج)",
+				"bat-smg": "Šėins_(Nuorvegėjė)",
+				"be": "Шыен",
+				"be-x-old": "Шыен",
+				"bg": "Шиен",
+				"bpy": "স্কিয়েন",
+				"el": "Σίεν",
+				"et": "Skieni_vald",
+				"fa": "شین_(نروژ)",
+				"fy": "Skien_(Telemark)",
+				"ja": "シーエン",
+				"ko": "시엔",
+				"lt": "Šienas_(Norvegija)",
+				"nds": "Kommun_Skien",
+				"nl": "Skien_(Telemark)",
+				"nn": "Skien_kommune",
+				"pnb": "سکائن",
+				"ru": "Шиен",
+				"sr": "Шијен",
+				"sv": "Skiens_kommun",
+				"uk": "Шієн",
+				"ur": "شیئن",
+				"zh": "希恩"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Tinn",
+			"properties": {
+				"ar": "تين_(النرويج)",
+				"bpy": "টিন_(টেলেমার্ক)",
+				"et": "Tinni_vald",
+				"ko": "틴_(텔레마르크_주)",
+				"nds": "Kommun_Tinn",
+				"nn": "Tinn_kommune",
+				"no": "Tinn_(kommune)",
+				"ru": "Тинн",
+				"sv": "Tinns_kommun",
+				"zh": "蒂恩"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Tokke",
+			"properties": {
+				"ar": "توكه",
+				"bpy": "টোক্কে",
+				"ceb": "Tokke_(munisipyo)",
+				"et": "Tokke_vald",
+				"la": "Tokke_(commune)",
+				"li": "Tokke_(Nórwaeg)",
+				"nds": "Kommun_Tokke",
+				"nn": "Tokke_kommune",
+				"ru": "Токке",
+				"sv": "Tokke_kommun",
+				"zh": "托克"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Vinje",
+			"properties": {
+				"ar": "فينيه",
+				"bpy": "ভিন্জে",
+				"ceb": "Vinje_(munisipyo)",
+				"et": "Vinje_vald",
+				"fo": "Vinje_kommuna",
+				"li": "Vinje_(Nórwaeg)",
+				"nds": "Kommun_Vinje",
+				"nl": "Vinje_(Noorwegen)",
+				"nn": "Vinje_kommune",
+				"ru": "Винье",
+				"sv": "Vinje_kommun",
+				"zh": "維尼耶"
+			}
+		}
+	]
+}

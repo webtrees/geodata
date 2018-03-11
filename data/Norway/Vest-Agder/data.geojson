@@ -1,0 +1,270 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"id": "Audnedal",
+			"properties": {
+				"bpy": "ঔডনেডাল",
+				"ceb": "Audnedal_(munisipyo)",
+				"nds": "Kommun_Audnedal",
+				"nn": "Audnedal_kommune",
+				"ru": "Эуднедал",
+				"sv": "Audnedals_kommun",
+				"zh": "艾于德訥達爾"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Farsund",
+			"properties": {
+				"ar": "فارسوند",
+				"bg": "Фашун",
+				"bpy": "ফারসুন্ড",
+				"ceb": "Farsund_(munisipyo)",
+				"fa": "فارسون",
+				"nds": "Kommun_Farsund",
+				"nl": "Farsund_(gemeente)",
+				"nn": "Farsund_kommune",
+				"ru": "Фарсунн",
+				"sr": "Фарсунд",
+				"sv": "Farsunds_kommun",
+				"zh": "法爾松"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Flekkefjord",
+			"properties": {
+				"bg": "Флекефьор",
+				"bpy": "ফ্লেক্কেফজোর্ড",
+				"fa": "فلکیفیور",
+				"hy": "Ֆլեքեֆյորդ",
+				"ja": "フレッケフィヨール",
+				"nds": "Kommun_Flekkefjord",
+				"nn": "Flekkefjord_kommune",
+				"ru": "Флеккефьорд",
+				"sr": "Флећефјорд",
+				"sv": "Flekkefjords_kommun",
+				"zh": "弗萊克菲尤爾"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Hægebostad",
+			"properties": {
+				"ar": "هاغيبوستاد",
+				"bpy": "হায়েগেবোস্টাড",
+				"nds": "Kommun_Hægebostad",
+				"nn": "Hægebostad_kommune",
+				"ru": "Хегебустад",
+				"sv": "Hægebostads_kommun",
+				"zh": "海格博斯塔"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Kristiansand",
+			"properties": {
+				"ar": "كريستيانساند",
+				"bat-smg": "Krėstēnsands",
+				"be": "Крысціянсан",
+				"be-x-old": "Крыстыянсан",
+				"bg": "Кристиансан",
+				"bpy": "ক্রিস্টিয়ানসান্ড",
+				"ceb": "Kristiansand_(munisipyo)",
+				"el": "Κρίστιανσαντ",
+				"fa": "کریستیان‌ساند",
+				"he": "קריסטיאנסנד",
+				"ja": "クリスチャンサン",
+				"ko": "크리스티안산",
+				"la": "Christiani_munitio",
+				"lt": "Kristiansandas",
+				"lv": "Krisjānsanna",
+				"nds": "Kommun_Kristiansand",
+				"nn": "Kristiansand_kommune",
+				"os": "Кристиансанн",
+				"ru": "Кристиансанн",
+				"sr": "Кристијансанд",
+				"sv": "Kristiansands_kommun",
+				"ta": "கிரிஷ்டியன்சான்ட்",
+				"th": "คริสเตียนซาน",
+				"uk": "Крістіансанн",
+				"ur": "کریستیانسان",
+				"zh": "克里斯蒂安桑"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Kvinesdal",
+			"properties": {
+				"bpy": "কবিনেসডাল",
+				"ceb": "Kvinesdal_(munisipyo)",
+				"nds": "Kommun_Kvinesdal",
+				"nn": "Kvinesdal_kommune",
+				"ru": "Квинесдал",
+				"sv": "Kvinesdals_kommun",
+				"zh": "克維內斯達爾"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Lindesnes",
+			"properties": {
+				"bpy": "লিন্ডেসনেস",
+				"ceb": "Lindesnes_(munisipyo)",
+				"da": "Lindesnes_kommune",
+				"et": "Lindesnesi_vald",
+				"ko": "린데스네스",
+				"nds": "Kommun_Lindesnes",
+				"nn": "Lindesnes_kommune",
+				"ru": "Линнеснес",
+				"sv": "Lindesnes_kommun",
+				"zh": "里訥斯訥斯"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Lyngdal",
+			"properties": {
+				"bpy": "লায়ংডাল",
+				"ceb": "Lyngdal_(munisipyo)",
+				"nds": "Kommun_Lyngdal",
+				"nl": "Lyngdal_(gemeente)",
+				"nn": "Lyngdal_kommune",
+				"ru": "Люнгдал",
+				"sr": "Лингдал",
+				"sv": "Lyngdals_kommun",
+				"zh": "靈達爾"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Mandal",
+			"properties": {
+				"ar": "ماندال",
+				"bg": "Мандал",
+				"bn": "তহশিল",
+				"bpy": "মানডাল",
+				"ca": "Mandal_(Noruega)",
+				"da": "Tehsil",
+				"de": "Tehsil",
+				"es": "Tehsil",
+				"et": "Mandali_vald",
+				"fa": "تحصیل_(تقسیمات_کشوری)",
+				"fr": "Mandal_(Norvège)",
+				"gu": "તાલુકો",
+				"hi": "तहसील",
+				"it": "Tehsil",
+				"ja": "マンダール",
+				"kn": "ತಾಲ್ಲೂಕು",
+				"ko": "만달",
+				"lt": "Mandalis",
+				"ml": "താലൂക്ക്",
+				"mr": "तालुका",
+				"ms": "Mandal,_Norway",
+				"nds": "Kommun_Mandal",
+				"nl": "Mandal_(gemeente)",
+				"nn": "Mandal_kommune",
+				"no": "Taluk",
+				"pa": "ਤਹਿਸੀਲ",
+				"pl": "Taluk",
+				"pnb": "وکیپیڈیا:تحصیل",
+				"pt": "Taluca",
+				"rmy": "Tehsil",
+				"ro": "Mandal_(Norvegia)",
+				"ru": "Мандал",
+				"sd": "تعلقو",
+				"simple": "Tehsil",
+				"sr": "Мандал",
+				"sv": "Mandals_kommun",
+				"ta": "வட்டம்_(தாலுகா)",
+				"uk": "Техсіл",
+				"ur": "تحصیل",
+				"vi": "Tehsil",
+				"war": "Mandal,_Norway",
+				"xmf": "ტეჰსილი",
+				"zh": "曼达尔"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Marnardal",
+			"properties": {
+				"bpy": "মারনারডাল",
+				"nds": "Kommun_Marnardal",
+				"nn": "Marnardal_kommune",
+				"ru": "Марнардал",
+				"sv": "Marnardals_kommun",
+				"zh": "馬納爾達爾"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Sirdal",
+			"properties": {
+				"bpy": "সিরডাল",
+				"ceb": "Sirdal_(munisipyo_sa_Noruwega)",
+				"nds": "Kommun_Sirdal",
+				"nn": "Sirdal_kommune",
+				"ru": "Сирдал",
+				"sv": "Sirdals_kommun",
+				"zh": "西爾達爾"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Songdalen",
+			"properties": {
+				"bpy": "সোঙডালেন",
+				"ceb": "Songdalen_(munisipyo)",
+				"nds": "Kommun_Songdalen",
+				"nn": "Songdalen_kommune",
+				"ru": "Сонгдален",
+				"sv": "Songdalens_kommun",
+				"zh": "松達倫"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Søgne",
+			"properties": {
+				"bpy": "সাগ্নে",
+				"ceb": "Søgne_(munisipyo)",
+				"nds": "Kommun_Søgne",
+				"nn": "Søgne_kommune",
+				"ru": "Сёгне",
+				"sr": "Сегне",
+				"sv": "Søgne_kommun",
+				"zh": "松訥"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Vennesla",
+			"properties": {
+				"bpy": "ভেন্নসলা",
+				"ceb": "Vennesla_(munisipyo)",
+				"fa": "ونسلا",
+				"nds": "Kommun_Vennesla",
+				"nn": "Vennesla_kommune",
+				"ru": "Веннесла",
+				"sr": "Венесла",
+				"sv": "Vennesla_kommun",
+				"zh": "文訥斯拉"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Åseral",
+			"properties": {
+				"bpy": "আসেরাল",
+				"nds": "Kommun_Åseral",
+				"nn": "Åseral_kommune",
+				"ru": "Осерал",
+				"sv": "Åserals_kommun",
+				"zh": "奧瑟拉爾"
+			}
+		}
+	]
+}

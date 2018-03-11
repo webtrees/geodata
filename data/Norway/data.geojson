@@ -357,6 +357,40 @@
 				"ur": "تروندیلاگ",
 				"zh": "特倫德拉格"
 			}
+		},
+		{
+			"type": "Feature",
+			"id": "Vest-Agder",
+			"properties": {
+				"ar": "فست_أغدر",
+				"bat-smg": "Vakarū_Agderis",
+				"be": "Вест-Агдэр",
+				"be-x-old": "Вэст-Агдэр",
+				"bg": "Вест-Агдер",
+				"bpy": "বেস্ট-অগ্দের",
+				"ceb": "Vest-Agder_Fylke",
+				"fa": "وست_اگدر",
+				"fi": "Länsi-Agderin_lääni",
+				"fr": "Comté_de_Vest-Agder",
+				"hu": "Vest-Agder_megye",
+				"is": "Vestur-Agðir",
+				"ja": "ヴェスト・アグデル県",
+				"ka": "ვესტ-აგდერი",
+				"ko": "베스트아그데르_주",
+				"la": "Agder_occidentalis",
+				"lt": "Vakarų_Agderis",
+				"mk": "Западен_Агдер",
+				"nds": "Amt_West-Agder",
+				"nn": "Vest-Agder_fylke",
+				"os": "Вест-Агдер",
+				"ru": "Вест-Агдер",
+				"se": "Oarjel-Agdera_fylka",
+				"sr": "Западни_Агдер",
+				"sv": "Vest-Agder_fylke",
+				"uk": "Вест-Агдер",
+				"ur": "ویست-آگدیر",
+				"zh": "西阿格德尔郡"
+			}
 		}
 	]
 }

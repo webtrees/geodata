@@ -731,6 +731,44 @@
 				"ur": "ویستفول",
 				"zh": "西福尔郡"
 			}
+		},
+		{
+			"type": "Feature",
+			"id": "Østfold",
+			"properties": {
+				"ar": "أوستفولد",
+				"bat-smg": "Estfuolds",
+				"be": "Эстфал",
+				"be-x-old": "Эстфол",
+				"bg": "Йостфол",
+				"bpy": "আসফোল্ড",
+				"ceb": "Østfold_fylke",
+				"fa": "اوستفولد",
+				"fi": "Østfoldin_lääni",
+				"fr": "Comté_d'Østfold",
+				"hu": "Østfold_megye",
+				"hy": "Օսթֆոլ",
+				"is": "Austfold",
+				"ja": "エストフォル県",
+				"ka": "ესტფოლდი",
+				"ko": "외스트폴_주",
+				"la": "Fold_orientalis",
+				"lt": "Estfoldas",
+				"lv": "Estfolla",
+				"mk": "Естфол",
+				"nds": "Amt_Østfold",
+				"nn": "Østfold_fylke",
+				"os": "Эстфолл",
+				"pnb": "اوستھفیلڈ",
+				"ps": "اوستفولد",
+				"ru": "Эстфолл",
+				"se": "Østfolda_fylka",
+				"sr": "Естфолд",
+				"sv": "Østfold_fylke",
+				"uk": "Естфол",
+				"ur": "اوستفول",
+				"zh": "东福尔郡"
+			}
 		}
 	]
 }

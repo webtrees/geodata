@@ -1,0 +1,488 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"id": "Bjerkreim",
+			"properties": {
+				"bpy": "বজের্করেইম",
+				"hy": "Բերկրեյմ",
+				"nds": "Kommun_Bjerkreim",
+				"nn": "Bjerkreim_kommune",
+				"ru": "Бьеркрейм",
+				"sv": "Bjerkreims_kommun",
+				"zh": "布耶爾克勒姆"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Bokn",
+			"properties": {
+				"bpy": "বোকন",
+				"ceb": "Bokn_(munisipyo)",
+				"hy": "Բուկն",
+				"nds": "Kommun_Bokn",
+				"nn": "Bokn_kommune",
+				"ru": "Букн",
+				"sv": "Bokns_kommun",
+				"zh": "博肯"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Eigersund",
+			"properties": {
+				"bpy": "এইগেরসুন্ড",
+				"fa": "ایگشن",
+				"hy": "Էիգերսուն_(կոմունա)",
+				"is": "Eikundarsund",
+				"nds": "Kommun_Eigersund",
+				"nn": "Eigersund_kommune",
+				"ru": "Эйгерсунн",
+				"sr": "Ејгерсунд",
+				"sv": "Eigersunds_kommun",
+				"ur": "آئیگرسوند"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Finnøy",
+			"properties": {
+				"bpy": "ফিন্নায়",
+				"ceb": "Finnøy_(munisipyo)",
+				"hy": "Ֆինյո",
+				"nds": "Kommun_Finnøy",
+				"nn": "Finnøy_kommune",
+				"ru": "Финнёй",
+				"sv": "Finnøy_kommun",
+				"zh": "芬岛_(挪威)"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Forsand",
+			"properties": {
+				"bpy": "ফোরসান্ড",
+				"hy": "Ֆորսան",
+				"nds": "Kommun_Forsand",
+				"nn": "Forsand_kommune",
+				"ru": "Форсанн",
+				"sv": "Forsands_kommun",
+				"zh": "福桑"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Gjesdal",
+			"properties": {
+				"bpy": "গজেসডাল",
+				"hy": "Էսդալ",
+				"nds": "Kommun_Gjesdal",
+				"nn": "Gjesdal_kommune",
+				"ru": "Есдал",
+				"sv": "Gjesdals_kommun",
+				"zh": "耶斯達爾"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Haugesund",
+			"properties": {
+				"ar": "هاوغسوند",
+				"be-x-old": "Гаўгесун",
+				"bg": "Хаугесун",
+				"bpy": "হৌগেসুন্ড",
+				"fa": "هوگسوند",
+				"hy": "Հյոուգեսուն",
+				"ja": "ハウゲスン",
+				"ko": "헤우게순",
+				"lt": "Haugesiundas",
+				"nds": "Kommun_Haugesund",
+				"nn": "Haugesund_kommune",
+				"ru": "Хёугесунн",
+				"sr": "Хавесунд",
+				"sv": "Haugesunds_kommun",
+				"uk": "Гаугесунн",
+				"zh": "海于格松"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Hjelmeland",
+			"properties": {
+				"bpy": "হজেলমেলেন্ড",
+				"hy": "Էլմելան",
+				"nds": "Kommun_Hjelmeland",
+				"nn": "Hjelmeland_kommune",
+				"ru": "Ельмеланн",
+				"sv": "Hjelmelands_kommun",
+				"zh": "耶爾默蘭"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Hå",
+			"properties": {
+				"bpy": "হাএ",
+				"hy": "Հո_(կոմունա)",
+				"nds": "Kommun_Hå",
+				"nn": "Hå_kommune",
+				"ru": "Хо_(коммуна)",
+				"sv": "Hå_kommun",
+				"zh": "霍_(挪威)"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Karmøy",
+			"properties": {
+				"bpy": "কারমায়",
+				"et": "Karmøy_vald",
+				"fr": "Karmøy_(kommune)",
+				"hy": "Կարմյոյ",
+				"nds": "Kommun_Karmøy",
+				"nn": "Karmøy_kommune",
+				"ru": "Кармёй",
+				"sv": "Karmøy_kommun",
+				"tr": "Karmøy_adası",
+				"zh": "卡姆島_(自治區)"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Klepp",
+			"properties": {
+				"bpy": "ক্লেপ",
+				"ceb": "Klepp_(munisipyo)",
+				"hy": "Կլեպ",
+				"ko": "클레프",
+				"nds": "Kommun_Klepp",
+				"nn": "Klepp_kommune",
+				"ru": "Клепп",
+				"sv": "Klepps_kommun",
+				"zh": "克萊普"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Kvitsøy",
+			"properties": {
+				"bpy": "কভিটসায়",
+				"ceb": "Kvitsøy_(munisipyo_sa_Noruwega)",
+				"hy": "Կվիտսյոյ",
+				"ko": "크비최위",
+				"nds": "Kommun_Kvitsøy",
+				"nn": "Kvitsøy_kommune",
+				"ru": "Квитсёй",
+				"sv": "Kvitsøy_kommun",
+				"zh": "克維特綏"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Lund",
+			"properties": {
+				"bar": "Lund_(Norwegn)",
+				"ca": "Lund_(Noruega)",
+				"ceb": "Lund_(munisipyo)",
+				"da": "Lund_(Rogaland)",
+				"de": "Lund_(Norwegen)",
+				"es": "Lund_(Rogaland)",
+				"eu": "Lund_(Norvegia)",
+				"fi": "Lund_(Norja)",
+				"fr": "Lund_(Norvège)",
+				"hu": "Lund_község_(Norvégia)",
+				"hy": "Լուն_(կոմունա)",
+				"it": "Lund_(Norvegia)",
+				"jv": "Lund,_Norwegia",
+				"la": "Lund_(Norvegia)",
+				"li": "Lund_(Nórwaeg)",
+				"ms": "Lund,_Norway",
+				"nds": "Kommun_Lund_(Rogaland)",
+				"nl": "Lund_(Rogaland)",
+				"nn": "Lund_kommune",
+				"no": "Lund_(Rogaland)",
+				"pl": "Gmina_Lund_(Norwegia)",
+				"pt": "Lund_(Noruega)",
+				"ro": "Lund_(Norvegia)",
+				"ru": "Лунн_(Норвегия)",
+				"sl": "Lund,_Norveška",
+				"sv": "Lunds_kommun,_Norge",
+				"war": "Lund,_Norway",
+				"zh": "倫"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Randaberg",
+			"properties": {
+				"bpy": "রান্ডাবের্গ",
+				"hy": "Ռանդաբերգ",
+				"nds": "Kommun_Randaberg",
+				"nn": "Randaberg_kommune",
+				"ru": "Рандаберг",
+				"sv": "Randabergs_kommun",
+				"zh": "蘭達貝格"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Rennesøy",
+			"properties": {
+				"bpy": "রেন্নেসায়",
+				"ceb": "Rennesøy_(munisipyo_sa_Noruwega)",
+				"hy": "Ռենեսյո",
+				"nds": "Kommun_Rennesøy",
+				"nn": "Rennesøy_kommune",
+				"ru": "Реннесёй",
+				"sv": "Rennesøy_kommun",
+				"zh": "倫訥斯島"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Sandnes",
+			"properties": {
+				"ar": "ساندنيس",
+				"be-x-old": "Санэс",
+				"bg": "Саннес",
+				"bpy": "সান্ডনেস",
+				"ceb": "Sandnes_(munisipyo)",
+				"fa": "سندنس",
+				"hy": "Սաննես",
+				"ja": "サンドネス",
+				"ko": "산네스",
+				"li": "Sandnes_(Rogaland)",
+				"lt": "Sanesas",
+				"nds": "Kommun_Sandnes",
+				"nl": "Sandnes_(Rogaland)",
+				"nn": "Sandnes_kommune",
+				"ru": "Саннес",
+				"sr": "Санднес",
+				"sv": "Sandnes_kommun",
+				"zh": "桑内斯"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Sauda",
+			"properties": {
+				"bg": "Сауда",
+				"bpy": "সৌডা",
+				"ceb": "Sauda_(munisipyo)",
+				"hy": "Սյուդա",
+				"nds": "Kommun_Sauda",
+				"nl": "Sauda_(gemeente)",
+				"nn": "Sauda_kommune",
+				"ru": "Сёуда",
+				"sr": "Сауда",
+				"sv": "Sauda_kommun",
+				"zh": "賽于達"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Sokndal",
+			"properties": {
+				"bpy": "সোক্নডাল",
+				"hy": "Սոկնդալ",
+				"nds": "Kommun_Sokndal",
+				"nn": "Sokndal_kommune",
+				"ru": "Сокндал",
+				"sv": "Sokndals_kommun",
+				"zh": "索肯達爾"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Sola",
+			"properties": {
+				"bpy": "সোলা",
+				"ca": "Sola_(Noruega)",
+				"ceb": "Sola_(munisipyo)",
+				"de": "Sola_(Norwegen)",
+				"es": "Sola_(Rogaland)",
+				"et": "Sola_vald",
+				"fa": "سولا_(نروژ)",
+				"fi": "Sola_(Norja)",
+				"fr": "Sola_(Norvège)",
+				"gl": "Sola,_Noruega",
+				"hu": "Sola_község",
+				"hy": "Սոլա",
+				"it": "Sola_(Norvegia)",
+				"ko": "솔라_(노르웨이)",
+				"la": "Sola_(Norvegia)",
+				"nds": "Kommun_Sola",
+				"nn": "Sola_kommune",
+				"pl": "Sola_(miasto)",
+				"pt": "Sola_(Noruega)",
+				"ru": "Сола",
+				"sq": "Sola_(Norvegjia)",
+				"sv": "Sola_kommun",
+				"zh": "蘇拉_(挪威)"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Stavanger",
+			"properties": {
+				"ar": "ستافانغر",
+				"bat-smg": "Stavangeris",
+				"be": "Ставангер",
+				"be-x-old": "Ставангер",
+				"bg": "Ставангер",
+				"bpy": "স্টাভানগের",
+				"ce": "Ставангер",
+				"ceb": "Stavanger_(munisipyo)",
+				"el": "Σταβάνγκερ",
+				"fa": "استاوانگر",
+				"he": "סטוונגר",
+				"hy": "Սթավանգեր",
+				"is": "Stafangur",
+				"ja": "スタヴァンゲル",
+				"ko": "스타방에르",
+				"lt": "Stavangeris",
+				"lv": "Stavangere",
+				"mk": "Ставангер",
+				"mr": "स्टावांग्यिर",
+				"nds": "Kommun_Stavanger",
+				"nn": "Stavanger_kommune",
+				"os": "Ставангер",
+				"pnb": "ستاوانگیر",
+				"ru": "Ставангер",
+				"sr": "Ставангер",
+				"sv": "Stavangers_kommun",
+				"th": "สตาวังเงร์",
+				"tum": "Stavanger\/Sandnes",
+				"uk": "Ставангер",
+				"ur": "ستاوانگیر",
+				"zh": "斯塔万格",
+				"zh-yue": "斯塔凡格"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Strand",
+			"properties": {
+				"ar": "ستراند_(النرويج)",
+				"ca": "Strand_(Noruega)",
+				"ceb": "Strand_(munisipyo)",
+				"da": "Strand_kommune",
+				"de": "Strand_(Norwegen)",
+				"es": "Strand_(Rogaland)",
+				"fi": "Strand_(Norja)",
+				"fr": "Strand_(Norvège)",
+				"hy": "Ստրանդ",
+				"it": "Strand_(Norvegia)",
+				"jv": "Strand,_Norwegia",
+				"la": "Strand_(Norvegia)",
+				"li": "Strand_(Rogaland)",
+				"ms": "Strand,_Norway",
+				"nds": "Kommun_Strand",
+				"nl": "Strand_(Rogaland)",
+				"nn": "Strand_kommune",
+				"no": "Strand_(Rogaland)",
+				"pl": "Strand_(Norwegia)",
+				"pt": "Strand_(Noruega)",
+				"ro": "Strand_(Norvegia)",
+				"ru": "Странн_(Норвегия)",
+				"sl": "Strand,_Norveška",
+				"sv": "Strands_kommun",
+				"war": "Strand,_Norway",
+				"zh": "斯特蘭"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Suldal",
+			"properties": {
+				"bpy": "সুলডাল",
+				"hy": "Սուլդալ",
+				"nds": "Kommun_Suldal",
+				"nn": "Suldal_kommune",
+				"ru": "Сульдал",
+				"sv": "Suldals_kommun",
+				"zh": "敘爾達爾"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Time",
+			"properties": {
+				"bpy": "টাইম",
+				"ca": "Time_(Noruega)",
+				"ceb": "Time_(munisipyo_sa_Noruwega)",
+				"da": "Time_kommune",
+				"de": "Time_(Norwegen)",
+				"es": "Time_(Noruega)",
+				"eu": "Time_(Norvegia)",
+				"fi": "Time_(Norja)",
+				"fr": "Time_(Norvège)",
+				"hu": "Time_község",
+				"hy": "Թիմե",
+				"it": "Time_(Norvegia)",
+				"jv": "Time,_Norwegia",
+				"ko": "티메",
+				"la": "Time_(Norvegia)",
+				"ms": "Time,_Norway",
+				"nds": "Kommun_Time",
+				"nl": "Time_(Noorwegen)",
+				"nn": "Time_kommune",
+				"no": "Time_(kommune)",
+				"pl": "Gmina_Time",
+				"pt": "Time_(Noruega)",
+				"ro": "Time_(Norvegia)",
+				"ru": "Тиме_(Норвегия)",
+				"se": "Time_(Norga)",
+				"sl": "Time,_Norveška",
+				"sq": "Time_(Norvegjia)",
+				"sv": "Time_kommun",
+				"ur": "ٹائم،_ناروے",
+				"war": "Time,_Norway",
+				"zh": "蒂默"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Tysvær",
+			"properties": {
+				"bpy": "টাইসবায়ের",
+				"ceb": "Tysvær_(munisipyo)",
+				"hy": "Թյուսվեր",
+				"nds": "Kommun_Tysvær",
+				"nn": "Tysvær_kommune",
+				"ru": "Тюсвер",
+				"sv": "Tysværs_kommun",
+				"zh": "蒂斯韋爾"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Utsira",
+			"properties": {
+				"bpy": "উতসিরা",
+				"ceb": "Utsira_(munisipyo)",
+				"et": "Utsira_vald",
+				"hy": "Ուտսիրա",
+				"nds": "Kommun_Utsira",
+				"ru": "Утсира",
+				"sv": "Utsira_kommun",
+				"zh": "于特西拉"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Vindafjord",
+			"properties": {
+				"bpy": "ভিন্ডাফজোর্ড",
+				"ceb": "Vindafjord_(munisipyo_sa_Noruwega)",
+				"hy": "Վինդաֆյորդ",
+				"nds": "Kommun_Vindafjord",
+				"nn": "Vindafjord_kommune",
+				"ru": "Виндафьорд",
+				"sv": "Vindafjords_kommun",
+				"zh": "溫達菲尤德"
+			}
+		}
+	]
+}

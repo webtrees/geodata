@@ -1,0 +1,411 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"id": "Asker",
+			"properties": {
+				"ar": "أسكر_(آكرشوس)",
+				"bg": "Аскер_(Норвегия)",
+				"bpy": "আসকের",
+				"et": "Askeri_vald",
+				"fa": "آسکر",
+				"fo": "Asker_kommuna",
+				"hu": "Asker_község",
+				"hy": "Ասքեր",
+				"id": "Asker,_Norwegia",
+				"ja": "アスケー",
+				"kk": "Аскер",
+				"ko": "아스케르",
+				"lt": "Askeris",
+				"nds": "Kommun_Asker",
+				"nn": "Asker_kommune",
+				"ru": "Аскер",
+				"sv": "Askers_kommun,_Norge",
+				"tr": "Asker,_Norveç",
+				"uk": "Аскер",
+				"zh": "阿斯克尔"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Aurskog-Høland",
+			"properties": {
+				"ar": "أورشكوغ-هولاند",
+				"bpy": "আউর্সকোগ-হোলেন্ড",
+				"et": "Aurskog-Hølandi_vald",
+				"fo": "Aurskog-Høland_kommuna",
+				"hu": "Aurskog-Høland_község",
+				"hy": "Էուրսքուգ-Հյելան",
+				"nds": "Kommun_Aurskog-Høland",
+				"nn": "Aurskog-Høland_kommune",
+				"ru": "Эурскуг-Хёланн",
+				"sv": "Aurskog-Hølands_kommun",
+				"zh": "艾于什庫格-赫蘭"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Bærum",
+			"properties": {
+				"ar": "باروم",
+				"az": "Berum",
+				"bpy": "বায়েরুম",
+				"el": "Μπέρουμ",
+				"et": "Bærumi_vald",
+				"fa": "بروم،_نروژ",
+				"hu": "Bærum_község",
+				"hy": "Բերում",
+				"ja": "バールム",
+				"ko": "베룸",
+				"lt": "Berumas",
+				"nds": "Kommun_Bærum",
+				"nn": "Bærum_kommune",
+				"ru": "Берум",
+				"sv": "Bærums_kommun",
+				"zh": "貝魯姆"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Eidsvoll",
+			"properties": {
+				"ar": "أيدسفول",
+				"bpy": "ঈদসভোল",
+				"fa": "ایدسوول",
+				"hu": "Eidsvoll_község",
+				"hy": "Էյդսվոլ",
+				"is": "Eiðsvöllur",
+				"lt": "Eidsvolas",
+				"nds": "Kommun_Eidsvoll",
+				"nl": "Eidsvoll_(gemeente)",
+				"nn": "Eidsvoll_kommune",
+				"ru": "Эйдсволл_(коммуна)",
+				"sv": "Eidsvolls_kommun",
+				"zh": "埃兹伏尔"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Enebakk",
+			"properties": {
+				"ar": "إينيباك",
+				"bpy": "এনেবাক",
+				"hu": "Enebakk_község",
+				"nds": "Kommun_Enebakk",
+				"nn": "Enebakk_kommune",
+				"ru": "Энебакк",
+				"sv": "Enebakks_kommun",
+				"zh": "埃內巴克"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Fet",
+			"properties": {
+				"ar": "فيت",
+				"bpy": "ফেট",
+				"ca": "Fet_(municipi)",
+				"ce": "Фет",
+				"hu": "Fet_község",
+				"hy": "Ֆեթի_համայնք",
+				"it": "Fet_(Norvegia)",
+				"nds": "Kommun_Fet",
+				"nn": "Fet_kommune",
+				"ru": "Фет_(коммуна)",
+				"sv": "Fets_kommun",
+				"zh": "費特_(挪威)"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Frogn",
+			"properties": {
+				"ar": "فروغن",
+				"bpy": "ফ্রোগন",
+				"hu": "Frogn_község",
+				"hy": "Ֆրոգն",
+				"ja": "フロン_(ノルウェー)",
+				"nds": "Kommun_Frogn",
+				"nn": "Frogn_kommune",
+				"ru": "Фрогн",
+				"sv": "Frogns_kommun",
+				"uk": "Фроґн",
+				"zh": "弗龍_(挪威)"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Gjerdrum",
+			"properties": {
+				"ar": "ياردروم",
+				"bpy": "জিজেরড্রাম",
+				"hu": "Gjerdrum_község",
+				"hy": "Գերդրում",
+				"nds": "Kommun_Gjerdrum",
+				"nn": "Gjerdrum_kommune",
+				"ru": "Еррум",
+				"sv": "Gjerdrums_kommun",
+				"zh": "耶爾呂姆"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Hurdal",
+			"properties": {
+				"ar": "هوردال",
+				"bpy": "হুরডাল",
+				"hu": "Hurdal_község",
+				"hy": "Հուրդալ",
+				"nds": "Kommun_Hurdal",
+				"nn": "Hurdal_kommune",
+				"ru": "Хурдал",
+				"sv": "Hurdals_kommun",
+				"zh": "許達爾"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Lørenskog",
+			"properties": {
+				"ar": "لورينسكوغ",
+				"bpy": "লোরেন্সকোগ",
+				"fa": "لورنسکوگ",
+				"hu": "Lørenskog_község",
+				"hy": "Լյորենսկուգ",
+				"ko": "뢰렌스코그",
+				"nds": "Kommun_Lørenskog",
+				"nn": "Lørenskog_kommune",
+				"ru": "Лёренскуг",
+				"sv": "Lørenskogs_kommun",
+				"zh": "勒倫斯科格"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Nannestad",
+			"properties": {
+				"ar": "نانستاد",
+				"bpy": "নান্নেস্টেড",
+				"hu": "Nannestad_község",
+				"hy": "Նանենսթադ",
+				"nds": "Kommun_Nannestad",
+				"nn": "Nannestad_kommune",
+				"ru": "Наннестад",
+				"sv": "Nannestads_kommun",
+				"zh": "南內斯塔"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Nes",
+			"properties": {
+				"ar": "نيس،_آكرشوس",
+				"bar": "Nes,_Akershus",
+				"bpy": "নেস",
+				"ca": "Nes_(Akershus)",
+				"ceb": "Nes,_Akershus",
+				"da": "Nes_(Akershus)",
+				"de": "Nes_(Akershus)",
+				"eu": "Nes_(Akershus)",
+				"fi": "Nes_(Akershus)",
+				"fr": "Nes_(Akershus)",
+				"gl": "Nes,_Akershus",
+				"hy": "Նես_(Ակերսհուս)",
+				"it": "Nes_(Akershus)",
+				"jv": "Nes,_Akershus",
+				"li": "Nes_(Akershus)",
+				"ms": "Nes,_Akershus",
+				"nds": "Kommun_Nes_(Akershus)",
+				"nl": "Nes_(Akershus)",
+				"nn": "Nes_kommune_i_Akershus",
+				"no": "Nes_(Akershus)",
+				"pl": "Nes_(Akershus)",
+				"pt": "Nes_(Akershus)",
+				"ro": "Nes,_Akershus",
+				"ru": "Нес_(Акерсхус)",
+				"se": "Nes_(Akershus)",
+				"sl": "Nes,_Akershus",
+				"sv": "Nes_kommun,_Akershus",
+				"szl": "Nes_(Akershus)",
+				"vi": "Nes,_Akershus",
+				"war": "Nes,_Akershus",
+				"zh": "內斯_(阿克什胡斯郡)"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Nesodden",
+			"properties": {
+				"ar": "نيسودن",
+				"bpy": "নেসোডেন",
+				"hu": "Nesodden_község",
+				"hy": "Նեսոդեն",
+				"nds": "Kommun_Nesodden",
+				"nn": "Nesodden_kommune",
+				"ru": "Несодден",
+				"sv": "Nesoddens_kommun",
+				"zh": "內索登"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Nittedal",
+			"properties": {
+				"ar": "نيتيدال",
+				"bpy": "নিট্টেডাল",
+				"hy": "Նիթեդալ",
+				"nds": "Kommun_Nittedal",
+				"nn": "Nittedal_kommune",
+				"ru": "Ниттедал",
+				"sv": "Nittedals_kommun",
+				"zh": "尼特達爾"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Oppegård",
+			"properties": {
+				"ar": "أوباغور",
+				"bpy": "ওপেগার্ড",
+				"hy": "Օփեգոր",
+				"ko": "오페고르",
+				"nds": "Kommun_Oppegård",
+				"nl": "Oppegård_(Akershus)",
+				"nn": "Oppegård_kommune",
+				"ru": "Оппегор",
+				"sv": "Oppegårds_kommun",
+				"zh": "奧普佩戈爾"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Rælingen",
+			"properties": {
+				"ar": "رالينغن",
+				"bpy": "রায়েলিনজেন",
+				"hy": "Ռելինգեն_(Նորվեգիա)",
+				"nds": "Kommun_Rælingen",
+				"nn": "Rælingen_kommune",
+				"ru": "Релинген_(Норвегия)",
+				"sv": "Rælingens_kommun",
+				"zh": "雷靈恩"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Skedsmo",
+			"properties": {
+				"ar": "سكيدسمو",
+				"bpy": "স্কিডসমো",
+				"ko": "셰즈모",
+				"nds": "Kommun_Skedsmo",
+				"nn": "Skedsmo_kommune",
+				"ru": "Шедсму",
+				"sv": "Skedsmo_kommun",
+				"zh": "謝斯莫"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Ski",
+			"properties": {
+				"ar": "شي",
+				"bg": "Ши",
+				"bpy": "স্কি,_নরৱে",
+				"ceb": "Ski,_Norway",
+				"da": "Ski_kommune",
+				"de": "Ski_(Norwegen)",
+				"eu": "Ski_(Norvegia)",
+				"fa": "شی_(نروژ)",
+				"fi": "Ski_(Norja)",
+				"fr": "Ski_(Akershus)",
+				"hy": "Շի_(կոմունա)",
+				"jv": "Ski,_Norway",
+				"ko": "시_(노르웨이)",
+				"li": "Ski_(Nórwaeg)",
+				"lt": "Ši",
+				"ms": "Ski,_Norway",
+				"nds": "Kommun_Ski",
+				"nl": "Ski_(Akershus)",
+				"nn": "Ski_kommune",
+				"no": "Ski_(Akershus)",
+				"ro": "Ski_(Norvegia)",
+				"ru": "Ши_(коммуна)",
+				"sl": "Ski,_Norveška",
+				"sr": "Ши_(Акерсхус)",
+				"sv": "Ski_kommun",
+				"vi": "Ski_(Na_Uy)",
+				"war": "Ski,_Norway",
+				"zh": "希_(挪威)"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Sørum",
+			"properties": {
+				"ar": "سوروم",
+				"bpy": "সারুম",
+				"hy": "Սյորում",
+				"nds": "Kommun_Sørum",
+				"nn": "Sørum_kommune",
+				"ru": "Сёрум",
+				"sv": "Sørums_kommun",
+				"zh": "瑟呂姆"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Ullensaker",
+			"properties": {
+				"ar": "أولنساكر",
+				"bpy": "উলেনসাকের",
+				"hy": "Ուլենսաքեր",
+				"nds": "Kommun_Ullensaker",
+				"nn": "Ullensaker_kommune",
+				"ru": "Улленсакер",
+				"sv": "Ullensakers_kommun",
+				"zh": "於爾倫薩克爾"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Vestby",
+			"properties": {
+				"ar": "فيستبي",
+				"bpy": "বেস্টবাই",
+				"hy": "Վեսթբյու",
+				"nds": "Kommun_Vestby",
+				"nl": "Vestby_(gemeente)",
+				"nn": "Vestby_kommune",
+				"ru": "Вестбю",
+				"sv": "Vestby_kommun",
+				"zh": "韋斯特比"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Ås",
+			"properties": {
+				"ar": "آوس",
+				"bg": "Ос_(град)",
+				"bpy": "অস",
+				"ca": "Ås_(Akershus)",
+				"da": "Ås_(Norge)",
+				"de": "Ås_(Kommune)",
+				"fi": "Ås_(Norja)",
+				"hy": "Օս_(կոմունա)",
+				"id": "Ås,_Akershus",
+				"li": "Ås_(Nórwaeg)",
+				"nds": "Kommun_Ås",
+				"nl": "Ås_(gemeente)",
+				"nn": "Ås_kommune",
+				"no": "Ås_(Akershus)",
+				"pt": "Ås_(Noruega)",
+				"ru": "Ос_(коммуна)",
+				"sv": "Ås_kommun",
+				"zh": "奧斯_(挪威)"
+			}
+		}
+	]
+}

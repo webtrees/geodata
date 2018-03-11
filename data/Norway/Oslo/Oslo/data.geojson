@@ -1,0 +1,194 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"id": "Alna",
+			"properties": {
+				"bar": "Alna_(Oslo)",
+				"de": "Alna_(Oslo)",
+				"es": "Alna_(Oslo)",
+				"et": "Alna_linnaosa",
+				"fa": "النا",
+				"nn": "Oslobydelen_Alna",
+				"no": "Bydel_Alna",
+				"pl": "Bydel_Alna",
+				"zh": "阿爾納_(奧斯陸)"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Bjerke",
+			"properties": {
+				"bar": "Bjerke_(Oslo)",
+				"de": "Bjerke_(Oslo)",
+				"et": "Bjerke_linnaosa",
+				"no": "Bydel_Bjerke",
+				"zh": "比耶克"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Frogner",
+			"properties": {
+				"et": "Frogneri_linnaosa",
+				"nl": "Frogner_(Oslo)",
+				"no": "Bydel_Frogner",
+				"zh": "弗朗納"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Gamle Oslo",
+			"properties": {
+				"bar": "Gamle_Oslo",
+				"ca": "Gamle_Oslo",
+				"da": "Gamle_Oslo",
+				"de": "Gamle_Oslo",
+				"es": "Gamle_Oslo",
+				"et": "Gamle_Oslo_linnaosa",
+				"fr": "Gamle_Oslo",
+				"it": "Gamle_Oslo",
+				"nl": "Gamle_Oslo",
+				"nn": "Bydel_Gamle_Oslo",
+				"no": "Bydel_Gamle_Oslo",
+				"ru": "Гамле-Осло",
+				"sv": "Gamle_Oslo",
+				"uk": "Гамле_Осло",
+				"zh": "舊奧斯陸"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Grorud",
+			"properties": {
+				"et": "Grorudi_linnaosa",
+				"no": "Bydel_Grorud",
+				"zh": "格魯德"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Grünerløkka",
+			"properties": {
+				"et": "Grünerløkka_linnaosa",
+				"no": "Bydel_Grünerløkka",
+				"pl": "Grünerløkka_(dzielnica)",
+				"zh": "葛魯尼洛卡"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Nordre Aker",
+			"properties": {
+				"bar": "Nordre_Aker",
+				"da": "Nordre_Aker",
+				"de": "Nordre_Aker",
+				"et": "Nordre_Akeri_linnaosa",
+				"fr": "Nordre_Aker",
+				"nn": "Bydel_Nordre_Aker",
+				"no": "Bydel_Nordre_Aker",
+				"zh": "諾德阿克爾"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Nordstrand",
+			"properties": {
+				"bar": "Nordstrand_(Oslo)",
+				"ca": "Nordstrand_(Oslo)",
+				"da": "Nordstrand_(Oslo)",
+				"de": "Nordstrand_(Oslo)",
+				"et": "Nordstrandi_linnaosa",
+				"fr": "Nordstrand_(Oslo)",
+				"no": "Bydel_Nordstrand",
+				"pl": "Dzielnica_Nordstrand",
+				"sv": "Nordstrand,_Oslo",
+				"zh": "北海灘"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Sagene",
+			"properties": {
+				"et": "Sagene_linnaosa",
+				"fr": "Sagene_(quartier)",
+				"ur": "سگنے",
+				"zh": "薩格奈"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "St. Hanshaugen",
+			"properties": {
+				"bar": "St._Hanshaugen",
+				"da": "St._Hanshaugen",
+				"de": "St._Hanshaugen",
+				"es": "St._Hanshaugen",
+				"et": "St._Hanshaugeni_linnaosa",
+				"fr": "St._Hanshaugen",
+				"nn": "Bydel_St._Hanshaugen",
+				"no": "Bydel_St._Hanshaugen",
+				"sv": "St._Hanshaugen",
+				"zh": "聖漢薩根"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Stovner",
+			"properties": {
+				"et": "Stovneri_linnaosa",
+				"no": "Bydel_Stovner",
+				"zh": "斯托夫奈"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Søndre Nordstrand",
+			"properties": {
+				"bar": "Søndre_Nordstrand",
+				"da": "Søndre_Nordstrand",
+				"de": "Søndre_Nordstrand",
+				"et": "Søndre_Nordstrandi_linnaosa",
+				"fr": "Søndre_Nordstrand",
+				"nn": "Søndre_Nordstrand",
+				"no": "Bydel_Søndre_Nordstrand",
+				"zh": "松德諾德斯特蘭"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Ullern",
+			"properties": {
+				"et": "Ullerni_linnaosa",
+				"no": "Bydel_Ullern",
+				"zh": "烏勒恩"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Vestre Aker",
+			"properties": {
+				"ar": "فستره_آكر",
+				"bar": "Vestre_Aker",
+				"da": "Vestre_Aker",
+				"de": "Vestre_Aker",
+				"et": "Vestre_Akeri_linnaosa",
+				"fr": "Vestre_Aker",
+				"nl": "Vestre_Aker",
+				"no": "Bydel_Vestre_Aker",
+				"uk": "Вестре_Акер",
+				"zh": "韋斯特阿克爾"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Østensjø",
+			"properties": {
+				"et": "Østensjø_linnaosa",
+				"no": "Bydel_Østensjø",
+				"zh": "奧斯坦約"
+			}
+		}
+	]
+}

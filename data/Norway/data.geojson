@@ -466,6 +466,41 @@
 				"ur": "ویست-آگدیر",
 				"zh": "西阿格德尔郡"
 			}
+		},
+		{
+			"type": "Feature",
+			"id": "Vestfold",
+			"properties": {
+				"ar": "فستفولد",
+				"bat-smg": "Vestfuolds",
+				"be": "Вестфал",
+				"be-x-old": "Вэстфол",
+				"bg": "Вестфол",
+				"bpy": "বেস্টফোল্ড",
+				"ceb": "Vestfold_fylke",
+				"fa": "وستفولد",
+				"fi": "Vestfoldin_lääni",
+				"fo": "Vestfold_fylki",
+				"fr": "Comté_de_Vestfold",
+				"hu": "Vestfold_megye",
+				"ja": "ヴェストフォル県",
+				"ka": "ვესტფოლდი",
+				"ko": "베스트폴_주",
+				"la": "Fold_occidentalis",
+				"lt": "Vestfoldas",
+				"mk": "Вестфол",
+				"nds": "Amt_Vestfold",
+				"nn": "Vestfold_fylke",
+				"os": "Вестфолл",
+				"pnb": "ویسٹفولڈ",
+				"ru": "Вестфолл",
+				"se": "Vestfolda_fylka",
+				"sr": "Вестфолд",
+				"sv": "Vestfold_fylke",
+				"uk": "Вестфолл",
+				"ur": "ویستفول",
+				"zh": "西福尔郡"
+			}
 		}
 	]
 }

@@ -1,0 +1,302 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"id": "Andebu",
+			"properties": {
+				"bpy": "আন্ডেবু",
+				"es": "Andebu_(municipio)",
+				"et": "Andebu_vald",
+				"fa": "اندبو",
+				"hy": "Անեբու",
+				"nds": "Kommun_Andebu",
+				"nl": "Andebu_(gemeente)",
+				"no": "Andebu_(tidligere_kommune)",
+				"ru": "Аннебу",
+				"sv": "Andebu_kommun",
+				"zh": "安德布"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Hof",
+			"properties": {
+				"bar": "Hof,_Norwegen",
+				"ca": "Hof_(Noruega)",
+				"ceb": "Hof,_Vestfold",
+				"da": "Hof_(Vestfold)",
+				"de": "Hof_(Norwegen)",
+				"eo": "Hof_(Vestfold)",
+				"es": "Hof_(Vestfold)",
+				"eu": "Hof_(Vestfold)",
+				"fi": "Hof_(Norja)",
+				"fr": "Hof_(Norvège)",
+				"it": "Hof_(Norvegia)",
+				"la": "Hof_(Norvegia)",
+				"li": "Hof_(Nórwaeg)",
+				"ms": "Hof,_Vestfold",
+				"nds": "Kommun_Hof",
+				"nl": "Hof_(Vestfold)",
+				"pl": "Hof_(Norwegia)",
+				"pt": "Hof_(Vestfold)",
+				"ro": "Hof_(Norvegia)",
+				"ru": "Хуф_(Вестфолл)",
+				"sq": "Hof_(Norvegjia)",
+				"sv": "Hofs_kommun",
+				"vi": "Hof,_Vestfold",
+				"war": "Hof,_Vestfold",
+				"zh": "霍夫_(挪威)"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Holmestrand",
+			"properties": {
+				"bg": "Холместран",
+				"bpy": "হোলমস্ট্রান্ড",
+				"fa": "هولمستران",
+				"nds": "Kommun_Holmestrand",
+				"nl": "Holmestrand_(gemeente)",
+				"nn": "Holmestrand_kommune",
+				"ru": "Холместранн",
+				"sr": "Холместранд",
+				"sv": "Holmestrands_kommun",
+				"zh": "霍爾默斯特蘭"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Horten",
+			"properties": {
+				"ar": "هورتن",
+				"bg": "Хутен",
+				"bpy": "হোর্টেন",
+				"de": "Horten_(Norwegen)",
+				"eo": "Horten_(Vestfold)",
+				"fa": "هورتن",
+				"fr": "Horten_(Norvège)",
+				"ko": "호르텐",
+				"la": "Horten_(Norvegia)",
+				"lt": "Hortenas",
+				"nds": "Kommun_Horten",
+				"nl": "Horten_(Noorwegen)",
+				"nn": "Horten_kommune",
+				"ru": "Хортен",
+				"rue": "Гортен",
+				"sr": "Хортен",
+				"sv": "Hortens_kommun",
+				"zh": "霍尔滕"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Lardal",
+			"properties": {
+				"bpy": "লারডাল",
+				"nds": "Kommun_Lardal",
+				"ru": "Лардал",
+				"sv": "Lardals_kommun",
+				"zh": "拉爾達爾"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Larvik",
+			"properties": {
+				"ar": "لارفيك",
+				"be-x-old": "Лярвік",
+				"bg": "Ларвик",
+				"bpy": "লারভিক",
+				"ceb": "Larvik_(munisipyo)",
+				"et": "Larviki_vald",
+				"fa": "لارویک",
+				"hy": "Լարվիկ",
+				"ja": "ラルヴィク",
+				"ko": "라르비크",
+				"lt": "Larvikas",
+				"nds": "Kommun_Larvik",
+				"nl": "Larvik_(gemeente)",
+				"nn": "Larvik_kommune",
+				"ru": "Ларвик_(коммуна)",
+				"sr": "Ларвик",
+				"sv": "Larviks_kommun",
+				"uk": "Ларвік",
+				"zh": "拉尔维克"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Nøtterøy",
+			"properties": {
+				"bpy": "নাট্টেরায়",
+				"et": "Nøtterøy_vald",
+				"nds": "Kommun_Nøtterøy",
+				"no": "Nøtterøy_(kommune)",
+				"ru": "Нёттерёй",
+				"sv": "Nøtterøy_kommun",
+				"zh": "內特島"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Re",
+			"properties": {
+				"bg": "Ре_(община)",
+				"ca": "Re_(Noruega)",
+				"ceb": "Re,_Norway",
+				"da": "Re_(Vestfold)",
+				"de": "Re_(Norwegen)",
+				"eo": "Re_(Vestfold)",
+				"et": "Re_vald",
+				"eu": "Re_(Norvegia)",
+				"fi": "Re_(Norja)",
+				"fr": "Re_(Norvège)",
+				"it": "Re_(Norvegia)",
+				"la": "Re_(Norvegia)",
+				"li": "Re_(Nórwaeg)",
+				"ms": "Re,_Norway",
+				"nds": "Kommun_Re",
+				"nl": "Re_(Vestfold)",
+				"nn": "Re_kommune",
+				"pl": "Gmina_Re",
+				"pt": "Re_(Noruega)",
+				"ro": "Re_(Norvegia)",
+				"ru": "Ре_(коммуна)",
+				"sv": "Re_kommun",
+				"vi": "Re,_Na_Uy",
+				"war": "Re,_Norway",
+				"zh": "雷_(挪威)"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Sande",
+			"properties": {
+				"bar": "Sande_(Vestfold)",
+				"ca": "Sande_(Vestfold)",
+				"ceb": "Sande,_Vestfold",
+				"da": "Sande_(Vestfold)",
+				"de": "Sande_(Vestfold)",
+				"eo": "Sande_(Vestfold)",
+				"et": "Sande_vald_(Vestfold)",
+				"eu": "Sande_(Vestfold)",
+				"fi": "Sande_(Vestfold)",
+				"fr": "Sande_(Vestfold)",
+				"hy": "Սանե",
+				"it": "Sande_(Vestfold)",
+				"jv": "Sande,_Vestfold",
+				"la": "Sande_(Vestfold)",
+				"li": "Sande_(Vestfold)",
+				"ms": "Sande,_Vestfold",
+				"nds": "Kommun_Sande_(Vestfold)",
+				"nl": "Sande_(Vestfold)",
+				"nn": "Sande_kommune_i_Vestfold",
+				"no": "Sande_(Vestfold)",
+				"pt": "Sande_i_Vestfold",
+				"ro": "Sande,_Vestfold",
+				"ru": "Санне_(Вестфолл)",
+				"se": "Sande_(Vestfolda)",
+				"sq": "Sande_(Vestfold)",
+				"sv": "Sande_kommun,_Vestfold",
+				"vi": "Sande,_Vestfold",
+				"war": "Sande,_Vestfold",
+				"zh": "桑訥_(西福爾郡)"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Sandefjord",
+			"properties": {
+				"ar": "ساندفيورد",
+				"be-x-old": "Санэф’ёр",
+				"bg": "Санефьор",
+				"bpy": "সানডেফজর্ড",
+				"ceb": "Sandefjord_(munisipyo)",
+				"et": "Sandefjordi_vald",
+				"fa": "ساندف_یورد",
+				"fo": "Sandefjord_kommuna",
+				"ko": "사네피오르",
+				"lt": "Sandefjordas",
+				"nds": "Kommun_Sandefjord",
+				"nn": "Sandefjord_kommune",
+				"ru": "Саннефьорд",
+				"sr": "Сандефјорд",
+				"sv": "Sandefjords_kommun",
+				"uk": "Саннефіорд",
+				"zh": "桑讷菲尤尔"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Stokke",
+			"properties": {
+				"bpy": "স্টোক্কে",
+				"ceb": "Stokke_(munisipyo)",
+				"nds": "Kommun_Stokke",
+				"nl": "Stokke_(plaats)",
+				"no": "Stokke_(kommune)",
+				"ru": "Стокке",
+				"sv": "Stokke_kommun",
+				"zh": "斯托克_(挪威)"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Svelvik",
+			"properties": {
+				"bg": "Свелвик",
+				"bpy": "স্ভেলভিক",
+				"ceb": "Svelvik_(kapital_sa_munisipyo)",
+				"nds": "Kommun_Svelvik",
+				"nn": "Svelvik_kommune",
+				"ru": "Свельвик",
+				"sv": "Svelviks_kommun",
+				"zh": "斯韋爾維克"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Tjøme",
+			"properties": {
+				"bg": "Тьоме",
+				"bpy": "টজামে",
+				"ceb": "Tjøme_(munisipyo)",
+				"nds": "Kommun_Tjøme",
+				"nl": "Tjøme_(gemeente)",
+				"ru": "Хьёме",
+				"sv": "Tjøme_kommun",
+				"zh": "徹默島"
+			}
+		},
+		{
+			"type": "Feature",
+			"id": "Tønsberg",
+			"properties": {
+				"ar": "تونسبرغ",
+				"bat-smg": "Tiuonsbergs",
+				"be": "Цёнсберг",
+				"be-x-old": "Тэнсбэрг",
+				"bg": "Тьонсберг",
+				"bpy": "টানসবার্গ",
+				"el": "Τένσμπεργκ",
+				"fa": "تنسبرگ",
+				"hy": "Տյոնսբերգ",
+				"ja": "トンスベルグ",
+				"ko": "퇸스베르그",
+				"lt": "Tionsbergas",
+				"nds": "Kommun_Tønsberg",
+				"nn": "Tønsberg_kommune",
+				"os": "Тёнсберг",
+				"pnb": "ٹانسبرگ",
+				"ru": "Тёнсберг",
+				"sr": "Тенсберг",
+				"sv": "Tønsbergs_kommun",
+				"tr": "Tønsberg_(şehir)",
+				"uk": "Тенсберг",
+				"ur": "تونسبرگ",
+				"zh": "滕斯贝格"
+			}
+		}
+	]
+}

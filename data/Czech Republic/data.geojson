@@ -3,6 +3,7 @@
     "features": [
         {
             "id": "Central Bohemian",
+            "type": "Feature",
             "geometry": {
                 "type": "Point",
                 "coordinates": [14.53,50.00]
@@ -14,6 +15,7 @@
         },
         {
             "id": "Hradec Kralove",
+            "type": "Feature",
             "geometry": {
                 "type": "Point",
                 "coordinates": [15.83,50.21]
@@ -26,6 +28,7 @@
         },
         {
             "id": "Karlovy Vary",
+            "type": "Feature",
             "geometry": {
                 "type": "Point",
                 "coordinates": [12.97,50.23]
@@ -37,6 +40,7 @@
         },
         {
             "id": "Liberec",
+            "type": "Feature",
             "geometry": {
                 "type": "Point",
                 "coordinates": [15.00,50.71]
@@ -48,6 +52,7 @@
         },
         {
             "id": "Moravian-Silesian",
+            "type": "Feature",
             "geometry": {
                 "type": "Point",
                 "coordinates": [18.03,49.78]
@@ -59,6 +64,7 @@
         },
         {
             "id": "Olomouc",
+            "type": "Feature",
             "geometry": {
                 "type": "Point",
                 "coordinates": [17.11,49.72]
@@ -70,6 +76,7 @@
         },
         {
             "id": "Pardubice",
+            "type": "Feature",
             "geometry": {
                 "type": "Point",
                 "coordinates": [16.17,49.87]
@@ -81,6 +88,7 @@
         },
         {
             "id": "Plzen",
+            "type": "Feature",
             "geometry": {
                 "type": "Point",
                 "coordinates": [13.38,49.75]
@@ -93,6 +101,7 @@
         },
         {
             "id": "Prague",
+            "type": "Feature",
             "geometry": {
                 "type": "Point",
                 "coordinates": [14.42,50.08]
@@ -104,6 +113,7 @@
         },
         {
             "id": "South Bohemian",
+            "type": "Feature",
             "geometry": {
                 "type": "Point",
                 "coordinates": [14.67,49.08]
@@ -115,6 +125,7 @@
         },
         {
             "id": "South Moravian",
+            "type": "Feature",
             "geometry": {
                 "type": "Point",
                 "coordinates": [16.58,49.17]
@@ -126,6 +137,7 @@
         },
         {
             "id": "Usti nad Labem",
+            "type": "Feature",
             "geometry": {
                 "type": "Point",
                 "coordinates": [13.85,50.51]
@@ -138,6 +150,7 @@
         },
         {
             "id": "Vysocina",
+            "type": "Feature",
             "geometry": {
                 "type": "Point",
                 "coordinates": [15.66,49.59]
@@ -150,6 +163,7 @@
         },
         {
             "id": "Zlin",
+            "type": "Feature",
             "geometry": {
                 "type": "Point",
                 "coordinates": [17.74,49.22]

@@ -1,0 +1,178 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "Central Bohemian",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [14.53,50.00]
+            },
+            "properties": {
+                "cs": "Středočeský",
+                "pl": "Środkowoczeski"
+            }
+        },
+        {
+            "id": "Hradec Kralove",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [15.83,50.21]
+            },
+            "properties": {
+                "cs": "Královéhradecký",
+                "en": "Hradec Králové",
+                "pl": "Hradecki"
+            }
+        },
+        {
+            "id": "Karlovy Vary",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.97,50.23]
+            },
+            "properties": {
+                "cs": "Karlovarský",
+                "pl": "Karlowarski"
+            }
+        },
+        {
+            "id": "Liberec",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [15.00,50.71]
+            },
+            "properties": {
+                "cs": "Liberecký",
+                "pl": "Liberecki"
+            }
+        },
+        {
+            "id": "Moravian-Silesian",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [18.03,49.78]
+            },
+            "properties": {
+                "cs": "Moravskoslezský",
+                "pl": "Morawsko-śląski"
+            }
+        },
+        {
+            "id": "Olomouc",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [17.11,49.72]
+            },
+            "properties": {
+                "cs": "Olomoucký",
+                "pl": "Ołomuniecki"
+            }
+        },
+        {
+            "id": "Pardubice",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [16.17,49.87]
+            },
+            "properties": {
+                "cs": "Pardubický",
+                "pl": "Pardubicki"
+            }
+        },
+        {
+            "id": "Plzen",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [13.38,49.75]
+            },
+            "properties": {
+                "cs": "Plzeňský",
+                "en": "Plzeň",
+                "pl": "Pilzneński"
+            }
+        },
+        {
+            "id": "Prague",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [14.42,50.08]
+            },
+            "properties": {
+                "cs": "Hlavní město Praha",
+                "pl": "Praga"
+            }
+        },
+        {
+            "id": "South Bohemian",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [14.67,49.08]
+            },
+            "properties": {
+                "cs": "Jihočeský",
+                "pl": "Południowoczeski"
+            }
+        },
+        {
+            "id": "South Moravian",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [16.58,49.17]
+            },
+            "properties": {
+                "cs": "Jihomoravský",
+                "pl": "Południowomorawski"
+            }
+        },
+        {
+            "id": "Usti nad Labem",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [13.85,50.51]
+            },
+            "properties": {
+                "cs": "Ústecký",
+                "en": "Ústí nad Labem",
+                "pl": "Ustecki"
+            }
+        },
+        {
+            "id": "Vysocina",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [15.66,49.59]
+            },
+            "properties": {
+                "cs": "Vysočina",
+                "en": "Vysočina",
+                "pl": "Wysoczyna"
+            }
+        },
+        {
+            "id": "Zlin",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [17.74,49.22]
+            },
+            "properties": {
+                "cs": "Zlínský",
+                "en": "Zlín",
+                "pl": "Zliński"
+            }
+        }
+    ]
+}

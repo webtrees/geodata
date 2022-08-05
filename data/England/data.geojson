@@ -11,6 +11,15 @@
             "properties": []
         },
         {
+            "id": "Berkshire",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
             "id": "Buckinghamshire",
             "type": "Feature",
             "geometry": {
@@ -137,6 +146,15 @@
             "properties": []
         },
         {
+            "id": "Herefordshire",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
             "id": "Hertfordshire",
             "type": "Feature",
             "geometry": {
@@ -237,6 +255,15 @@
         },
         {
             "id": "Nottinghamshire",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
+            "id": "Oxfordshire",
             "type": "Feature",
             "geometry": {
                 "type": "Point",

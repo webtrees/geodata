@@ -11,6 +11,15 @@
             "properties": []
         },
         {
+            "id": "Caernarfonshire",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [0,0]
+            },
+            "properties": []
+        },
+        {
             "id": "Flintshire",
             "type": "Feature",
             "geometry": {

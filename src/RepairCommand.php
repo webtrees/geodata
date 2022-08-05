@@ -3,22 +3,27 @@
 namespace Webtrees\Geodata;
 
 use DomainException;
-use League\Flysystem\FileNotFoundException;
+use JsonException;
 use League\Flysystem\Filesystem;
+use League\Flysystem\FilesystemException;
+use League\Flysystem\FilesystemReader;
+use League\Flysystem\StorageAttributes;
 use Symfony\Component\Console\Input\InputInterface;
 use Symfony\Component\Console\Output\OutputInterface;
 
+use function basename;
+use function dirname;
 use function in_array;
-use function property_exists;
-use function str_replace;
+use function json_decode;
+use function preg_match;
+
+use function uasort;
+
+use const JSON_THROW_ON_ERROR;
 
 class RepairCommand extends AbstractBaseCommand
 {
-    /** @var InputInterface */
-    private $input;
-
-    /** @var OutputInterface */
-    private $output;
+    private OutputInterface $output;
 
     /**
      * Command details, options and arguments
@@ -36,33 +41,16 @@ class RepairCommand extends AbstractBaseCommand
     /**
      * Run the command
      *
-     * @param InputInterface $input
+     * @param InputInterface  $input
      * @param OutputInterface $output
      *
      * @return int
-     * @throws FileNotFoundException
+     * @throws FilesystemException
      */
     protected function execute(InputInterface $input, OutputInterface $output): int
     {
-        $this->input  = $input;
         $this->output = $output;
         $source       = $this->geographicDataFilesystem();
-
-        $objects = $source->listContents('/', true);
-
-        usort($objects, static function (array $x, array $y) {
-            return $x['dirname'] <=> $y['dirname'];
-        });
-
-        $folder_objects  = array_filter($objects, static function (array $x): bool {
-            return $x['type'] === 'dir';
-        });
-        $flag_objects    = array_filter($objects, static function (array $x): bool {
-            return $x['basename'] === 'flag.svg';
-        });
-        $geojson_objects = array_filter($objects, static function (array $x): bool {
-            return $x['basename'] === 'data.geojson';
-        });
 
         $this->output->writeln('Check for invalid characters in filenames');
         $this->invalidCharacters($source);
@@ -80,17 +68,16 @@ class RepairCommand extends AbstractBaseCommand
      * @param Filesystem $source
      *
      * @return void
+     * @throws FilesystemException
      */
     private function invalidCharacters(Filesystem $source): void
     {
-        $objects = $source->listContents('/', true);
+        $bad_filenames = $source->listContents('/', FilesystemReader::LIST_DEEP)
+            ->filter(static fn (StorageAttributes $attributes): bool => preg_match("/^[A-Za-z ().'-]+\$/", basename($attributes->path())) !== 1)
+            ->map(static fn (StorageAttributes $attributes): string => $attributes->path());
 
-        $child_objects = array_filter($objects, static function (array $x): bool {
-            return preg_match("/^[A-Za-z ().'-]+\$/", $x['basename']) !== 1;
-        });
-
-        foreach ($child_objects as $child_object) {
-            $this->output->writeln($child_object['path'] . ' is not written using ASCII characters');
+        foreach ($bad_filenames as $bad_filename) {
+            $this->output->writeln($bad_filename . ' is not written using ASCII characters');
         }
     }
 
@@ -101,35 +88,34 @@ class RepairCommand extends AbstractBaseCommand
      * @param Filesystem $source
      *
      * @return void
-     * @throws FileNotFoundException
+     * @throws FilesystemException
      */
     private function missingGeojson(Filesystem $source): void
     {
-        $objects = $source->listContents('/', true);
+        $folders = $source->listContents('/', true)
+            ->filter(static fn (StorageAttributes $attributes): bool => $attributes->isDir())
+            ->map(static fn (StorageAttributes $attributes): string => $attributes->path());
 
-        $child_objects = array_filter($objects, static function (array $x): bool {
-            return $x['basename'] === 'data.geojson' || $x['basename'] === 'flag.svg';
-        });
-
-        foreach ($child_objects as $child_object) {
-            $parent_directory = dirname($child_object['dirname']);
-            $parent_name      = basename($child_object['dirname']);
+        foreach ($folders as $folder) {
+            $parent_directory = dirname($folder);
+            $parent_name      = basename($folder);
 
             // The top-level doesn't have a parent
-            if ($parent_name === '') {
+            if ($folder === '') {
                 continue;
             }
 
             $geojson_file = $parent_directory . '/data.geojson';
 
             if ($source->has($geojson_file)) {
-                $geojson = json_decode($source->read($geojson_file));
+                try {
+                    $geojson = json_decode($source->read($geojson_file), false, 512, JSON_THROW_ON_ERROR);
+                } catch (JsonException $ex) {
+                    $this->output->writeln($geojson_file . ': ' . $ex->getMessage());
+                    continue;
+                }
             } else {
                 $geojson = $this->emptyGeoJsonObject();
-            }
-
-            if (!is_object($geojson)) {
-                var_dump($geojson_file, $geojson);exit;
             }
 
             if (!$this->featuresInclude($geojson->features, $parent_name)) {
@@ -138,7 +124,7 @@ class RepairCommand extends AbstractBaseCommand
                     'id'   => $parent_name,
                 ];
 
-                $source->put($geojson_file, $this->formatGeoJson($geojson));
+                $source->write($geojson_file, $this->formatGeoJson($geojson));
             }
         }
     }
@@ -149,25 +135,23 @@ class RepairCommand extends AbstractBaseCommand
      * @param Filesystem $filesystem
      *
      * @return void
-     * @throws FileNotFoundException
+     * @throws FilesystemException
      */
     private function canonicalGeojson(Filesystem $filesystem): void
     {
-        $objects = $filesystem->listContents('/', true);
+        $geojson_objects = $filesystem->listContents('/', true)
+            ->filter(static fn (StorageAttributes $attributes): bool => basename($attributes->path()) === 'data.geojson')
+            ->map(static fn (StorageAttributes $attributes): string => $attributes->path());
 
-        $geojson_objects = array_filter($objects, static function (array $x): bool {
-            return $x['basename'] === 'data.geojson';
-        });
-
-        foreach ($geojson_objects as $geojson_object) {
-            $path = $geojson_object['path'];
+        foreach ($geojson_objects as $path) {
             $raw  = $filesystem->read($path);
             //$raw  = preg_replace('/,\n\s*}/', '}', $raw);
 
-            $geojson = json_decode($raw, false);
-
-            if ($geojson === null) {
-                var_dump(json_last_error());exit;
+            try {
+                $geojson = json_decode($raw, false, 512, JSON_THROW_ON_ERROR);
+            } catch (JsonException $ex) {
+                $this->output->writeln($geojson_object . ': ' . $ex->getMessage());
+                continue;
             }
 
             // Type
@@ -213,7 +197,9 @@ class RepairCommand extends AbstractBaseCommand
                 ];
             }
 
-            $filesystem->put($path, $this->formatGeoJson($geojson));
+            uasort($geojson->features, static fn (object $x, object $y): int => $x->id <=> $y->id);
+
+            $filesystem->write($path, $this->formatGeoJson($geojson));
         }
     }
 }

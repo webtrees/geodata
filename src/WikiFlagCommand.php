@@ -5,20 +5,19 @@ namespace Webtrees\Geodata;
 use DOMNode;
 use DomXPath;
 use GuzzleHttp\Client;
-use League\Flysystem\FileExistsException;
+use GuzzleHttp\Exception\GuzzleException;
 use Masterminds\HTML5;
 use Symfony\Component\Console\Input\InputArgument;
 use Symfony\Component\Console\Input\InputDefinition;
 use Symfony\Component\Console\Input\InputInterface;
 use Symfony\Component\Console\Output\OutputInterface;
 
+use function preg_match;
+use function strlen;
+
 class WikiFlagCommand extends AbstractBaseCommand
 {
-    /** @var InputInterface */
-    private $input;
-
-    /** @var OutputInterface */
-    private $output;
+    private OutputInterface $output;
 
     /**
      * Command details, options and arguments
@@ -50,15 +49,14 @@ class WikiFlagCommand extends AbstractBaseCommand
     /**
      * Run the command
      *
-     * @param InputInterface $input
+     * @param InputInterface  $input
      * @param OutputInterface $output
      *
      * @return int
-     * @throws FileExistsException
+     * @throws GuzzleException
      */
     protected function execute(InputInterface $input, OutputInterface $output): int
     {
-        $this->input  = $input;
         $this->output = $output;
 
         $place = $input->getArgument('place');
@@ -68,7 +66,7 @@ class WikiFlagCommand extends AbstractBaseCommand
         if (!preg_match('|^https://commons.wikimedia.org/wiki/File:.+.svg$|', $url)) {
             $this->output->writeln('URL must be of the form https://commons.wikimedia.org/wiki/File:XXXXX.svg');
 
-            return self::ERROR;
+            return self::FAILURE;
         }
 
         // Fetch and parse the page from wikimedia
@@ -102,11 +100,17 @@ class WikiFlagCommand extends AbstractBaseCommand
         $this->output->writeln('File URL: ' . $file_url);
 
         $svg = $this->download($file_url);
-        $source->put($place . '/flag.svg', $svg);
+        $source->write($place . '/flag.svg', $svg);
 
         return self::SUCCESS;
     }
 
+    /**
+     * @param string $url
+     *
+     * @return string
+     * @throws GuzzleException
+     */
     private function download(string $url): string {
         $client = new Client();
         $result = $client->request('GET', $url);

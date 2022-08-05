@@ -4,22 +4,33 @@ namespace Webtrees\Geodata;
 
 use Intervention\Image\Exception\NotReadableException;
 use Intervention\Image\ImageManager;
-use League\Flysystem\FileExistsException;
-use League\Flysystem\FileNotFoundException;
+use JsonException;
 use League\Flysystem\Filesystem;
+use League\Flysystem\FilesystemException;
+use League\Flysystem\FilesystemReader;
+use League\Flysystem\StorageAttributes;
+use League\Flysystem\ZipArchive\FilesystemZipArchiveProvider;
 use League\Flysystem\ZipArchive\ZipArchiveAdapter;
 use Symfony\Component\Console\Input\InputDefinition;
 use Symfony\Component\Console\Input\InputInterface;
 use Symfony\Component\Console\Input\InputOption;
 use Symfony\Component\Console\Output\OutputInterface;
 
+use function abs;
+use function array_filter;
+use function basename;
+use function dirname;
+use function file_exists;
+use function json_decode;
+use function str_starts_with;
+use function unlink;
+use function usort;
+
+use const JSON_THROW_ON_ERROR;
+
 class ExportCommand extends AbstractBaseCommand
 {
-    /** @var InputInterface */
-    private $input;
-
-    /** @var OutputInterface */
-    private $output;
+    private OutputInterface $output;
 
     /**
      * Command details, options and arguments
@@ -59,10 +70,10 @@ class ExportCommand extends AbstractBaseCommand
      * @param OutputInterface $output
      *
      * @return int
+     * @throws FilesystemException|JsonException
      */
     protected function execute(InputInterface $input, OutputInterface $output): int
     {
-        $this->input  = $input;
         $this->output = $output;
         $language     = $input->getoption('language');
         $prefix       = $input->getoption('prefix');
@@ -71,7 +82,7 @@ class ExportCommand extends AbstractBaseCommand
 
         $this->exportData($source, $destination, $language, $prefix);
 
-        return self::ERROR;
+        return self::FAILURE;
     }
 
     /**
@@ -89,7 +100,7 @@ class ExportCommand extends AbstractBaseCommand
             unlink($mountpoint);
         }
 
-        $adapter = new ZipArchiveAdapter($mountpoint);
+        $adapter = new ZipArchiveAdapter(new FilesystemZipArchiveProvider($mountpoint));
 
         return new Filesystem($adapter);
     }
@@ -99,83 +110,57 @@ class ExportCommand extends AbstractBaseCommand
      *
      * @param Filesystem $source
      * @param Filesystem $destination
-     * @param string $language
-     * @param string $prefix
+     * @param string     $language
+     * @param string     $prefix
      *
-     * @throws FileExistsException
-     * @throws FileNotFoundException
+     * @throws FilesystemException
+     * @throws JsonException
      * @void
      */
     private function exportData(Filesystem $source, Filesystem $destination, string $language, string $prefix): void
     {
-        $objects = $source->listContents('/', true);
+        $objects = $source->listContents('/', FilesystemReader::LIST_DEEP)->map(static fn (StorageAttributes $attributes): string => $attributes->path())->toArray();
+        usort($objects, static fn (string $x, string $y): int => dirname($x) <=> dirname($y));
 
-        usort($objects, static function (array $x, array $y) {
-            return $x['dirname'] <=> $y['dirname'];
-        });
-
-        $folder_objects  = array_filter($objects, static function (array $x): bool {
-            return $x['type'] === 'dir';
-        });
-        $flag_objects    = array_filter($objects, static function (array $x): bool {
-            return $x['basename'] === 'flag.svg';
-        });
-        $geojson_objects = array_filter($objects, static function (array $x): bool {
-            return $x['basename'] === 'data.geojson';
-        });
+        $flag_files    = array_filter($objects, static fn (string $x): bool => basename($x) === 'flag.svg' && str_starts_with($x, $prefix));
+        $geojson_files = array_filter($objects, static fn (string $x): bool => basename($x) === 'data.geojson');
 
         $translations = [];
 
-        foreach ($geojson_objects as $geojson_object) {
-            $geojson = json_decode($source->read($geojson_object['path']), false);
+        foreach ($geojson_files as $geojson_file) {
+            $this->output->writeln('Processing ' . $geojson_file);
 
-            if (!empty($geojson->features)) {
-                $parent = $geojson_object['dirname'];
+            $geojson = json_decode($source->read($geojson_file), false, 512, JSON_THROW_ON_ERROR);
 
-                if ($parent === '') {
-                    $translated_parent = '';
-                } else {
-                    $translated_parent = $translations[$parent] . '/';
-                    $parent            .= '/';
-                }
+            $parent = dirname($geojson_file);
 
-                foreach ($geojson->features as $feature) {
-                    $translations[$parent . $feature->id] = $translated_parent . ($feature->properties->$language ?? $feature->id);
-                }
+            if ($parent === '.') {
+                $translated_parent = '';
+                $parent = '';
+            } else {
+                $translated_parent = $translations[$parent] . '/';
+                $parent            .= '/';
+            }
+
+            foreach ($geojson->features as $feature) {
+                $translations[$parent . $feature->id] = $translated_parent . ($feature->properties->$language ?? $feature->id);
             }
         }
 
-        foreach ($flag_objects as $flag_object) {
-            if ($this->isPrefix($flag_object, $prefix)) {
-                $file = $translations[$flag_object['dirname']] . '.png';
-                $svg  = $source->read($flag_object['path']);
+        foreach ($flag_files as $flag_file) {
+            $file = $translations[dirname($flag_file)] . '.png';
+            $svg  = $source->read($flag_file);
 
-                try {
-                    $png = $this->createPngFromImage($svg, 25, 15);
-                    $destination->write('places/flags/' . $file, $png);
-                } catch (NotReadableException $ex) {
-                    $this->output->writeln('Failed to create flag for ' . $flag_object['path']);
-                    $this->output->writeln($ex->getMessage());
-                }
+            try {
+                $this->output->writeln('Creating ' . $file);
+                $png = $this->createPngFromImage($svg, 25, 15);
+                $destination->write('places/flags/' . $file, $png);
+                $this->output->writeln('Created ' . $file);
+            } catch (NotReadableException $ex) {
+                $this->output->writeln('Failed to create flag for ' . $flag_file);
+                $this->output->writeln($ex->getMessage());
             }
         }
-    }
-
-    /**
-     * Does a filename match a prefix
-     *
-     * @param array  $object
-     * @param string $prefix
-     *
-     * @return bool
-     */
-    private function isPrefix(array $object, string $prefix): bool
-    {
-        if ($prefix === '') {
-            return true;
-        }
-
-        return strpos($object['path'], $prefix . '/') === 0;
     }
 
     /**
@@ -196,7 +181,7 @@ class ExportCommand extends AbstractBaseCommand
             ->fit($width, $height)
             ->resizeCanvas($width, $height);
 
-        $png = (string)$image->encode('png');
+        $png = (string) $image->encode('png');
 
         $image->destroy();
 

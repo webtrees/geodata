@@ -2,6 +2,7 @@
 
 namespace Webtrees\Geodata;
 
+use JsonException;
 use Symfony\Component\Console\Input\InputArgument;
 use Symfony\Component\Console\Input\InputDefinition;
 use Symfony\Component\Console\Input\InputInterface;
@@ -10,11 +11,7 @@ use Symfony\Component\Console\Output\OutputInterface;
 
 class ImportCommand extends AbstractBaseCommand
 {
-    /** @var InputInterface */
-    private $input;
-
-    /** @var OutputInterface */
-    private $output;
+    private OutputInterface $output;
 
     /**
      * Command details, options and arguments
@@ -50,10 +47,10 @@ class ImportCommand extends AbstractBaseCommand
      * @param OutputInterface $output
      *
      * @return int
+     * @throws JsonException
      */
     protected function execute(InputInterface $input, OutputInterface $output): int
     {
-        $this->input  = $input;
         $this->output = $output;
 
         $delimiter    = $input->getoption('delimiter');
@@ -67,7 +64,7 @@ class ImportCommand extends AbstractBaseCommand
             if (!is_readable($file)) {
                 $output->writeln('Cannot open ' . $file);
 
-                return self::ERROR;
+                return self::FAILURE;
             }
 
             $output->writeln('');
@@ -146,6 +143,7 @@ class ImportCommand extends AbstractBaseCommand
      * @param float    $latitude
      *
      * @return void
+     * @throws JsonException
      */
     private function importCsvLine(array $place_parts, float $longitude, float $latitude): void
     {
@@ -153,7 +151,7 @@ class ImportCommand extends AbstractBaseCommand
         $place = array_slice($place_parts, -1)[0];
 
         if (is_file($file)) {
-            $geojson = json_decode(file_get_contents($file), false);
+            $geojson = json_decode(file_get_contents($file), false, 512, JSON_THROW_ON_ERROR);
         } else {
             $this->output->writeln('Creating ' . $file);
             $geojson = $this->emptyGeoJsonObject();

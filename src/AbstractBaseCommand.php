@@ -2,22 +2,17 @@
 
 namespace Webtrees\Geodata;
 
-use League\Flysystem\Adapter\Local;
 use League\Flysystem\Filesystem;
+use League\Flysystem\Local\LocalFilesystemAdapter;
 use stdClass;
 use Symfony\Component\Console\Command\Command;
 
+use const JSON_THROW_ON_ERROR;
+
 abstract class AbstractBaseCommand extends Command
 {
-    // Exit codes.
-    protected const SUCCESS = 0;
-    protected const ERROR   = 1;
-
     // Initial format for geojson files.
-    protected const JSON_OPTIONS = JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE | JSON_NUMERIC_CHECK;
-
-    // Folder names, and IDs must consist of these ASCII characters.
-    protected const ID_REGEX = '/^[a-zA-Z() .!\'-]+$/';
+    protected const JSON_OPTIONS = JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE | JSON_NUMERIC_CHECK | JSON_THROW_ON_ERROR;
 
     /**
      * We store geographic data from this filesystem.
@@ -27,7 +22,7 @@ abstract class AbstractBaseCommand extends Command
     protected function geographicDataFilesystem(): Filesystem
     {
         $mountpoint = dirname(__DIR__) . '/data';
-        $adapter    = new Local($mountpoint);
+        $adapter    = new LocalFilesystemAdapter($mountpoint);
 
         return new Filesystem($adapter);
     }
@@ -71,13 +66,11 @@ abstract class AbstractBaseCommand extends Command
         $geojson_fmt = json_encode($geojson, self::JSON_OPTIONS);
 
         // Store co-ordinates on one line, for easier human readability.
-        $geojson_fmt = preg_replace(
-            '/"coordinates": \[\s*([-0-9.]+),\s*([-0-9.]+)\s*]/',
+        return preg_replace(
+            '/"coordinates": \[\s*([-\d.]+),\s*([-\d.]+)\s*]/',
             '"coordinates": [$1,$2]',
             $geojson_fmt
         );
-
-        return $geojson_fmt;
     }
 
     /**

@@ -2,20 +2,21 @@
 
 namespace Webtrees\Geodata;
 
-use League\Flysystem\FileExistsException;
-use League\Flysystem\FileNotFoundException;
+use League\Flysystem\FilesystemException;
 use Symfony\Component\Console\Input\InputArgument;
 use Symfony\Component\Console\Input\InputDefinition;
 use Symfony\Component\Console\Input\InputInterface;
 use Symfony\Component\Console\Output\OutputInterface;
 
+use function basename;
+use function dirname;
+use function json_decode;
+
+use const JSON_THROW_ON_ERROR;
+
 class TranslateCommand extends AbstractBaseCommand
 {
-    /** @var InputInterface */
-    private $input;
-
-    /** @var OutputInterface */
-    private $output;
+    private OutputInterface $output;
 
     /**
      * Command details, options and arguments
@@ -56,12 +57,10 @@ class TranslateCommand extends AbstractBaseCommand
      * @param OutputInterface $output
      *
      * @return int
-     * @throws FileExistsException
-     * @throws FileNotFoundException
+     * @throws FilesystemException
      */
     protected function execute(InputInterface $input, OutputInterface $output): int
     {
-        $this->input  = $input;
         $this->output = $output;
 
         $place       = $input->getArgument('place');
@@ -70,7 +69,7 @@ class TranslateCommand extends AbstractBaseCommand
         $source      = $this->geographicDataFilesystem();
         $file        = dirname($place) . '/data.geojson';
         $placename   = basename($place);
-        $geojson     = json_decode($source->read($file), false);
+        $geojson     = json_decode($source->read($file), false, 512, JSON_THROW_ON_ERROR);
 
         foreach ($geojson->features as $feature) {
             if ($feature->id === $placename) {

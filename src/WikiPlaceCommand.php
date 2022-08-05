@@ -4,21 +4,27 @@ namespace Webtrees\Geodata;
 
 use DomXPath;
 use GuzzleHttp\Client;
-use League\Flysystem\FileExistsException;
-use League\Flysystem\FileNotFoundException;
+use GuzzleHttp\Exception\GuzzleException;
+use JsonException;
+use League\Flysystem\FilesystemException;
 use Masterminds\HTML5;
 use Symfony\Component\Console\Input\InputArgument;
 use Symfony\Component\Console\Input\InputDefinition;
 use Symfony\Component\Console\Input\InputInterface;
 use Symfony\Component\Console\Output\OutputInterface;
 
+use function basename;
+use function dirname;
+use function json_decode;
+use function preg_match;
+use function rawurldecode;
+use function strlen;
+
+use const JSON_THROW_ON_ERROR;
+
 class WikiPlaceCommand extends AbstractBaseCommand
 {
-    /** @var InputInterface */
-    private $input;
-
-    /** @var OutputInterface */
-    private $output;
+    private OutputInterface $output;
 
     /**
      * Command details, options and arguments
@@ -50,16 +56,16 @@ class WikiPlaceCommand extends AbstractBaseCommand
     /**
      * Run the command
      *
-     * @param InputInterface $input
+     * @param InputInterface  $input
      * @param OutputInterface $output
      *
      * @return int
-     * @throws FileExistsException
-     * @throws FileNotFoundException
+     * @throws FilesystemException
+     * @throws GuzzleException
+     * @throws JsonException
      */
     protected function execute(InputInterface $input, OutputInterface $output): int
     {
-        $this->input  = $input;
         $this->output = $output;
 
         $place    = $input->getArgument('place');
@@ -79,7 +85,7 @@ class WikiPlaceCommand extends AbstractBaseCommand
 
 
         $placename   = basename($place);
-        $geojson     = json_decode($source->read($file));
+        $geojson     = json_decode($source->read($file), false, 512, JSON_THROW_ON_ERROR);
 
         // Make sure this feature exists.
         if (!$this->featuresInclude($geojson->features, $placename)) {
@@ -116,7 +122,7 @@ class WikiPlaceCommand extends AbstractBaseCommand
                             $feature->properties = $feature->properties ?? (object) [];
                             $feature->properties->$language = $translation;
                             $this->output->writeln('Setting ' . $language . '/' . $placename . ' to ' . $translation);
-                            $source->put($file, $this->formatGeoJson($geojson));
+                            $source->write($file, $this->formatGeoJson($geojson));
                             break;
                         }
                     }
@@ -127,6 +133,12 @@ class WikiPlaceCommand extends AbstractBaseCommand
         return self::SUCCESS;
     }
 
+    /**
+     * @param string $url
+     *
+     * @return string
+     * @throws GuzzleException
+     */
     private function download(string $url): string {
         $client = new Client();
         $result = $client->request('GET', $url);

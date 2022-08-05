@@ -1,13 +1,13 @@
 {
     "require": {
-        "php": "~7.4",
+        "php": "8.0 - 8.1",
         "ext-dom": "*",
         "ext-json": "*",
-        "symfony/console": "~5.0",
-        "league/flysystem": "~1.0",
-        "league/flysystem-ziparchive": "~1.0",
-        "intervention/image": "~2.5",
-        "guzzlehttp/guzzle": "~6.5",
+        "symfony/console": "~6.1",
+        "league/flysystem": "~3.2",
+        "league/flysystem-ziparchive": "~3.2",
+        "intervention/image": "~2.7",
+        "guzzlehttp/guzzle": "~7.4",
         "masterminds/html5": "~2.7"
     },
     "autoload": {
